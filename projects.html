@@ -1,0 +1,26 @@
+---
+layout: page
+title: projects
+permalink: /projects/
+author: Fabrizio
+menu: yes
+menu_order: 1
+---
+
+<ul class="projects-list">
+  {% for post in site.posts %}
+    {% for cat in post.categories %}
+    {% if cat == 'projects' %}
+    <li class="project">
+
+<!-- <img src="{{ post.featured_image }}" alt="" /> -->
+      <h1>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h1>
+      <h2>{{ post.excerpt }}</h2>
+
+    </li>
+    {% endif %}
+    {% endfor %}
+  {% endfor %}
+</ul>
