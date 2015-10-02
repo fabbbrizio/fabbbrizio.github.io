@@ -94,7 +94,7 @@ body.with-full-bg {
   //background-image: url('/images/sfondo.colori.gif');
   color: #393030;
 font-size: 21px;
-margin-top: -4%;
+margin-top: 4%;
   background-size: cover;
 
   background: -webkit-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(rgb(160, 167, 163)), color-stop(0.5, rgb(190, 172, 181)), to(rgb(182, 195, 207)));
@@ -122,7 +122,7 @@ background-color: initial;
   body.with-full-bg {
   font-size: 17px;
   line-height: 24px;
-  margin-top: -20%;
+  margin-top: 0%;
 
     }
 }
@@ -231,12 +231,14 @@ color: #E74C3C, darken (25%);
     color: #393030;
     //letter-spacing: 15px;
      //text-transform: uppercase;
-    text-decoration: underline;
+    //text-decoration: underline;
+    border-bottom: 2.25px solid black;
     background-color: transparent;
     border-bottom-width: 2px;
 
     &:hover {
         color: darken(#393030, 70%);
+        border-bottom: 2.25px solid #393030;
     //    letter-spacing: 15px;
     //     text-transform: uppercase;;
       text-decoration: none;
