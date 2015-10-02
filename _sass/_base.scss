@@ -93,7 +93,7 @@ body.with-full-bg {
   //background-image: url('/images/stellone.gif');
   //background-image: url('/images/sfondo.colori.gif');
   color: #393030;
-font-size: 21px;
+font-size: 32px;
 margin-top: -4%;
   background-size: cover;
 
@@ -120,8 +120,8 @@ background-color: initial;
 
 @include media-query($on-palm) {
   body.with-full-bg {
-  font-size: 17px;
-  line-height: 21px;
+  font-size: 22px;
+  line-height: 36px;
   margin-top: -20%;
 
     }
@@ -236,8 +236,8 @@ color: #E74C3C, darken (25%);
     border-bottom-width: 2px;
 
     &:hover {
-        color: darken(#393030, 45%);
-        letter-spacing: -2px;
+        color: darken(#393030, 70%);
+        letter-spacing: 15px;
          text-transform: uppercase;;
       text-decoration: none;
 
