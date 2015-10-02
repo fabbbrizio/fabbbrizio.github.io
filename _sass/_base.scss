@@ -94,12 +94,9 @@ body.with-full-bg {
   //background-image: url('/images/sfondo.colori.gif');
 font-size: 16px;
   background-size: cover;
-  background: -webkit-linear-gradient(90deg, #7b4397 10%, #dc2430 90%); /* Chrome 10+, Saf5.1+ */
-    background:    -moz-linear-gradient(90deg, #7b4397 10%, #dc2430 90%); /* FF3.6+ */
-    background:     -ms-linear-gradient(90deg, #7b4397 10%, #dc2430 90%); /* IE10 */
-    background:      -o-linear-gradient(90deg, #7b4397 10%, #dc2430 90%); /* Opera 11.10+ */
-    background:         linear-gradient(90deg, #7b4397 10%, #dc2430 90%); /* W3C */
+
   //background-color: #F0F0F0;
+  background: -webkit-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(rgb(160, 167, 163)), color-stop(0.5, rgb(190, 172, 181)), to(rgb(182, 195, 207)));
   background-repeat: repeat;
   line-height:1.4;
 }
