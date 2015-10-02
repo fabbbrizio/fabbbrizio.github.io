@@ -49,32 +49,12 @@
 }
 
 .with-full-bg .site-title {
-  color:black;
-  font-size: 21px;
-  font-weight: $font-weight-bold;
-  line-height: 67px;
-  letter-spacing: none;
-  margin-top: none;
-  margin-bottom: none;
-  float: left;
-  text-transform: none;
-  display: block;
-
-  border-bottom-style: none;
-
+  &,
   &:visited {
-    color: black;
+      color: black;
   }
 
-  &:hover {
-
-      color: #E74C3C;
-      background-color: transparent;
-
-  }
-  }
-
-
+}
 
 .site-nav {
 
