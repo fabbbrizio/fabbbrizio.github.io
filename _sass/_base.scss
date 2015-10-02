@@ -94,20 +94,8 @@ body.with-full-bg {
 //  background-image: url('/images/terra.jpg');
   background-size: cover;
   .cssgradients {
-    background-color: webkit-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(rgb(160, 167, 163)), color-stop(0.5, rgb(190, 172, 181)), to(rgb(182, 195, 207)));
-    background-image: webkit-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(rgb(160, 167, 163)), color-stop(0.5, rgb(190, 172, 181)), to(rgb(182, 195, 207)));
-    background-position-x: initial;
-    background-position-y: initial;
-    background-size: initial;
-    background-repeat-x: initial;
-    background-repeat-y: initial;
-    background-attachment: initial;
-    background-origin: initial;
-    background-clip: initial;
-    background-color: initial;
-}
-  background-repeat: repeat;
-  line-height:1.4;
+    background-color: -webkit-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(rgb(160, 167, 163)), color-stop(0.5, rgb(190, 172, 181)), to(rgb(182, 195, 207)));
+  }
 }
 
 
