@@ -230,7 +230,7 @@ color: #E74C3C, darken (25%);
 .with-full-bg a {
     color: #393030;
     letter-spacing: 20px;
-     text-transform: capitalize;
+     text-transform: uppercase;;
     text-decoration: none;
     background-color: transparent;
     border-bottom-width: 2px;
@@ -238,7 +238,7 @@ color: #E74C3C, darken (25%);
     &:hover {
         color: darken(#393030, 45%);
         letter-spacing: 25px;
-         text-transform: capitalize;
+         text-transform: uppercase;;
       text-decoration: none;
 
     }
