@@ -9,7 +9,7 @@ menu_order: 2
 
 #About
 <br>
-I am an Interaction designer, creating content and solutions for the web. I design wireframe, mockup, prototype of interfaces for desktop, tablet and mobile.
+I am an Interaction and Visual designer, creating content and solutions for the web. I design wireframe, mockup, prototype of interfaces for desktop, tablet and mobile.
 <br>
 <br>
 Graduated in April 2014, from Master in Visual and Multimedia Communication at Faculty of Design and Arts – University of Venice – and alumnus of the Iuav IxD program, run by Gillian Crampton Smith and Philip Tabor.
