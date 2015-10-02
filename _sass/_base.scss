@@ -92,6 +92,7 @@ body.with-full-bg {
   /*background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');*/
   //background-image: url('/images/stellone.gif');
   //background-image: url('/images/sfondo.colori.gif');
+  color: #393030;
 font-size: 32px;
 margin-top: -4%;
   background-size: cover;
@@ -227,14 +228,15 @@ color: #E74C3C, darken (25%);
 
 
 .with-full-bg a {
-    color: #E74C3C;
-    text-decoration: none;
+    //color: #E74C3C;
+    text-decoration: underline;
     background-color: transparent;
     border-bottom-width: 2px;
 
     &:hover {
         color: darken(#E74C3C, 25%);
       text-decoration: none;
+
 
 
     }
