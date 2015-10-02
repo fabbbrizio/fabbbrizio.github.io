@@ -229,14 +229,16 @@ color: #E74C3C, darken (25%);
 
 .with-full-bg a {
     color: #393030;
-    letter-spacing: 10px;
+    letter-spacing: 20px;
+     text-transform: capitalize;
     text-decoration: none;
     background-color: transparent;
     border-bottom-width: 2px;
 
     &:hover {
         color: darken(#393030, 45%);
-        letter-spacing: 15px;
+        letter-spacing: 25px;
+         text-transform: capitalize;
       text-decoration: none;
 
     }
