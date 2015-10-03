@@ -98,7 +98,7 @@ display: inline-block;
     }
 
     @include media-query($on-palm) {
-        position: relative;
+        position: inline;
         top: 0px;
         right: 30px;
         //background-color: $background-color;
