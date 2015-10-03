@@ -10,7 +10,7 @@ $base-font-family1: 'Lato', sans-serif;
 //$base-font-family2: 'EratoLig', sans-serif;
 //$base-font-family: 'Exo', sans-serif;
 //$base-font-family: 'Merriweather', sans-serif;
-$base-font-size:   16px;
+$base-font-size:   21px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 $base-line-height: 3.5;
@@ -100,7 +100,7 @@ body.with-full-bg {
   //background-image: url('/images/sfondo.colori.gif');
   color: white;
 font-size: 46px;
-margin-top: 30px;
+margin-top: 38px;
   background-size: cover;
 
   background: -webkit-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(rgb(160, 167, 163)), color-stop(0.5, rgb(190, 172, 181)), to(rgb(182, 195, 207)));
