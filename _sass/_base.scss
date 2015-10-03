@@ -244,6 +244,8 @@ color: #E74C3C, darken (25%);
 
     &:hover {
         color: darken(#393030, 70%);
+        border-bottom: none;
+
     //    letter-spacing: 15px;
     //     text-transform: uppercase;;
       text-decoration: none;
