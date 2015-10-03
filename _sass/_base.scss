@@ -99,7 +99,7 @@ body.with-full-bg {
   //background-image: url('/images/stellone.gif');
   //background-image: url('/images/sfondo.colori.gif');
   color: white;
-font-size: 21px;
+font-size: 46px;
 margin-top: 4%;
   background-size: cover;
 
@@ -126,7 +126,7 @@ background-color: initial;
 
 @include media-query($on-palm) {
   body.with-full-bg {
-  font-size: 17px;
+  font-size: 26px;
   line-height: 24px;
   margin-top: 0%;
 
