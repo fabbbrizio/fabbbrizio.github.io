@@ -238,7 +238,7 @@ color: #E74C3C, darken (25%);
     //letter-spacing: 15px;
      //text-transform: uppercase;
     //text-decoration: underline;
-    border-bottom: 1px solid black;
+    border-bottom: solid black;
     background-color: transparent;
     border-bottom-width: 2px;
 
@@ -250,6 +250,9 @@ color: #E74C3C, darken (25%);
     //     text-transform: uppercase;;
       text-decoration: none;
 
+      &::selection {
+          background-color: #393030;
+          color: #ECF0F1;
     }
 }
 
