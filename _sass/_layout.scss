@@ -81,6 +81,7 @@ display: inline;
     .page-link {
         color: black;
         background-color: transparent;
+        font-size: 16px;
 
         // Gaps between nav items, but not on the first one
       &:not(:first-child) {
@@ -401,7 +402,7 @@ display: inline;
     margin-bottom: 30px;
 
     h2 {
-        font-size: 32px;
+        font-size: 21px;
 
         @include media-query($on-laptop) {
             font-size: 28px;
