@@ -25,7 +25,7 @@ $font-weight-ultra-bold: 900;
 $spacing-unit:     10px;
 
 $text-color:       #111;
-$background-color: #F0F0F0;
+$background-color: #d8d8d8;
 $brand-color:      rgb(0, 0, 0);
 
 
@@ -73,7 +73,8 @@ body {
     font-weight: 400;
     //color: $text-color;
     color: black;
-    background-color: #F0F0F0;
+ background-color: #D8D8D8;
+
     -webkit-text-size-adjust: 100%;
     -webkit-font-smoothing: antialiased;
     font-smoothing: antialiased;
@@ -127,8 +128,8 @@ background-color: initial;
 @include media-query($on-palm) {
   body.with-full-bg {
 
-  font-size: 21px;
-  line-height: 30px;
+  font-size: 33px;
+  line-height: 44px;
   margin-top: 0%;
 
     }
