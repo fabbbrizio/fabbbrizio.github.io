@@ -18,4 +18,4 @@ Graduated in April 2014, from Master in Visual and Multimedia Communication at F
 I am 1/3 of [Iperstudio design collective→](http://www.iperstudio.net/ "Iperstudio website")
 <br>
 <br>
-For collaborative inquiries, please contact me via <a href="mailto:fabrizio.goglia@gmail.com">email</a>.
+For collaborative inquiries, please contact me via <a href="mailto:info@fabriziogoglia@.com">email</a>.
