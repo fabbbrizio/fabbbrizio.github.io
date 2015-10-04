@@ -137,6 +137,17 @@ a {
     border-bottom: none;
     text-decoration: none; }
 
+@media screen and (max-width: 600px) {
+  .with-full-bg a {
+    color: white;
+    -webkit-filter: blur(0px);
+    transition-duration: 1.3s;
+    background-color: transparent;
+    border-bottom-width: 1px; }
+    .with-full-bg a:hover {
+      -webkit-filter: blur(5px);
+      border-bottom: none;
+      text-decoration: none; } }
 ::selection {
   background-color: #E74C3C;
   color: #ECF0F1; }

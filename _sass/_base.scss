@@ -126,12 +126,14 @@ background-color: initial;
 
 @include media-query($on-palm) {
   body.with-full-bg {
+
   font-size: 21px;
   line-height: 30px;
   margin-top: 0%;
 
     }
-}
+  }
+
 
 
 /**
@@ -263,6 +265,34 @@ transition-duration: 1.3s;
       text-decoration: none;
 
     }
+}
+@include media-query($on-palm) {
+.with-full-bg a {
+color: white;
+//letter-spacing: 15px;
+//text-transform: uppercase;
+//text-decoration: underline;
+//border-bottom: solid white;
+
+-webkit-filter: blur(0px);
+transition-duration: 1.3s;
+
+background-color: transparent;
+border-bottom-width: 1px;
+
+&:hover {
+
+    -webkit-filter: blur(5px);
+
+//  color: darken(white, 25%);
+  border-bottom: none;
+
+//    letter-spacing: 15px;
+//     text-transform: uppercase;;
+text-decoration: none;
+
+}
+}
 }
 
 ::selection {
