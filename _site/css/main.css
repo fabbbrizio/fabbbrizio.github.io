@@ -14,12 +14,12 @@ dl, dd, ol, ul, figure {
  */
 body {
   font-family: "Lekton", sans-serif;
-  font-size: 16px;
+  font-size: 21px;
   /*font-size: 100px; */
   line-height: 1.7;
   font-weight: 400;
   color: black;
-  background-color: #ECECEC;
+  background-color: #F0F0F0;
   -webkit-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
   font-smoothing: antialiased; }
@@ -30,14 +30,41 @@ p.small {
 p.big {
   line-height: 3.7; }
 
+hr {
+  border: 0;
+  color: black;
+  background-color: black;
+  height: 1px; }
+
 body.with-full-bg {
   /*background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');*/
-  background-image: url("/images/sfondo.colori.gif");
+  color: white;
+  font-size: 46px;
+  margin-top: 38px;
   background-size: cover;
-  background-color: gainsboro;
-  background-repeat: repeat;
-  line-height: 1.4; }
+  background: -webkit-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(#a0a7a3), color-stop(0.5, #beacb5), to(#b6c3cf));
+  background: -moz-linear-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(#a0a7a3), color-stop(0.5, #beacb5), to(#b6c3cf));
+  background: -ms-linear-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(#a0a7a3), color-stop(0.5, #beacb5), to(#b6c3cf));
+  background: -o-linear-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(#a0a7a3), color-stop(0.5, #beacb5), to(#b6c3cf));
+  background: linear-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(#a0a7a3), color-stop(0.5, #beacb5), to(#b6c3cf));
+  background-position-x: initial;
+  background-position-y: initial;
+  background-size: initial;
+  background-repeat-x: initial;
+  background-repeat-y: initial;
+  background-attachment: initial;
+  background-origin: initial;
+  background-clip: initial;
+  background-color: initial;
+  /*background-repeat: repeat;
+  line-height:1.4;
+  */ }
 
+@media screen and (max-width: 600px) {
+  body.with-full-bg {
+    font-size: 21px;
+    line-height: 30px;
+    margin-top: 0%; } }
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
@@ -60,7 +87,7 @@ figure > img {
   display: block; }
 
 figcaption {
-  font-size: 14px; }
+  font-size: 18.375px; }
 
 /**
  * Lists
@@ -100,12 +127,13 @@ a {
     border-bottom-color: none; }
 
 .with-full-bg a {
-  color: blue;
-  text-decoration: none;
+  color: white;
+  border-bottom: solid white;
   background-color: transparent;
-  border-bottom-width: 2px; }
+  border-bottom-width: 1px; }
   .with-full-bg a:hover {
-    color: navy;
+    color: #bfbfbf;
+    border-bottom: none;
     text-decoration: none; }
 
 ::selection {
@@ -164,7 +192,7 @@ pre {
       padding-left: 5px; } }
 
 .with-full-bg .wrapper {
-  height: 100vh; }
+  margin-top: 70px; }
 
 /**
  * Clearfix
@@ -225,7 +253,7 @@ button {
   color: black; }
 
 .site-nav {
-  display: inline-block;
+  display: inline;
   float: right;
   position: 0px;
   line-height: 71px; }
@@ -238,7 +266,8 @@ button {
     display: none; }
   .site-nav .page-link {
     color: black;
-    background-color: transparent; }
+    background-color: transparent;
+    font-size: 16px; }
     .site-nav .page-link:not(:first-child) {
       margin-left: none; }
     .site-nav .page-link:hover {
@@ -247,7 +276,7 @@ button {
       border-bottom: 0.1em solid #E74C3C; }
   @media screen and (max-width: 600px) {
     .site-nav {
-      position: relative;
+      position: inline;
       top: 0px;
       right: 30px;
       text-align: right; }
@@ -269,11 +298,11 @@ button {
       .site-nav:hover .trigger {
         display: block; }
       .site-nav .page-link {
-        display: block;
+        display: inline;
         padding: 5px 10px; } }
 
 .with-full-bg .site-nav .page-link {
-  color: #F4F4F4; }
+  color: #F0F0F0; }
 
 .button {
   -webkit-border-radius: 10;
@@ -315,9 +344,9 @@ button {
   -moz-border-radius: 10;
   border-radius: 0px;
   font-family: Lekton, sans-serif;
-  color: blue;
+  color: black;
   background: transparent;
-  border: solid blue 3px;
+  border: solid black 3px;
   font-size: 21px;
   padding: 10px 20px 10px 20px;
   text-transform: none;
@@ -435,7 +464,7 @@ button {
     margin-bottom: 10px; }
 
 .post-meta {
-  font-size: 14px;
+  font-size: 18.375px;
   color: #828282; }
 
 .post-link {
@@ -473,7 +502,7 @@ button {
 .post-content {
   margin-bottom: 30px; }
   .post-content h2 {
-    font-size: 32px; }
+    font-size: 21px; }
     @media screen and (max-width: 900px) {
       .post-content h2 {
         font-size: 28px; } }
