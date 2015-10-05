@@ -16,7 +16,7 @@ Traditional glass blowing techniques, historically linked to the island of Muran
 We define the structures of the visual identity of the project, sabotaging analogically the rigid grid system of the first-digital-designed logo, we arrived to have tens of logos. Conceptually could be thought as a similar procedure of the physical production of the artefacts (3D printed). They are generated from the same source code, but in the end – by reason of the automated process – they result to be unique, different from one another.
 <br>
 <br>
-<img src="http://payload399.cargocollective.com/1/10/325579/10282917/2_1600_c.jpg" alt="venice>>future tools">
+<img src="http://payload399.cargocollective.com/1/10/325579/10282917/2_1600_c.jpg" alt="venice-future tools">
 <br>
 <br>
 The production site became a lab where analogic and digital techniques are mixed. The resulting outcomes are been presented at VL2015.
@@ -31,8 +31,8 @@ The production site became a lab where analogic and digital techniques are mixed
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/3.6_960.jpg" alt="exhibition in Milan">
 <br>
 <br>
-<p><b>Web Articles</b>: <a href="http://www.theperfectjob.it/le-spettacolari-creazioni-del-collettivo-atu-mescolano-il-vetro-soffiato-muranese-e-la-ceramica-stampata-in-3d/" target="_blank">The perfect job</a>, <a href="http://nykyinen.com/venice-future-a-project-by-breaking-the-
-mould/" target="_blank">Nykyinen</a>, <a href="http://www.domusweb.it/content/domusweb/it/notizie/2015/04/30/subalterno1_venice_future.html" target="_blank">Domusweb</a>, <a href="http://www.artribune.com/2015/04/eppur-si-muove-le-nuove-facce-del-design-italiano/" target="_blank">Artribune</a>.</p>
+<b>Web Articles</b>: <a href="http://www.theperfectjob.it/le-spettacolari-creazioni-del-collettivo-atu-mescolano-il-vetro-soffiato-muranese-e-la-ceramica-stampata-in-3d/" target="_blank">The perfect job</a>, <a href="http://nykyinen.com/venice-future-a-project-by-breaking-the-
+mould/" target="_blank">Nykyinen</a>, <a href="http://www.domusweb.it/content/domusweb/it/notizie/2015/04/30/subalterno1_venice_future.html" target="_blank">Domusweb</a>, <a href="http://www.artribune.com/2015/04/eppur-si-muove-le-nuove-facce-del-design-italiano/" target="_blank">Artribune</a>.
 <b>Exhibitions</b>: Fuori Salone di Milano – May 2015; London Design Festival 2015 Tent London, September 2015.
 <br>
 <br>
