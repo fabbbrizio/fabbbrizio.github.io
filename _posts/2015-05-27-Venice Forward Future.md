@@ -27,6 +27,9 @@ The production site became a lab where analog and digital techniques are mixed. 
 <b>My task</b>: Design of the identity, design of the printed artefacts for the exposition (with Chiara Costantini and Luca Coppola), mockup of the project's website (developed by Federico Bovara).</b>
 <br>
 <br>
+<img src="/images/v>>f1.jpg"/>
+<br>
+<br>
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/3.6_960.jpg" alt="exhibition in Milan">
 <br>
 <br>
