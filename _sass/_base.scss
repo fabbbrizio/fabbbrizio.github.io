@@ -303,6 +303,12 @@ text-decoration: none;
     color: #ECF0F1;
 }
 
+.with-full-bg ::selection {
+
+  background-color: transparent;
+  color: #BDADB6;
+}
+
 /**
  * Blockquotes
  */
