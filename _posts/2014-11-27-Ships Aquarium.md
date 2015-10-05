@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Ships Aquarium"
-featured_image: /images/projects/ships-aquarium.jpg
-date:   2014-11-14 19:13:23
+title: "Ships Aquarium"
+#featured_image: /images/projects/ships-aquarium.jpg
+date: 2014-11-27 19:13:23
 categories: projects
 ---
 
