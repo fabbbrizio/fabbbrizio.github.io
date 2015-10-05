@@ -38,7 +38,7 @@ hr {
 
 body.with-full-bg {
   /*background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');*/
-  color: white;
+  color: #14141C;
   font-size: 46px;
   margin-top: 38px;
   background-size: cover;
@@ -127,7 +127,7 @@ a {
     border-bottom-color: none; }
 
 .with-full-bg a {
-  color: white;
+  color: #14141C;
   -webkit-filter: blur(4px);
   transition-duration: 1.3s;
   background-color: transparent;
@@ -139,8 +139,8 @@ a {
 
 @media screen and (max-width: 600px) {
   .with-full-bg a {
-    color: white;
-    border-bottom: solid white;
+    color: #14141C;
+    border-bottom: solid #14141C;
     border-bottom-width: 1px;
     -webkit-filter: blur(0px);
     transition-duration: 1.3s;
@@ -153,6 +153,10 @@ a {
 ::selection {
   background-color: #E74C3C;
   color: #ECF0F1; }
+
+.with-full-bg ::selection {
+  background-color: transparent;
+  color: #BDADB6; }
 
 /**
  * Blockquotes
