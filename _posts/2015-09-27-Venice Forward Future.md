@@ -11,7 +11,7 @@ Series of controlled tests run within the prestigious Muranese furnace Salviati.
 Traditional glass blowing techniques, historically linked to the island of Murano and dependent on the skills of its glass masters, is merge with ceramic 3D-printing, a much younger and more movable process to create identical objects.
 <br>
 <br>
-<iframe src="https://player.vimeo.com/video/125023947?color=10898f&title=0&byline=0&portrait=0" width="100%" height="553" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/125023947" width="100%" height="533" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <br>
 <br>
 We define the structures of the visual identity of the project, sabotaging analogically the rigid grid system of the first-digital-designed logo, we arrived to have tens of logos. Conceptually could be thought as a similar procedure of the physical production of the artefacts (3D printed). They are generated from the same source code, but in the end – by reason of the automated process – they result to be unique, different from one another.
