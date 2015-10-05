@@ -8,7 +8,7 @@ categories: projects
 Series of controlled tests run within the prestigious Muranese furnace Salviati.
 
 Traditional glass blowing techniques, historically linked to the island of Murano and dependent on the skills of its glass masters, is merge with ceramic 3D-printing, a much younger and more movable process to create identical objects.
-<br>
+
 <iframe src="https://player.vimeo.com/video/125023947" width="100%" height="533" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <br>
@@ -24,7 +24,7 @@ The production site became a lab where analog and digital techniques are mixed. 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/3.1_1250.jpg" alt="Artworks">
 <br>
 <br>
-<b>My task: Design of the identity, design of the printed artefacts for the exposition (with Chiara Costantini and Luca Coppola), mockup of the project's website (developed by Federico Bovara).</b>
+<b>My task</b>: Design of the identity, design of the printed artefacts for the exposition (with Chiara Costantini and Luca Coppola), mockup of the project's website (developed by Federico Bovara).</b>
 <br>
 <br>
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/3.6_960.jpg" alt="exhibition in Milan">
