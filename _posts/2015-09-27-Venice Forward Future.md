@@ -28,8 +28,6 @@ The production site became a lab where analogic and digital techniques are mixed
 *My task: Design of the identity, design of the printed artefacts for the exposition (with Chiara Costantini and Luca Coppola), mockup of the project's website (developed by Federico Bovara)*
 <br>
 <br>
-<img src="/images/projects/venice>>future/v>>f1.jpg" alt="image project">
-<br>
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/3.6_960.jpg" alt="exhibition in Milan">
 <br>
 <br>
