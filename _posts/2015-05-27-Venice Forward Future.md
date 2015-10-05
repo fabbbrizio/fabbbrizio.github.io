@@ -32,6 +32,7 @@ The production site became a lab where analog and digital techniques are mixed. 
 <br>
 <b>Web Articles</b>: <a href="http://www.theperfectjob.it/le-spettacolari-creazioni-del-collettivo-atu-mescolano-il-vetro-soffiato-muranese-e-la-ceramica-stampata-in-3d/" target="_blank">The perfect job</a>, <a href="http://nykyinen.com/venice-future-a-project-by-breaking-the-
 mould/" target="_blank">Nykyinen</a>, <a href="http://www.domusweb.it/content/domusweb/it/notizie/2015/04/30/subalterno1_venice_future.html" target="_blank">Domusweb</a>, <a href="http://www.artribune.com/2015/04/eppur-si-muove-le-nuove-facce-del-design-italiano/" target="_blank">Artribune</a>.
+
 <b>Exhibitions</b>: Fuori Salone di Milano – May 2015; London Design Festival 2015 Tent London, September 2015.
 <br>
 <b>Credits</b>: <a href="http://www.breaking-the-mould.com/en.php" target="_blank">BTM</a>, <a href="http://materiaterza.com/" target="_blank">Materiaterza</a>, <a href= "http://www.salviati.com/" target="_blank">Salviati</a>.
