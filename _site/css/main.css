@@ -241,7 +241,7 @@ button {
   min-height: 1px;
   background-color: transparent;
   position: relative;
-  border-bottom: 0.1em solid #E74C3C; }
+  border-bottom: 0.1em solid #FFFFFF; }
 
 .site-logo {
   width: 60px;
@@ -251,7 +251,7 @@ button {
 
 .site-title {
   color: black;
-  font-size: 21px;
+  font-size: 26px;
   font-weight: 700;
   line-height: 67px;
   letter-spacing: none;
@@ -267,6 +267,25 @@ button {
     color: #E74C3C;
     background-color: transparent; }
 
+@media screen and (max-width: 600px) {
+  .site-title {
+    color: black;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 67px;
+    letter-spacing: none;
+    margin-top: none;
+    margin-bottom: none;
+    margin-left: 7px;
+    float: left;
+    text-transform: none;
+    display: block;
+    border-bottom-style: none; }
+    .site-title, .site-title:visited {
+      color: black; }
+    .site-title:hover {
+      color: #E74C3C;
+      background-color: transparent; } }
 .with-full-bg .site-title, .with-full-bg .site-title:visited {
   color: black; }
 
@@ -317,7 +336,8 @@ button {
         display: block; }
       .site-nav .page-link {
         display: inline;
-        padding: 5px 10px; } }
+        padding: 5px 4px;
+        font-size: 16px; } }
 
 .with-full-bg .site-nav .page-link {
   color: #EFEFEF; }
@@ -406,9 +426,8 @@ button {
   position: relative;
   background-color: transparent;
   bottom: 0;
-  left: 0;
-  width: 100%;
-  border-bottom: 0.5em solid #E74C3C; }
+  left: 10px;
+  width: 100%; }
 
 /*
  .border-bottom {
@@ -425,7 +444,7 @@ button {
   margin-left: 0; }
 
 .footer-col-wrapper {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.4;
   color: #ECECEC;
   margin-left: -5px; }
@@ -457,6 +476,10 @@ button {
     width: -webkit-calc(100% - (10px / 2));
     width: calc(100% - (10px / 2)); } }
 @media screen and (max-width: 600px) {
+  .footer-col-wrapper {
+    font-size: 14px;
+    line-height: 1.4; }
+
   .footer-col {
     float: none;
     width: -webkit-calc(100% - (10px / 2));
@@ -635,11 +658,13 @@ color:white;
 
    align-self: flex-end;
     width: 100%;
-}
 
+}
 .color-red {
 background-color: #E74C3C;
+height: 10px;
 }
+
 .color-darkblue {
 background-color: #2C3E50;
 }
