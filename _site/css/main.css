@@ -128,7 +128,7 @@ a {
 
 .with-full-bg a {
   color: white;
-  -webkit-filter: blur(5px);
+  -webkit-filter: blur(4px);
   transition-duration: 1.3s;
   background-color: transparent;
   border-bottom-width: 1px; }
@@ -206,7 +206,7 @@ pre {
       padding-left: 5px; } }
 
 .with-full-bg .wrapper {
-  margin-top: 70px; }
+  margin-top: 40px; }
 
 /**
  * Clearfix
@@ -411,9 +411,6 @@ button {
    border-bottom: 0.5em solid #E74C3C;
  }
 */
-.with-full-bg .site-footer {
-  background-color: transparent; }
-
 .footer-heading {
   font-size: 18px;
   margin-bottom: 5px; }
@@ -461,10 +458,90 @@ button {
     width: -webkit-calc(100% - (10px / 2));
     width: calc(100% - (10px / 2)); } }
 /**
+ * footer with full bg
+
+
+
+.with-full-bg .site-footer {
+  background-color: transparent;
+  color:white;
+  background-color: transparent;
+  border-bottom: none;
+}
+
+.with-full-bg .footer-heading {
+      font-size: 16px;
+      margin-bottom: $spacing-unit / 2;
+  }
+
+.with-full-bg .contact-list,
+.with-full-bg .social-media-list {
+color:white;
+
+      list-style: none;
+      margin-left: 0;
+  }
+
+.with-full-bg .footer-col-wrapper {
+
+      font-size: 14px;
+      line-height: 1.4;
+      color: white;
+      margin-left: -$spacing-unit / 2;
+      @extend %clearfix;
+  }
+
+.with-full-bg .footer-col {
+      float: left;
+      margin-bottom: $spacing-unit / 2;
+      padding-left: $spacing-unit / 2;
+  }
+
+.with-full-bg .footer-col-1 {
+      width: -webkit-calc(75% - (10px / 2));
+      width:         calc(75% - (10px / 2));
+  }
+
+.with-full-bg .footer-col-2 {
+      width: -webkit-calc(12,5% - (10px / 2));
+      width:         calc(12,5% - (10px / 2));
+  }
+
+.with-full-bg .footer-col-3 {
+      width: -webkit-calc(12,5% - (10px / 2));
+      width:         calc(12,5% - (10px / 2));
+  }
+
+  @include media-query($on-laptop) {
+      .with-full-bg .footer-col-1,
+      .with-full-bg .footer-col-2 {
+          width: -webkit-calc(50% - (10px / 2));
+          width:         calc(50% - (10px / 2));
+      }
+}
+    .with-full-bg .footer-col-3 {
+          width: -webkit-calc(100% - (10px / 2));
+          width:         calc(100% - (10px / 2));
+      }
+
+
+  @include media-query($on-palm) {
+      .footer-col {
+          float: none;
+          width: -webkit-calc(100% - (10px / 2));
+          width:         calc(100% - (10px / 2));
+      }
+}
+
+*/
+/**
  * Page content
  */
 .page-content {
   padding: 10px 0 100px 0; }
+
+.with-full-bg .page-content {
+  padding: 1px 0 100px 0; }
 
 .page-heading {
   font-size: 16px; }

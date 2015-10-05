@@ -248,16 +248,14 @@ display: inline;
     border-bottom: 0.5em solid #E74C3C;
 }
 
+
+
 /*
  .border-bottom {
    border-bottom: 0.5em solid #E74C3C;
  }
 */
 
-.with-full-bg .site-footer {
-  background-color: transparent;
-
-}
 
 .footer-heading {
     font-size: 18px;
@@ -321,8 +319,83 @@ display: inline;
     }
 }
 
+/**
+ * footer with full bg
 
 
+
+.with-full-bg .site-footer {
+  background-color: transparent;
+  color:white;
+  background-color: transparent;
+  border-bottom: none;
+}
+
+.with-full-bg .footer-heading {
+      font-size: 16px;
+      margin-bottom: $spacing-unit / 2;
+  }
+
+.with-full-bg .contact-list,
+.with-full-bg .social-media-list {
+color:white;
+
+      list-style: none;
+      margin-left: 0;
+  }
+
+.with-full-bg .footer-col-wrapper {
+
+      font-size: 14px;
+      line-height: 1.4;
+      color: white;
+      margin-left: -$spacing-unit / 2;
+      @extend %clearfix;
+  }
+
+.with-full-bg .footer-col {
+      float: left;
+      margin-bottom: $spacing-unit / 2;
+      padding-left: $spacing-unit / 2;
+  }
+
+.with-full-bg .footer-col-1 {
+      width: -webkit-calc(75% - (#{$spacing-unit} / 2));
+      width:         calc(75% - (#{$spacing-unit} / 2));
+  }
+
+.with-full-bg .footer-col-2 {
+      width: -webkit-calc(12,5% - (#{$spacing-unit} / 2));
+      width:         calc(12,5% - (#{$spacing-unit} / 2));
+  }
+
+.with-full-bg .footer-col-3 {
+      width: -webkit-calc(12,5% - (#{$spacing-unit} / 2));
+      width:         calc(12,5% - (#{$spacing-unit} / 2));
+  }
+
+  @include media-query($on-laptop) {
+      .with-full-bg .footer-col-1,
+      .with-full-bg .footer-col-2 {
+          width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+          width:         calc(50% - (#{$spacing-unit} / 2));
+      }
+}
+    .with-full-bg .footer-col-3 {
+          width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+          width:         calc(100% - (#{$spacing-unit} / 2));
+      }
+
+
+  @include media-query($on-palm) {
+      .footer-col {
+          float: none;
+          width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+          width:         calc(100% - (#{$spacing-unit} / 2));
+      }
+}
+
+*/
 /**
  * Page content
  */
@@ -330,10 +403,12 @@ display: inline;
     //padding: $spacing-unit 0 $spacing-unit * 5 0;
     padding: 10px 0 100px 0;
 
-
+}
+.with-full-bg .page-content {
+    //padding: $spacing-unit 0 $spacing-unit * 5 0;
+    padding: 1px 0 100px 0;
 
 }
-
 .page-heading {
     font-size: 16px;
 }

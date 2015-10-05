@@ -125,6 +125,7 @@ background-color: initial;
   */
 }
 
+
 @include media-query($on-palm) {
   body.with-full-bg {
 
@@ -134,7 +135,6 @@ background-color: initial;
 
     }
   }
-
 
 
 /**
@@ -243,7 +243,7 @@ color: #E74C3C, darken (25%);
     //text-decoration: underline;
     //border-bottom: solid white;
 
-    -webkit-filter: blur(5px);
+    -webkit-filter: blur(4px);
 //      -webkit-transition: blur 3s linear 3s;
 //    -moz-transition: blur 3s linear 3s;
 //  -ms-transition: blur 3s linear 3s;
@@ -371,7 +371,7 @@ pre {
 
 
 .with-full-bg .wrapper {
-  margin-top: 70px;
+  margin-top: 40px;
 }
 
 /**
