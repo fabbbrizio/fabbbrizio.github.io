@@ -263,12 +263,17 @@ button {
   float: left;
   text-transform: none;
   display: block;
-  border-bottom-style: none; }
+  border-bottom-style: none;
+  transition-duration: 1.3s; }
   .site-title, .site-title:visited {
     color: black; }
   .site-title:hover {
     color: #E74C3C;
-    background-color: transparent; }
+    background-color: transparent;
+    -webkit-filter: blur(2px); }
+  .site-title:active {
+    color: black;
+    -webkit-filter: blur(4px); }
 
 @media screen and (max-width: 600px) {
   .site-title {
@@ -595,7 +600,8 @@ color:white;
   display: block;
   color: black;
   font-size: 74px;
-  line-height: 88px; }
+  line-height: 88px;
+  transition-duration: 1.2s; }
   .post-link:hover {
     color: #E74C3C;
     background-color: transparent; }

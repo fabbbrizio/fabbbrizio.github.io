@@ -35,6 +35,8 @@
 
     border-bottom-style: none;
 
+    transition-duration: 1.3s;
+
     &,
     &:visited {
       color: black;
@@ -44,8 +46,13 @@
 
         color: #E74C3C;
         background-color: transparent;
-
+        -webkit-filter: blur(2px);
     }
+&:active {
+  color: black;
+  -webkit-filter: blur(4px);
+}
+
 }
 
   @include media-query($on-palm) {
@@ -96,6 +103,8 @@ display: inline;
     line-height: 71px;
 
 
+
+
     &:visited {
       color: black;
     }
@@ -114,6 +123,7 @@ display: inline;
         color: black;
         background-color: transparent;
         font-size: 16px;
+
 
         // Gaps between nav items, but not on the first one
       &:not(:first-child) {
@@ -482,6 +492,8 @@ color:white;
     color: black;
     font-size: 74px;
     line-height: 88px;
+
+transition-duration: 1.2s;
 
     &:hover {
 
