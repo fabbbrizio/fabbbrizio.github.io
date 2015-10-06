@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Manifesto per la Cultura"
-#featured_image: /images/projects/
+featured_image: /images/projects/manifesto/sole.jpg
 date: 2014-11-14 19:13:23
 categories: projects
 ---
