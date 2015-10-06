@@ -44,7 +44,7 @@
 
     &:hover {
 
-        color: #E74C3C;
+        color: black;
         background-color: transparent;
         -webkit-filter: blur(2px);
     }
@@ -480,6 +480,7 @@ color:white;
      li {
         margin-bottom: $spacing-unit;
     }
+
 }
 
 .post-meta {
@@ -516,6 +517,7 @@ transition-duration: 1.2s;
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 2;
+
 
     @include media-query($on-laptop) {
         font-size: 36px;
@@ -575,12 +577,14 @@ background-position: 50% 50%;
 }
         //fine video
     }
+    
 }
 
 .project {
   float: left;
   width: 100%;
   margin: 40px 1.6666666667%;
+
 
 }
 

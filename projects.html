@@ -13,11 +13,15 @@ menu_order: 1
     {% if cat == 'projects' %}
     <li class="project">
 
-<img src="{{ post.featured_image }}" alt="" />
+<a href="{{ post.url }}">
+
+<img src="{{ post.featured_image }}" alt="" /> </a>
+
 
       <h1>
         <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
       </h1>
+    
       <p>{{ post.excerpt }}</p>
 
     </li>

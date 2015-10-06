@@ -79,9 +79,15 @@ ul, ol, dl, figure {
 img {
   max-width: 100%;
   vertical-align: middle;
-  border: 3px solid white;
   margin-top: 15px;
-  margin-bottom: 15px; }
+  margin-bottom: 15px;
+  /*
+  &:hover{
+  
+  -webkit-filter: blur(1.2px);
+  transition-duration: 1.3s;
+  }
+  */ }
 
 /**
  * Figures
@@ -268,7 +274,7 @@ button {
   .site-title, .site-title:visited {
     color: black; }
   .site-title:hover {
-    color: #E74C3C;
+    color: black;
     background-color: transparent;
     -webkit-filter: blur(2px); }
   .site-title:active {
