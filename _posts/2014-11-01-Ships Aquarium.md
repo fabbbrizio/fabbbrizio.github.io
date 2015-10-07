@@ -2,7 +2,7 @@
 layout: post
 title: "Ships Aquarium"
 featured_image: /images/projects/ships/ships_psy.jpg
-date: 2015-06-27 19:13:23
+date: 2014-11-01 19:13:23
 categories: projects
 ---
 

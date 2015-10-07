@@ -2,7 +2,7 @@
 layout: post
 title:  "Pioneer Plaque"
 featured_image: /images/projects/pioneer/plaque.jpg
-date:   1970-09-14 19:13:23
+date:   1972-09-14 19:13:23
 categories: projects
 ---
 
@@ -23,10 +23,13 @@ Through communication design we can overcome cultural and spatial borders, and w
 <img src="http://payload403.cargocollective.com/1/10/325579/10371245/BUONI_MOTIVI_finale2_1600_c.jpg" alt="Poster">
 <br>
 <br>
-Poster designed for <a href="http://20buonimotivi.tumblr.com/" target="_blank">20 good reasons to do visual design→ </a>workshop. The workshop project born to clarify the visual designer role and the importance of his operation in the social and cultural dynamics.
+Poster designed for <i><a href="http://20buonimotivi.tumblr.com/" target="_blank">20 good reasons to do visual design</a></i>workshop. The workshop project born to clarify the visual designer role and the importance of his operation in the social and cultural dynamics.
 <br>
 <br>
 <img src="http://payload403.cargocollective.com/1/10/325579/10371245/IUAV_poster_camplani_960.jpg" alt="Poster exhibition">
 <br>
 <br>
 <img src="http://payload403.cargocollective.com/1/10/325579/10371245/65302_390774517690240_952004821_n_960.jpg" alt="Poster exhibition">
+<br>
+<br>
+<a href="http://20buonimotivi.tumblr.com/" target="_blank" class="button">Explore project website</a>

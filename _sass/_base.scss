@@ -159,20 +159,22 @@ img {
     //background-color: white;
     margin-top: 15px;
     margin-bottom: 15px;
-
-
-
-.img a{
-
 }
-/*
-&:hover{
 
--webkit-filter: blur(1.2px);
+.projects-list img {
+  -webkit-filter: brightness(100%);
+  transition-duration: 1.3s;
+
+
+&:hover {
+
+-webkit-filter: brightness(110%);
 transition-duration: 1.3s;
+//-webkit-filter: blur(3px);
+
 }
-*/
 }
+
 
 /**
  * Figures

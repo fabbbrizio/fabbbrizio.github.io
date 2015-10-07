@@ -5,58 +5,9 @@
     <description>Interaction &amp; Visual Designer</description>
     <link>http://fabriziogoglia.com/http://fabriziogoglia.com//</link>
     <atom:link href="http://fabriziogoglia.com/http://fabriziogoglia.com//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 06 Oct 2015 23:24:20 +0200</pubDate>
-    <lastBuildDate>Tue, 06 Oct 2015 23:24:20 +0200</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2015 12:19:19 +0200</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2015 12:19:19 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
-    
-      <item>
-        <title>Keepsake</title>
-        <description>&lt;p&gt;&amp;lt;!–&lt;/p&gt;
-
-&lt;p&gt;Audiovisual interactive installation in an abandoned theatre.&lt;/p&gt;
-
-&lt;p&gt;The building, built in the 30’s in an hospital for children, is in front of the sea on Venice area.
-The installation aims to resurrect, in a fragmentary and meditative way, the sights and sounds of this places. Keepsake allows people to live a melancholic experience that, through sound and images, introduces them to the history of the theatre and its lived past.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;em&gt;My tasks: Concept, prototyping experimentation. Visual design of the archives photos, research on the sound connecting it to the photos by programming with Processing language&lt;/em&gt;.
-&lt;br /&gt;
-&lt;br /&gt;
-Project made with Claudia Miliziano, Fabio Nucatolo and Rita Petrilli.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://www.interaction-venice.net/iuav11-12lab2/projects/keepsake/&quot; target=&quot;_blank&quot; class=&quot;button&quot;&gt;Projects website&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 27 Sep 2015 00:00:00 +0200</pubDate>
-        <link>http://fabriziogoglia.com/http://fabriziogoglia.com//2015/09/27/Keepsake.html</link>
-        <guid isPermaLink="true">http://fabriziogoglia.com/http://fabriziogoglia.com//2015/09/27/Keepsake.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Ships Aquarium</title>
-        <description>&lt;p&gt;Interactive visualization with Processing to check real-time data about ships in Venice.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/59518870?color=e74c3c&amp;amp;title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;100%&quot; height=&quot;533&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-Ships Aquarium is the product of a three-day workshop with Till Nagel, an interactive visualization that allows to check real-time information about ships in the lagoon of Venice. It makes realy simple discover current tracks of big ships and their characteristics like name, weight, dimension.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;em&gt;My tasks: Research on the effect of the big ships in Venice lagoon environment condition. Design of the interactive map with Tiemill platform and Processing&lt;/em&gt;.
-&lt;br /&gt;
-&lt;br /&gt;
-Project developed with Ruggero Castagnola and Lorenz Potthast.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 27 Jun 2015 21:13:23 +0200</pubDate>
-        <link>http://fabriziogoglia.com/http://fabriziogoglia.com//projects/2015/06/27/Ships%20Aquarium.html</link>
-        <guid isPermaLink="true">http://fabriziogoglia.com/http://fabriziogoglia.com//projects/2015/06/27/Ships%20Aquarium.html</guid>
-        
-        
-        <category>projects</category>
-        
-      </item>
     
       <item>
         <title>Venice Forward Future</title>
@@ -100,26 +51,6 @@ The production site became a lab where analog and digital techniques are mixed. 
         <pubDate>Fri, 01 May 2015 21:13:23 +0200</pubDate>
         <link>http://fabriziogoglia.com/http://fabriziogoglia.com//projects/2015/05/01/Venice%20Forward%20Future.html</link>
         <guid isPermaLink="true">http://fabriziogoglia.com/http://fabriziogoglia.com//projects/2015/05/01/Venice%20Forward%20Future.html</guid>
-        
-        
-        <category>projects</category>
-        
-      </item>
-    
-      <item>
-        <title>Manifesto per la Cultura</title>
-        <description>&lt;p&gt;&lt;i&gt;Il Manifesto per la Cultura&lt;/i&gt; is an infographic, designed on an &lt;a href=&quot;http://www.ilsole24ore.com/art/cultura/2013-02-11/ministero-svecchiare-115923.shtml?uuid=Abd0BJTH&amp;amp;refresh_ce=1&quot; target=&quot;_blank&quot;&gt;article&lt;/a&gt; of the economist Giovanna Segre for &lt;b&gt;Il Sole 24 Ore&lt;/b&gt;.&lt;/p&gt;
-
-&lt;p&gt;The article examines the investment strategies in the culture sector of the Italian political parties.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;img src=&quot;http://payload155.cargocollective.com/1/10/325579/5418159/sole24ore_1_o.jpg&quot; alt=&quot;Manifesto per la cultura&quot; /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;Project made with &lt;a href=&quot;http://cargocollective.com/gloriaangelini&quot; target=&quot;_blank&quot;&gt;Gloria Angelini&lt;/a&gt; and Giacomo Zonta.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 14 Nov 2014 20:13:23 +0100</pubDate>
-        <link>http://fabriziogoglia.com/http://fabriziogoglia.com//projects/2014/11/14/Manifesto.html</link>
-        <guid isPermaLink="true">http://fabriziogoglia.com/http://fabriziogoglia.com//projects/2014/11/14/Manifesto.html</guid>
         
         
         <category>projects</category>
@@ -179,6 +110,50 @@ Code: Ruf*
       </item>
     
       <item>
+        <title>Ships Aquarium</title>
+        <description>&lt;p&gt;Interactive visualization with Processing to check real-time data about ships in Venice.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/59518870?color=e74c3c&amp;amp;title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;100%&quot; height=&quot;533&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+Ships Aquarium is the product of a three-day workshop with Till Nagel, an interactive visualization that allows to check real-time information about ships in the lagoon of Venice. It makes realy simple discover current tracks of big ships and their characteristics like name, weight, dimension.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;em&gt;My tasks: Research on the effect of the big ships in Venice lagoon environment condition. Design of the interactive map with Tiemill platform and Processing&lt;/em&gt;.
+&lt;br /&gt;
+&lt;br /&gt;
+Project developed with Ruggero Castagnola and Lorenz Potthast.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 01 Nov 2014 20:13:23 +0100</pubDate>
+        <link>http://fabriziogoglia.com/http://fabriziogoglia.com//projects/2014/11/01/Ships%20Aquarium.html</link>
+        <guid isPermaLink="true">http://fabriziogoglia.com/http://fabriziogoglia.com//projects/2014/11/01/Ships%20Aquarium.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Manifesto per la Cultura</title>
+        <description>&lt;p&gt;&lt;i&gt;Il Manifesto per la Cultura&lt;/i&gt; is an infographic, designed on an &lt;a href=&quot;http://www.ilsole24ore.com/art/cultura/2013-02-11/ministero-svecchiare-115923.shtml?uuid=Abd0BJTH&amp;amp;refresh_ce=1&quot; target=&quot;_blank&quot;&gt;article&lt;/a&gt; of the economist Giovanna Segre for &lt;b&gt;Il Sole 24 Ore&lt;/b&gt;.&lt;/p&gt;
+
+&lt;p&gt;The article examines the investment strategies in the culture sector of the Italian political parties.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;http://payload155.cargocollective.com/1/10/325579/5418159/sole24ore_1_o.jpg&quot; alt=&quot;Manifesto per la cultura&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Project made with &lt;a href=&quot;http://cargocollective.com/gloriaangelini&quot; target=&quot;_blank&quot;&gt;Gloria Angelini&lt;/a&gt; and Giacomo Zonta.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Oct 2014 21:13:23 +0200</pubDate>
+        <link>http://fabriziogoglia.com/http://fabriziogoglia.com//projects/2014/10/01/Manifesto.html</link>
+        <guid isPermaLink="true">http://fabriziogoglia.com/http://fabriziogoglia.com//projects/2014/10/01/Manifesto.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
         <title>Treasure island</title>
         <description>&lt;p&gt;L’isola del tesoro è affondata.&lt;/p&gt;
 
@@ -209,6 +184,34 @@ Code: Ruf*
       </item>
     
       <item>
+        <title>Keepsake</title>
+        <description>&lt;p&gt;Audiovisual interactive installation in an abandoned theatre.&lt;/p&gt;
+
+&lt;p&gt;Built in the 30’s in an hospital for children, the theatre is situated in front of the sea on Venice area.
+The installation aims to resurrect, in a fragmentary and meditative way, the sights and sounds of this places. Keepsake allows people to live a melancholic experience that, through sound and images, introduces them to the history of the theatre and its lived past.
+&lt;br /&gt;
+&amp;lt;iframe src=&quot;https://player.vimeo.com/video/44879867&quot; width=&quot;100%&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;
+&lt;br /&gt;
+&amp;lt;iframe src=&quot;http://player.vimeo.com/video/41813836?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&quot; width=&quot;100%&quot; height=&quot;533&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&amp;gt;&amp;lt;/iframe&amp;gt;
+&lt;br /&gt;
+&lt;em&gt;My tasks: Concept, prototyping experimentation. Visual design of the archives photos, research on the sound connecting it to the photos by programming with Processing language&lt;/em&gt;.
+&lt;br /&gt;
+&lt;br /&gt;
+Project made with Claudia Miliziano, Fabio Nucatolo and Rita Petrilli.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://www.interaction-venice.net/iuav11-12lab2/projects/keepsake/&quot; target=&quot;_blank&quot; class=&quot;button&quot;&gt;Projects website&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2012 20:13:23 +0100</pubDate>
+        <link>http://fabriziogoglia.com/http://fabriziogoglia.com//projects/2012/01/01/Keepsake.html</link>
+        <guid isPermaLink="true">http://fabriziogoglia.com/http://fabriziogoglia.com//projects/2012/01/01/Keepsake.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
         <title>Pioneer Plaque</title>
         <description>&lt;p&gt;Information Design Poster about an image sent to space, aims to give a message about us to other inhabitants of the universe.&lt;/p&gt;
 
@@ -227,17 +230,20 @@ One of the parts of the diagram that is among the easiest for humans to understa
 &lt;img src=&quot;http://payload403.cargocollective.com/1/10/325579/10371245/BUONI_MOTIVI_finale2_1600_c.jpg&quot; alt=&quot;Poster&quot; /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
-Poster designed for &lt;a href=&quot;http://20buonimotivi.tumblr.com/&quot; target=&quot;_blank&quot;&gt;20 good reasons to do visual design→ &lt;/a&gt;workshop. The workshop project born to clarify the visual designer role and the importance of his operation in the social and cultural dynamics.
+Poster designed for &lt;i&gt;&lt;a href=&quot;http://20buonimotivi.tumblr.com/&quot; target=&quot;_blank&quot;&gt;20 good reasons to do visual design&lt;/a&gt;&lt;/i&gt;workshop. The workshop project born to clarify the visual designer role and the importance of his operation in the social and cultural dynamics.
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;img src=&quot;http://payload403.cargocollective.com/1/10/325579/10371245/IUAV_poster_camplani_960.jpg&quot; alt=&quot;Poster exhibition&quot; /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
-&lt;img src=&quot;http://payload403.cargocollective.com/1/10/325579/10371245/65302_390774517690240_952004821_n_960.jpg&quot; alt=&quot;Poster exhibition&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://payload403.cargocollective.com/1/10/325579/10371245/65302_390774517690240_952004821_n_960.jpg&quot; alt=&quot;Poster exhibition&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://20buonimotivi.tumblr.com/&quot; target=&quot;_blank&quot; class=&quot;button&quot;&gt;Explore project website&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 14 Sep 1970 21:13:23 +0200</pubDate>
-        <link>http://fabriziogoglia.com/http://fabriziogoglia.com//projects/1970/09/14/Pioneer%20Plaque.html</link>
-        <guid isPermaLink="true">http://fabriziogoglia.com/http://fabriziogoglia.com//projects/1970/09/14/Pioneer%20Plaque.html</guid>
+        <pubDate>Thu, 14 Sep 1972 21:13:23 +0200</pubDate>
+        <link>http://fabriziogoglia.com/http://fabriziogoglia.com//projects/1972/09/14/Pioneer%20Plaque.html</link>
+        <guid isPermaLink="true">http://fabriziogoglia.com/http://fabriziogoglia.com//projects/1972/09/14/Pioneer%20Plaque.html</guid>
         
         
         <category>projects</category>
