@@ -284,7 +284,7 @@ button {
 @media screen and (max-width: 600px) {
   .site-title {
     color: black;
-    font-size: 21px;
+    font-size: 18px;
     font-weight: 700;
     line-height: 67px;
     letter-spacing: none;
@@ -579,11 +579,11 @@ color:white;
  * Page content
  */
 .page-content {
-  padding: 20px 0 80px 0; }
+  padding: 0px 0px 100px 0px; }
 
 @media screen and (max-width: 600px) {
   .page-content {
-    padding: 30px 5px 100px 5px; } }
+    padding: 30px 3px 30px 3px; } }
 .with-full-bg .page-content {
   padding: 1px 0 100px 0; }
 
@@ -629,16 +629,17 @@ color:white;
   margin-bottom: 10px; }
 
 .post-title {
-  font-size: 42px;
+  font-size: 64px;
   letter-spacing: -1px;
-  line-height: 2; }
+  line-height: 1;
+  margin-top: 50px; }
   @media screen and (max-width: 900px) {
     .post-title {
       font-size: 36px; } }
 
 @media screen and (max-width: 600px) {
   .post-title {
-    font-size: 21px;
+    font-size: 44px;
     line-height: 1; } }
 .post-header h1 {
   font-size: 42px; }
