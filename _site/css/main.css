@@ -298,7 +298,7 @@ button {
     .site-title, .site-title:visited {
       color: black; }
     .site-title:hover {
-      color: #E74C3C;
+      color: black;
       background-color: transparent; } }
 .with-full-bg .site-title, .with-full-bg .site-title:visited {
   color: black; }
