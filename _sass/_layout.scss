@@ -495,8 +495,8 @@ color:white;
 .post-link {
   display: block;
     color: black;
-    font-size: 74px;
-    line-height: 88px;
+    font-size: 64px;
+    line-height: 74px;
 
 
 transition-duration: 1.2s;
@@ -509,8 +509,24 @@ transition-duration: 1.2s;
     }
 }
 
+  @include media-query($on-palm) {
+.post-link {
+  display: block;
+    color: black;
+    font-size: 38px;
+    line-height: 1;
 
 
+transition-duration: 1.2s;
+
+    &:hover {
+
+        color: #E74C3C;
+        background-color: transparent;
+
+    }
+  }
+}
 /**
  * Posts
  */
@@ -527,6 +543,13 @@ transition-duration: 1.2s;
     @include media-query($on-laptop) {
         font-size: 36px;
     }
+}
+
+@include media-query($on-palm) {
+  .post-title {
+      font-size: 21px;
+      line-height: 1;
+}
 }
 
 .post-header h1 {

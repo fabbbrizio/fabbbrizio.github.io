@@ -86,7 +86,7 @@ img {
   -webkit-filter: brightness(100%);
   transition-duration: 1.3s; }
   .projects-list img:hover {
-    -webkit-filter: brightness(110%);
+    -webkit-filter: brightness(120%);
     transition-duration: 1.3s; }
 
 /**
@@ -605,13 +605,23 @@ color:white;
 .post-link {
   display: block;
   color: black;
-  font-size: 74px;
-  line-height: 88px;
+  font-size: 64px;
+  line-height: 74px;
   transition-duration: 1.2s; }
   .post-link:hover {
     color: #E74C3C;
     background-color: transparent; }
 
+@media screen and (max-width: 600px) {
+  .post-link {
+    display: block;
+    color: black;
+    font-size: 38px;
+    line-height: 1;
+    transition-duration: 1.2s; }
+    .post-link:hover {
+      color: #E74C3C;
+      background-color: transparent; } }
 /**
  * Posts
  */
@@ -626,6 +636,10 @@ color:white;
     .post-title {
       font-size: 36px; } }
 
+@media screen and (max-width: 600px) {
+  .post-title {
+    font-size: 21px;
+    line-height: 1; } }
 .post-header h1 {
   font-size: 42px; }
 
