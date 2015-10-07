@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  "Pioneer Plaque"
-featured_image: /images/projects/pioneer/plaque.jpg
-date:   1972-09-14 19:13:23
-categories: projects
+#layout: post
+#title:  "Pioneer Plaque"
+#featured_image: /images/projects/pioneer/plaque.jpg
+#date:   1972-09-14 19:13:23
+#categories: projects
 ---
-
+<!--
 Information Design Poster about an image sent to space, aims to give a message about us to other inhabitants of the universe.
 
 The image displayed on a plaque fixed to the hull of Pioneer 10, which was sent on an investigative flight into outer space (more precisely to Jupiter) in 1972.

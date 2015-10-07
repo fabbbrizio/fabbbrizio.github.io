@@ -262,7 +262,7 @@ button {
   color: black;
   font-size: 26px;
   font-weight: 700;
-  line-height: 67px;
+  line-height: 68px;
   letter-spacing: none;
   margin-top: none;
   margin-bottom: none;
@@ -284,9 +284,9 @@ button {
 @media screen and (max-width: 600px) {
   .site-title {
     color: black;
-    font-size: 18px;
+    font-size: 21px;
     font-weight: 700;
-    line-height: 67px;
+    line-height: 71px;
     letter-spacing: none;
     margin-top: none;
     margin-bottom: none;
