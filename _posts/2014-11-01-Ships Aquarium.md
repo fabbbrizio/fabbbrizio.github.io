@@ -20,5 +20,4 @@ Ships Aquarium is the product of a three-day workshop with Till Nagel, an intera
 <br>
 *My tasks: Research on the effect of the big ships in Venice lagoon environment condition. Design of the interactive map with Tiemill platform and Processing*.
 <br>
-<br>
-Project developed with Ruggero Castagnola and Lorenz Potthast.
+Project developed with <href="http://ruggerocastagnola.com/" target="_blank">Ruggero Castagnola</a> and <href="http://www.lorenzpotthast.de/" target="_blank">Lorenz Potthast</a>.
