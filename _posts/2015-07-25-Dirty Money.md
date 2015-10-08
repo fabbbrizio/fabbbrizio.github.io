@@ -4,7 +4,7 @@ title:  "Dirty Money – Booktrailer"
 date:   2015-07-25 17:00:00
 categories: news
 ---
-<iframe src="https://player.vimeo.com/video/120361450?color=e74c3c&title=0&byline=0&portrait=0" width="100%" height="533" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/120361450?color=e74c3c&title=0&byline=0&portrait=0" width="100%" height="440" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 Booktrailer for <i>Dirty Money</i>, Graphic Novel which describe environmental and social impact of Western oil corporations in the Niger Delta, Nigeria.
 
 The graphic novel is produced by <a href="http://www.recommon.org/?s=soldi+sporchi" target="_blank">Re:Common</a> and <a href="http://www.roundrobineditrice.it/rred/scheda.aspx?bk=9788898715312/Soldi+sporchi/" target="_blank">Round Robin</a>, drawn by Claudia Giuliani.
