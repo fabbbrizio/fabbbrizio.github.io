@@ -21,6 +21,16 @@ I designed graphic identity and printed artefacts for the exposition (with Chiar
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/3.6_960.jpg" alt="exhibition in Milan">
 <br>
 <br>
+<img src="http://payload399.cargocollective.com/1/10/325579/10282917/2.9_1600_c.png" alt="v>>f logo">
+<br>
+<br>
+<img src="http://payload399.cargocollective.com/1/10/325579/10282917/2.6_1600_c.jpeg" alt="v>>f logo rough">
+<br>
+<br>
+<img src="http://payload399.cargocollective.com/1/10/325579/10282917/Scan-24_1600_c.jpeg" alt="logo2">
+<br>
+<br>
+<img src="http://payload399.cargocollective.com/1/10/325579/10282917/3.9_1600_c.jpg" alt="Decor magazine">
 <b>Web Articles</b>: <a href="http://www.theperfectjob.it/le-spettacolari-creazioni-del-collettivo-atu-mescolano-il-vetro-soffiato-muranese-e-la-ceramica-stampata-in-3d/" target="_blank">The perfect job</a>, <a href="http://nykyinen.com/venice-future-a-project-by-breaking-the-
 mould/" target="_blank">Nykyinen</a>, <a href="http://www.domusweb.it/content/domusweb/it/notizie/2015/04/30/subalterno1_venice_future.html" target="_blank">Domusweb</a>, <a href="http://www.artribune.com/2015/04/eppur-si-muove-le-nuove-facce-del-design-italiano/" target="_blank">Artribune</a>.
 
