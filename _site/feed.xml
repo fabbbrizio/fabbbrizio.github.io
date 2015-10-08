@@ -5,8 +5,8 @@
     <description>Interaction &amp; Visual Designer</description>
     <link>http://fabriziogoglia.com/http://fabriziogoglia.com//</link>
     <atom:link href="http://fabriziogoglia.com/http://fabriziogoglia.com//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 08 Oct 2015 11:00:18 +0200</pubDate>
-    <lastBuildDate>Thu, 08 Oct 2015 11:00:18 +0200</lastBuildDate>
+    <pubDate>Thu, 08 Oct 2015 11:26:17 +0200</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2015 11:26:17 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -112,16 +112,18 @@ Code: Ruf*
         <title>Ships Aquarium</title>
         <description>&lt;p&gt;Interactive visualization with Processing to check real-time data about ships in Venice.&lt;/p&gt;
 
+&lt;p&gt;Ships Aquarium is the product of a three-day workshop with Till Nagel, an interactive visualization that allows to check real-time information about ships in the lagoon of Venice. It makes really simple discover current tracks of big ships and their characteristics like name, weight, dimensions.
+&lt;br /&gt;
+&lt;img src=&quot;/images/projects/ships/sa2.png&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/images/projects/ships/sa1.png&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/images/projects/ships/sa3.png&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
 &lt;iframe src=&quot;https://player.vimeo.com/video/59518870?color=e74c3c&amp;amp;title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;100%&quot; height=&quot;533&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-Ships Aquarium is the product of a three-day workshop with Till Nagel, an interactive visualization that allows to check real-time information about ships in the lagoon of Venice. It makes realy simple discover current tracks of big ships and their characteristics like name, weight, dimension.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;em&gt;My tasks: Research on the effect of the big ships in Venice lagoon environment condition. Design of the interactive map with Tiemill platform and Processing&lt;/em&gt;.
-&lt;br /&gt;
-&lt;br /&gt;
-Project developed with Ruggero Castagnola and Lorenz Potthast.&lt;/p&gt;
+My tasks: Research on the effect of the big ships in Venice lagoon environment condition. Design of the interactive map with Tiemill platform and Processing.
+Project developed with &lt;a href=&quot;http://ruggerocastagnola.com/&quot; target=&quot;_blank&quot;&gt;Ruggero Castagnola&lt;/a&gt; and &lt;a href=&quot;http://www.lorenzpotthast.de/&quot; target=&quot;_blank&quot;&gt;Lorenz Potthast&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Nov 2014 20:13:23 +0100</pubDate>
         <link>http://fabriziogoglia.com/http://fabriziogoglia.com//projects/2014/11/01/Ships%20Aquarium.html</link>
@@ -245,12 +247,15 @@ Poster designed for &lt;i&gt;&lt;a href=&quot;http://20buonimotivi.tumblr.com/&q
 &lt;p&gt;Thanks to &lt;i&gt;Fondo Giacomelli&lt;/i&gt;, that provided us with ’30s high definition pictures of the theatre.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/44879867?color=e74c3c&amp;amp;title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;100%&quot; height=&quot;533&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/44877426?color=e74c3c&amp;amp;title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;100%&quot; height=&quot;533&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/64350687?color=e74c3c&amp;amp;title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;100%&quot; height=&quot;533&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;em&gt;My tasks: Concept, prototyping experimentation. Visual design of the archives photos, research on the sound connecting it to the photos by programming with Processing language&lt;/em&gt;.
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&amp;lt;iframe src=&quot;https://player.vimeo.com/video/44877426?color=e74c3c&amp;amp;title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;100%&quot; height=&quot;533&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&amp;lt;iframe src=&quot;https://player.vimeo.com/video/64350687?color=e74c3c&amp;amp;title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;100%&quot; height=&quot;533&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;em&gt;My tasks: Concept, prototyping experimentation. Visual design of the archives photos, research on the sound connecting it to the photos by programming with Processing language&lt;/em&gt;.
 &lt;br /&gt;
 &lt;br /&gt;
 The project was made with Claudia Miliziano, Fabio Nucatolo and Rita Petrilli in the Interaction Design Lab at Iuav University of Venice.
