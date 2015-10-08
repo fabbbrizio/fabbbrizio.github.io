@@ -8,15 +8,15 @@ categories: projects
 
 Interactive visualization with Processing to check real-time data about ships in Venice.
 
+<iframe src="https://player.vimeo.com/video/59518870?color=e74c3c&title=0&byline=0&portrait=0" width="100%" height="533" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 Ships Aquarium is the product of a three-day workshop with Till Nagel, an interactive visualization that allows to check real-time information about ships in the lagoon of Venice. It makes really simple discover current tracks of big ships and their characteristics like name, weight, dimensions.
 <br>
-![Alt text](/images/projects/ships/sa2.png)
+<img src="" alt="http://payload138.cargocollective.com/1/10/325579/5074354/sa2.png">
 <br>
-![Alt text](/images/projects/ships/sa1.png)
+<img src="" alt="http://payload138.cargocollective.com/1/10/325579/5074354/sa1.png">
 <br>
-![Alt text](/images/projects/ships/sa3.png)
-
-<iframe src="https://player.vimeo.com/video/59518870?color=e74c3c&title=0&byline=0&portrait=0" width="100%" height="533" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<img src="" alt="http://payload138.cargocollective.com/1/10/325579/5074354/sa3.png">
 <br>
 My tasks: Research on the effect of the big ships in Venice lagoon environment condition. Design of the interactive map with Tiemill platform and Processing.
 Project developed with <a href="http://ruggerocastagnola.com/" target="_blank">Ruggero Castagnola</a> and <a href="http://www.lorenzpotthast.de/" target="_blank">Lorenz Potthast</a>.
