@@ -104,7 +104,6 @@ display: inline;
 
 
 
-
     &:visited {
       color: black;
     }
@@ -124,7 +123,6 @@ display: inline;
         background-color: transparent;
         font-size: 16px;
 
-
         // Gaps between nav items, but not on the first one
       &:not(:first-child) {
             margin-left: none;
@@ -138,7 +136,15 @@ display: inline;
             border-bottom: 0.1em solid #E74C3C;
         }
 
+        &.current {
+
+          color: #E74C3C;
+          background-color: transparent;
+          border-bottom: none;
+        }
+
     }
+
 
     @include media-query($on-palm) {
         position: inline;
@@ -314,7 +320,7 @@ display: inline;
 
 .footer-col-wrapper {
 
-    font-size: 16px;
+    font-size: 14px;
     line-height: 1.4;
     color: #ECECEC;
     margin-left: -$spacing-unit / 2;
@@ -614,7 +620,7 @@ background-position: 50% 50%;
 .project {
   float: left;
   width: 100%;
-  margin: 40px 1.6666666667%;
+  margin: 30px 0%;
 
 
 }

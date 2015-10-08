@@ -274,9 +274,8 @@ button {
   .site-title, .site-title:visited {
     color: black; }
   .site-title:hover {
-    color: black;
-    background-color: transparent;
-    -webkit-filter: blur(2px); }
+    color: #E74C3C;
+    background-color: transparent; }
   .site-title:active {
     color: black;
     -webkit-filter: blur(4px); }
@@ -325,6 +324,10 @@ button {
       color: #E74C3C;
       background-color: transparent;
       border-bottom: 0.1em solid #E74C3C; }
+    .site-nav .page-link.current {
+      color: #E74C3C;
+      background-color: transparent;
+      border-bottom: none; }
   @media screen and (max-width: 600px) {
     .site-nav {
       position: inline;
@@ -458,7 +461,7 @@ button {
   margin-left: 0; }
 
 .footer-col-wrapper {
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.4;
   color: #ECECEC;
   margin-left: -5px; }
@@ -579,7 +582,7 @@ color:white;
  * Page content
  */
 .page-content {
-  padding: 0px 0px 100px 0px; }
+  padding: 30px 0px 100px 0px; }
 
 @media screen and (max-width: 600px) {
   .page-content {
@@ -681,7 +684,7 @@ color:white;
 .project {
   float: left;
   width: 100%;
-  margin: 40px 1.6666666667%; }
+  margin: 30px 0%; }
 
 /*
 .bottom-color-bands {
