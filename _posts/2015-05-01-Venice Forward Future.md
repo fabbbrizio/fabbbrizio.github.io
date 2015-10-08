@@ -6,7 +6,11 @@ categories: news
 ---
 <iframe src="https://player.vimeo.com/video/125023947?color=e74c3c&title=0&byline=0&portrait=0" width="100%" height="440" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 Venice>>Future is a series of controlled tests run within the prestigious Muranese furnace <a href="http://www.salviati.com/" target="_blank">Salviati</a> (Venice, Italy) and <a href="http://www.breaking-the-mould.com/en.php" target="_blank">BTM</a> project.
-
+<br>
+<br>
+<img src="http://payload399.cargocollective.com/1/10/325579/10282917/vf1.jpg" alt="Murano">
+<br>
+<br>
 Traditional glass blowing techniques, historically linked to the island of Murano and dependent on the skills of its glass masters, is merge with ceramic 3D-printing, a much younger and more movable process to create identical objects.
 
 The production site became a lab where analog and digital techniques are mixed. The resulting outcomes are been presented at VL2015.
@@ -21,6 +25,9 @@ I designed graphic identity and printed artefacts for the exposition (with Chiar
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/3.6_960.jpg" alt="exhibition in Milan">
 <br>
 <br>
+<img src="http://payload399.cargocollective.com/1/10/325579/10282917/vf2.jpg" alt="Tent Design Week London">
+<br>
+<br>
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/2.9_1600_c.png" alt="v>>f logo">
 <br>
 <br>
@@ -33,7 +40,7 @@ I designed graphic identity and printed artefacts for the exposition (with Chiar
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/3.9_1600_c.jpg" alt="Decor magazine">
 <b>Web Articles</b>: <a href="http://www.theperfectjob.it/le-spettacolari-creazioni-del-collettivo-atu-mescolano-il-vetro-soffiato-muranese-e-la-ceramica-stampata-in-3d/" target="_blank">The perfect job</a>, <a href="http://nykyinen.com/venice-future-a-project-by-breaking-the-
 mould/" target="_blank">Nykyinen</a>, <a href="http://www.domusweb.it/content/domusweb/it/notizie/2015/04/30/subalterno1_venice_future.html" target="_blank">Domusweb</a>, <a href="http://www.artribune.com/2015/04/eppur-si-muove-le-nuove-facce-del-design-italiano/" target="_blank">Artribune</a>.
-
+<br>
 <b>Exhibitions</b>: Fuori Salone di Milano – May 2015; London Design Festival 2015 Tent London, September 2015.
 <br>
 <b>Credits</b>: <a href="http://www.breaking-the-mould.com/en.php" target="_blank">BTM</a>, <a href="http://materiaterza.com/" target="_blank">Materiaterza</a>, <a href= "http://www.salviati.com/" target="_blank">Salviati</a>.
