@@ -260,9 +260,9 @@ button {
 
 .site-title {
   color: black;
-  font-size: 26px;
+  font-size: 21px;
   font-weight: 700;
-  line-height: 68px;
+  line-height: 71px;
   letter-spacing: none;
   margin-top: none;
   margin-bottom: none;
@@ -283,9 +283,9 @@ button {
 @media screen and (max-width: 600px) {
   .site-title {
     color: black;
-    font-size: 21px;
+    font-size: 18px;
     font-weight: 700;
-    line-height: 71px;
+    line-height: 73px;
     letter-spacing: none;
     margin-top: none;
     margin-bottom: none;
@@ -317,7 +317,8 @@ button {
   .site-nav .page-link {
     color: black;
     background-color: transparent;
-    font-size: 16px; }
+    font-size: 16px;
+    padding: 0px 6px; }
     .site-nav .page-link:not(:first-child) {
       margin-left: none; }
     .site-nav .page-link:hover {
