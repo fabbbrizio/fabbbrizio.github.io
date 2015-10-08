@@ -534,6 +534,42 @@ transition-duration: 1.2s;
     }
   }
 }
+
+.blog-title-size {
+  display: block;
+    color: black;
+    font-size: 45px;
+    line-height: 65px;
+
+
+transition-duration: 1.2s;
+
+    &:hover {
+
+        color: #E74C3C;
+        background-color: transparent;
+
+    }
+}
+@include media-query($on-palm) {
+.blog-title-size {
+display: block;
+  color: black;
+  font-size: 24px;
+  line-height: 44px;
+  line-height: 1;
+
+
+transition-duration: 1.2s;
+
+  &:hover {
+
+      color: #E74C3C;
+      background-color: transparent;
+
+  }
+}
+}
 /**
  * Posts
  */

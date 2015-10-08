@@ -32,9 +32,8 @@ p.big {
 
 hr {
   border: 0;
-  color: black;
-  background-color: black;
-  height: 1px; }
+  color: white;
+  border-bottom: 2px dashed; }
 
 body.with-full-bg {
   /*background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');*/
@@ -624,6 +623,27 @@ color:white;
     line-height: 1;
     transition-duration: 1.2s; }
     .post-link:hover {
+      color: #E74C3C;
+      background-color: transparent; } }
+.blog-title-size {
+  display: block;
+  color: black;
+  font-size: 45px;
+  line-height: 65px;
+  transition-duration: 1.2s; }
+  .blog-title-size:hover {
+    color: #E74C3C;
+    background-color: transparent; }
+
+@media screen and (max-width: 600px) {
+  .blog-title-size {
+    display: block;
+    color: black;
+    font-size: 24px;
+    line-height: 44px;
+    line-height: 1;
+    transition-duration: 1.2s; }
+    .blog-title-size:hover {
       color: #E74C3C;
       background-color: transparent; } }
 /**

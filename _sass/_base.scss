@@ -22,6 +22,8 @@ $font-weight-medium: 500;
 $font-weight-bold: 700;
 $font-weight-ultra-bold: 900;
 
+$blog-title-size: 42px;
+
 $spacing-unit:     10px;
 
 $text-color:       #111;
@@ -90,9 +92,10 @@ p.big {
 
 hr {
     border: 0;
-    color: black;
-    background-color: black;
-    height: 1px;
+    color: white;
+    //background-color: black;
+    //height: 1px;
+    border-bottom: 2px dashed;
 
 }
 
