@@ -12,11 +12,11 @@ Interactive visualization with Processing to check real-time data about ships in
 
 Ships Aquarium is the product of a three-day workshop with Till Nagel, an interactive visualization that allows to check real-time information about ships in the lagoon of Venice. It makes really simple discover current tracks of big ships and their characteristics like name, weight, dimensions.
 <br>
-<img src="" alt="http://payload138.cargocollective.com/1/10/325579/5074354/sa2.png">
+<img src="http://payload138.cargocollective.com/1/10/325579/5074354/sa2.png" alt="">
 <br>
-<img src="" alt="http://payload138.cargocollective.com/1/10/325579/5074354/sa1.png">
+<img src="http://payload138.cargocollective.com/1/10/325579/5074354/sa1.png" alt="">
 <br>
-<img src="" alt="http://payload138.cargocollective.com/1/10/325579/5074354/sa3.png">
+<img src="http://payload138.cargocollective.com/1/10/325579/5074354/sa3.png" alt="">
 <br>
 My tasks: Research on the effect of the big ships in Venice lagoon environment condition. Design of the interactive map with Tiemill platform and Processing.
 Project developed with <a href="http://ruggerocastagnola.com/" target="_blank">Ruggero Castagnola</a> and <a href="http://www.lorenzpotthast.de/" target="_blank">Lorenz Potthast</a>.
