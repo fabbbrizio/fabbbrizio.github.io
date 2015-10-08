@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Godiimenti – Motion Design"
+title:  "Godiimenti – motion graphic video"
 date:   2014-09-13
 categories: news
 ---
