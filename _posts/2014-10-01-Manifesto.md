@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Manifesto per la Cultura"
-featured_image: /images/projects/manifesto/sole.jpg
+#featured_image: /images/projects/manifesto/sole.jpg
 date: 2014-10-01 19:13:23
-categories: projects
+categories: news
 ---
-
+<img src="http://transit7.cargocollective.com/1/10/325579/5418159/sole.jpg" alt="Manifesto cover">
 <p><i>Manifesto per la Cultura</i> is an infographic, designed on an <a href="http://www.ilsole24ore.com/art/cultura/2013-02-11/ministero-svecchiare-115923.shtml?uuid=Abd0BJTH&refresh_ce=1" target="_blank">article</a> of the economist Giovanna Segre for <b>Il Sole 24 Ore</b>.</p>
 
 <p>The article examines the investment strategies in the culture sector of the Italian political parties.</p>

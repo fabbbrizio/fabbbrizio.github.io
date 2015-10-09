@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Ships Aquarium"
-featured_image: /images/projects/ships/ships_psy.jpg
+#featured_image: /images/projects/ships/ships_psy.jpg
 date: 2014-11-01 19:13:23
-categories: projects
+categories: news
 ---
-
+<img src="http://payload138.cargocollective.com/1/10/325579/5074354/ships_psy.jpg" alt="Ships Aquarium cover">
 Interactive visualization with Processing to check real-time data about ships in Venice.
 
 <iframe src="https://player.vimeo.com/video/59518870?color=e74c3c&title=0&byline=0&portrait=0" width="100%" height="440" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
