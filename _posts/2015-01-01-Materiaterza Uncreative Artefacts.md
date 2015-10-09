@@ -19,11 +19,11 @@ I joined the group with Chiara Costantini – graphic designer – with the inte
 
 Materiaterza graphic identity follow a generative design process. As for the three coordinates values X, Y, Z of the 3D printer movement – necessary to permit to extrude every material artefact – a similar process is implemented in the typography variations procedure of the logo. I decided to use as picture element of the logo the first letter, <i>M</i>.
 
+<img src="http://38.media.tumblr.com/b11f1bc4ff8dfd12f03c8e0fd56b80a7/tumblr_nd8mghF1Iy1thir10o1_1280.gif" alt="">
+
 <img src="http://payload399.cargocollective.com/1/10/325579/10282961/1.png" alt="">
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282961/2.png" alt="">
-
-<img src="http://41.media.tumblr.com/334d3497d9d96208f5f670da517eddec/tumblr_ndskl6YGjI1thir10o1_1280.jpg" alt="">
 
 In the same way as using the 3D printer software is possible change just some variables to create very different concave objects, I research new shapes for the M moving the type on X, Y axes, rotating and extruding it on Z axis. Then using a full-black color, I give a bidimensional perception to the altered version of the M.
 
@@ -32,6 +32,8 @@ In the same way as using the 3D printer software is possible change just some va
 <img src="http://payload399.cargocollective.com/1/10/325579/10282961/8.png" alt="">
 
 In the end I create a pattern that imitates the ceramic extruded form, and I used it in different context (printed communication material, digital versions of the logos on the web).
+
+<img src="http://41.media.tumblr.com/334d3497d9d96208f5f670da517eddec/tumblr_ndskl6YGjI1thir10o1_1280.jpg" alt="">
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282961/2.10.gif" alt="">
 
