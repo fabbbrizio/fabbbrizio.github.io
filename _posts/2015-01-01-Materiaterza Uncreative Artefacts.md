@@ -25,15 +25,15 @@ Materiaterza graphic identity follow a generative design process. As for the thr
 
 In the same way as using the 3D printer software is possible change just some variables to create very different concave objects, I research new shapes for the M moving the type on X, Y axes, rotating and extruding it on Z axis. Then using a full-black color, I give a bidimensional perception to the altered version of the M.
 
-<img src="" alt="http://payload399.cargocollective.com/1/10/325579/10282961/7.png" alt="">
+<img src="http://payload399.cargocollective.com/1/10/325579/10282961/7.png" alt="">
 
-<img src="" alt="http://payload399.cargocollective.com/1/10/325579/10282961/8.png" alt="">
+<img src="http://payload399.cargocollective.com/1/10/325579/10282961/8.png" alt="">
 
 In the end I create a pattern that imitates the ceramic extruded form, and I used it in different context (printed communication material, digital versions of the logos on the web).
 
-<img src="" alt="http://payload399.cargocollective.com/1/10/325579/10282961/2.10.gif" alt="">
+<img src="http://payload399.cargocollective.com/1/10/325579/10282961/2.10.gif" alt="">
 
-<img src="" alt="http://payload399.cargocollective.com/1/10/325579/10282961/3.1.jpg" alt="">
+<img src="http://payload399.cargocollective.com/1/10/325579/10282961/3.1.jpg" alt="">
 
 For the project I designed the identity for printed artefacts and shops exposition of the ceramic 3D printed objects, and I developed <a href="http://materiaterza.com/" target="_blank">Materiaterza website</a> (Online only presentation page at the moment).
 
