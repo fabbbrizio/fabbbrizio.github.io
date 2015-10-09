@@ -12,7 +12,7 @@ menu_order: 2
 I am an Interaction and Visual designer, creating content and solutions for the web. My experience are mostly related in designing wireframe, mockup, prototype of interfaces for desktop, tablet and mobile.
 </p>
 <p>
-Graduated in April 2014, from Master in Visual and Multimedia Communication at Faculty of Design and Arts –IUAV University of Venice – and alumnus of IxD program, run by Gillian Crampton Smith and Philip Tabor.
+Graduated in April 2014, from Master in Visual and Multimedia Communication at Faculty of Design and Arts – IUAV University of Venice – and alumnus of IxD program, run by Gillian Crampton Smith and Philip Tabor.
 </p>
 <p>
 I collaborated with some agencies and organization such as <a href="https://www.unops.org/english/Pages/Home.aspx" target="_blank">Unops</a>, <a href="http://www.artigianivenezia.it/" target="_blank">Confartigianato Venezia</a>, <a href="http://www.recommon.org/" target="_blank">Re:common</a>, <a href="https://www.careof.org/" target="_blank">Careof</a>, <a href="http://www.zeroviolenza.it/" target="_blank">Zeroviolenza</a>, <a href="http://www.superstudioagency.com/" target="_blank">Superstudio media agency</a>
