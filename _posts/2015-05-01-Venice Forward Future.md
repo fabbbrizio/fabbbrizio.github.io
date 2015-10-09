@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Venice Forward Future"
-date:   2015-07-25 17:00:00
+date:   2015-07 17:00:00
 categories: news
 ---
 <iframe src="https://player.vimeo.com/video/125023947?color=e74c3c&title=0&byline=0&portrait=0" width="100%" height="440" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

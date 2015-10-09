@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Godiimenti – motion graphic video"
-date:   2014-09-13
+date:   2014-09
 categories: news
 ---
 <iframe src="https://player.vimeo.com/video/105421434?color=e74c3c&title=0&byline=0&portrait=0" width="100%" height="440" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
