@@ -2,7 +2,7 @@
 layout: post
 title: "Ships Aquarium"
 #featured_image: /images/projects/ships/ships_psy.jpg
-date: 2014-11 19:13:23
+date: 2014-11-01 19:13:23
 categories: news
 ---
 <img src="http://payload138.cargocollective.com/1/10/325579/5074354/ships_psy.jpg" alt="Ships Aquarium cover">

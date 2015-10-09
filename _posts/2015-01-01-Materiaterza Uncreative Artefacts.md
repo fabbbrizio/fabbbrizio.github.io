@@ -1,7 +1,7 @@
 ---
 #layout: post
 #title:  "Materiaterza"
-#date:   2015-01 17:00:00
+#date:   2015-01-01 17:00:00
 #categories: news
 ---
 <!--

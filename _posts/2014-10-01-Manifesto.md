@@ -2,7 +2,7 @@
 layout: post
 title: "Manifesto per la Cultura"
 #featured_image: /images/projects/manifesto/sole.jpg
-date: 2014-10 19:13:23
+date: 2014-10-01 19:13:23
 categories: news
 ---
 <img src="http://transit7.cargocollective.com/1/10/325579/5418159/sole.jpg" alt="Manifesto cover">
