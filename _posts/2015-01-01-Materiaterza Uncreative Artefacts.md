@@ -15,7 +15,7 @@ The project origin came from the encounter between Davide Tuberga – product de
 
 I joined the group with Chiara Costantini – graphic designer – with the interest to explore deeply this kind of production processes, that fuse the traditional handicraft with modern digital approaches.
 
-<img src="" alt="http://payload399.cargocollective.com/1/10/325579/10282961/IMG_1279_o.JPG" alt="">
+<img src="http://payload399.cargocollective.com/1/10/325579/10282961/IMG_1279_o.JPG" alt="">
 
 Materiaterza graphic identity follow a generative design process. As for the three coordinates values X, Y, Z of the 3D printer movement – necessary to permit to extrude every material artefact – a similar process is implemented in the typography variations procedure of the logo. I decided to use as picture element of the logo the first letter, <i>M</i>.
 
@@ -35,6 +35,6 @@ In the end I create a pattern that imitates the ceramic extruded form, and I use
 
 <img src="" alt="http://payload399.cargocollective.com/1/10/325579/10282961/3.1.jpg" alt="">
 
-For the project I designed the identity for printed artefacts and shops exposition of the ceramic 3D printed objects, and I developed <a href="http://materiaterza.com/" target="_blank">Materiaterza website</a> (Online at the moment only Landing page).
+For the project I designed the identity for printed artefacts and shops exposition of the ceramic 3D printed objects, and I developed <a href="http://materiaterza.com/" target="_blank">Materiaterza website</a> (Online only presentation page at the moment).
 
 <iframe src="https://player.vimeo.com/video/107600122?color=e74c3c&title=0&byline=0&portrait=0" width="100%" height="440" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
