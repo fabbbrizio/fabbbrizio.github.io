@@ -4,7 +4,7 @@ title:  "Materiaterza"
 date:   2015-01-01 17:00:00
 categories: news
 ---
-<img src="http://payload399.cargocollective.com/1/10/325579/10282961/2.9.gif" alt="Mtrtrz cover">
+<img src="http://payload399.cargocollective.com/1/10/325579/10282961/7.png" alt="Mtrtrz cover">
 Materiaterza is a Design Collective Project aimed to research on design methodologies and production processes.
 
 The project origin came from the encounter between Davide Tuberga – product designer – and Andrea Reggiani – artisan ceramist – who develop a new method to extruding ceramic material, building a unique 3D printer.
@@ -27,7 +27,7 @@ Materiaterza graphic identity follow a generative design process. As for the thr
 
 In the same way as using the 3D printer software is possible change just some variables to create very different concave objects, I research new shapes for the M moving the type on X, Y axes, rotating and extruding it on Z axis. Then using a full-black color, I give a bidimensional perception to the altered version of the M.
 
-<img src="http://payload399.cargocollective.com/1/10/325579/10282961/7.png" alt="">
+<img src="http://payload399.cargocollective.com/1/10/325579/10282961/2.9.gif" alt="">
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282961/8.png" alt="">
 
