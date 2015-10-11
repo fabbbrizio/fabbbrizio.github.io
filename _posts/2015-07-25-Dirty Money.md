@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dirty Money – Booktrailer"
+title:  "Dirty Money"
 date:   2015-03-01 17:00:00
 categories: news
 ---
