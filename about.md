@@ -27,5 +27,7 @@ Graduated in April 2014, from Master in Visual and Multimedia Communication at F
 </p>
 <br>
 I am 1/3 of <a href="http://www.iperstudio.net/about" target="_blank">Iperstudio Design Network→</a>
-<p>You can explore some of my projects visiting [Journal](http://fabriziogoglia.com//journal/) section or <a href="http://www.iperstudio.net/" target="_blank">Iperstudio website</a>.</p>
+
+You can explore some of my projects visiting [Journal](http://fabriziogoglia.com//journal/) section or <a href="http://www.iperstudio.net/" target="_blank">Iperstudio website</a>.
+
 For collaborative inquiries or sharing ideas please contact me via <a href="mailto:info@fabriziogoglia.com">email</a>.
