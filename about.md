@@ -32,4 +32,4 @@ You can explore some of my projects visiting [Journal](http://fabriziogoglia.com
 
 For collaborative inquiries or sharing ideas please contact me via <a href="mailto:info@fabriziogoglia.com">email</a>.
 <br>
-<a href=""mailto:info@fabriziogoglia.com" class="button">Contact me</a>
+<a href="mailto:info@fabriziogoglia.com" class="button">Contact me</a>
