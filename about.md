@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: about/
 author: Fabrizio
 menu: yes
 menu_order: 2
