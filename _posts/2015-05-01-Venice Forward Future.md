@@ -27,10 +27,9 @@ I designed graphic identity and printed artefacts for the exposition (with Chiar
 <br>
 <img src="https://38.media.tumblr.com/2d3833fcded6c67dc8033d468ece77b7/tumblr_nw47i7XoFX1thir10o1_1280.gif" alt="v>>f logos">
 <br>
-<img src="http://payload399.cargocollective.com/1/10/325579/10282917/manifesto.jpg" alt="v>>f catalogue">
-
-<br>
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/2.6_1600_c.jpeg" alt="v>>f logo rough">
+<br>
+<img src="http://payload399.cargocollective.com/1/10/325579/10282917/manifesto.jpg" alt="v>>f catalogue">
 <br>
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/Scan-24_1600_c.jpeg" alt="logo2">
 <br>
