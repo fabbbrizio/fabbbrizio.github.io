@@ -25,7 +25,7 @@ I designed graphic identity and printed artefacts for the exposition (with Chiar
 <br>
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/vf2.jpg" alt="Tent Design Week London">
 <br>
-<img src="http://payload399.cargocollective.com/1/10/325579/10282917/2.9_1600_c.png" alt="v>>f logo">
+<img src="https://38.media.tumblr.com/2d3833fcded6c67dc8033d468ece77b7/tumblr_nw47i7XoFX1thir10o1_1280.gif" alt="v>>f logos">
 <br>
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/2.6_1600_c.jpeg" alt="v>>f logo rough">
 <br>
