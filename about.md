@@ -24,7 +24,7 @@ menu_order: 2
 I am an Interaction and Visual designer, creating content and solutions for the web. My experience is mostly related in designing wireframe, mockup, prototype of interfaces for desktop, tablet and mobile.
 </p>
 
-<img src="http://payload122.cargocollective.com/1/10/325579/4757906/me.jpg" alt="About me">
+<img src="http://payload122.cargocollective.com/1/10/325579/4757906/IMG_1168-copia.jpg" alt="About me">
 
 
 <p>
