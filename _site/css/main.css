@@ -639,9 +639,11 @@ color:white;
   .blog-title-size {
     display: block;
     color: black;
-    font-size: 24px;
+    font-size: 30px;
     line-height: 44px;
     line-height: 1;
+    padding-bottom: 10px;
+    padding-top: 10px;
     transition-duration: 1.2s; }
     .blog-title-size:hover {
       color: #E74C3C;
