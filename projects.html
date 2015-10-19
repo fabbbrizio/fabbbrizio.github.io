@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
+permalink: Projects/
 author: Fabrizio
-menu: no
+menu: yes
 menu_order: 1
 ---
-
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -18,27 +17,27 @@ menu_order: 1
 
 </script>
 
-<h1>Projects</h1>
-<ul class="projects-list">
-
+<ul class="post-list">
   {% for post in site.posts %}
     {% for cat in post.categories %}
-    {% if cat == 'projects' %}
-    <li class="project">
+      {% unless cat == 'projects' %}
 
-<a href="{{ post.url }}">
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <h1>
+          <a class="blog-title-size" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h1>
 
-<img src="{{ post.featured_image }}" alt="" /> </a>
+        <p>{{ post.excerpt }}</p>
+        <a class="post-actions" href="{{ post.url | prepend: site.baseurl }}">Read more</a>
 
+      </li>
 
-      <h1>
-        <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
-      </h1>
+      <hr class>{{hr}}</hr>
 
-      <p>{{ post.excerpt }}</p>
-
-    </li>
-    {% endif %}
+       {% endunless %}
     {% endfor %}
   {% endfor %}
 </ul>
+
+<!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
