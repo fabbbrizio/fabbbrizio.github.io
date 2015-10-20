@@ -143,6 +143,18 @@ background-color: initial;
 */
 }
 
+body.with-full-bg–2 {
+  /*background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');*/
+  //background-image: url('/images/stellone.gif');
+  //background-image: url('/images/madonna.png');
+  color: #14141C;
+font-size: 46px;
+margin-top: 38px;
+  background-size: cover;
+
+}
+
+
 @include media-query($on-palm) {
   body.with-full-bg {
 
