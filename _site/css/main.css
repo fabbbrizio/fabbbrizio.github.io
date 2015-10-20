@@ -24,6 +24,15 @@ body {
   -webkit-font-smoothing: antialiased;
   font-smoothing: antialiased; }
 
+@media screen and (max-width: 600px) {
+  body {
+    font-family: "Lekton", sans-serif;
+    font-size: 16px;
+    /*font-size: 100px; */
+    line-height: 1.7;
+    font-weight: 400;
+    color: black;
+    background-color: #ECECEC; } }
 p.small {
   line-height: 1.2; }
 
@@ -78,9 +87,15 @@ ul, ol, dl, figure {
 img {
   max-width: 100%;
   vertical-align: middle;
-  margin-top: 15px;
-  margin-bottom: 15px; }
+  margin-top: 10px;
+  margin-bottom: 30px; }
 
+@media screen and (max-width: 600px) {
+  img {
+    max-width: 100%;
+    vertical-align: middle;
+    margin-top: 10px;
+    margin-bottom: 20px; } }
 .projects-list img {
   -webkit-filter: brightness(100%);
   transition-duration: 1.3s; }
@@ -658,7 +673,7 @@ color:white;
   font-size: 64px;
   letter-spacing: -1px;
   line-height: 1;
-  margin-top: 50px; }
+  margin-top: 0px; }
   @media screen and (max-width: 900px) {
     .post-title {
       font-size: 36px; } }
