@@ -45,21 +45,16 @@ hr {
   border-bottom: 2px dashed; }
 
 body.with-full-bg {
-  /*background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');*/
-  background-image: url("/images/madonna.png");
   color: #14141C;
   font-size: 46px;
   margin-top: 38px;
-  /*
-    background-size: cover;
-  
-    background: -webkit-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(rgb(160, 167, 163)), color-stop(0.5, rgb(190, 172, 181)), to(rgb(182, 195, 207)));
-    background: -moz-linear-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(rgb(160, 167, 163)), color-stop(0.5, rgb(190, 172, 181)), to(rgb(182, 195, 207)));
-    background: -ms-linear-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(rgb(160, 167, 163)), color-stop(0.5, rgb(190, 172, 181)), to(rgb(182, 195, 207)));
-    background: -o-linear-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(rgb(160, 167, 163)), color-stop(0.5, rgb(190, 172, 181)), to(rgb(182, 195, 207)));
-    background: linear-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(rgb(160, 167, 163)), color-stop(0.5, rgb(190, 172, 181)), to(rgb(182, 195, 207)));
-  
-    background-position-x: initial;
+  background-size: cover;
+  background: -webkit-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(#a0a7a3), color-stop(0.5, #beacb5), to(#b6c3cf));
+  background: -moz-linear-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(#a0a7a3), color-stop(0.5, #beacb5), to(#b6c3cf));
+  background: -ms-linear-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(#a0a7a3), color-stop(0.5, #beacb5), to(#b6c3cf));
+  background: -o-linear-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(#a0a7a3), color-stop(0.5, #beacb5), to(#b6c3cf));
+  background: linear-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(#a0a7a3), color-stop(0.5, #beacb5), to(#b6c3cf));
+  background-position-x: initial;
   background-position-y: initial;
   background-size: initial;
   background-repeat-x: initial;
@@ -68,11 +63,11 @@ body.with-full-bg {
   background-origin: initial;
   background-clip: initial;
   background-color: initial;
-  */
   /*
     background-repeat: no-repeat;
     line-height:1.4;
-  */ }
+  
+    */ }
 
 @media screen and (max-width: 600px) {
   body.with-full-bg {
