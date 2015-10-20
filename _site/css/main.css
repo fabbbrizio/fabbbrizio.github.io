@@ -64,8 +64,9 @@ body.with-full-bg {
   background-origin: initial;
   background-clip: initial;
   background-color: initial;
-  /*background-repeat: repeat;
-  line-height:1.4;
+  /*
+    background-repeat: no-repeat;
+    line-height:1.4;
   */ }
 
 @media screen and (max-width: 600px) {
