@@ -21,11 +21,11 @@ menu_order: 2
 <h1>About me</h1>
 
 <p>
-I am an Interaction and Visual designer, member of <a href="http://www.iperstudio.net/about" target="_blank">Iperstudio Design Network</a>. I graduated in 2014 at IUAV University of Venice, Master in Visual and Multimedia Communication, <a href="http://www.interaction-venice.com/" target="_blank">IxD program</a>, run by Gillian Crampton Smith and Philip Tabor.
+I am an Interaction and Visual designer. I graduated in 2014 at IUAV University of Venice, Master in Visual and Multimedia Communication –<a href="http://www.interaction-venice.com/" target="_blank">IxD program</a>– run by Gillian Crampton Smith and Philip Tabor.
 </p>
 
 <p>
-I collaborated with some agencies and organizations such as Unops—Ideass, Confartigianato Venezia, Re:common, Careof, Zeroviolenza, Superstudio media agency, BTM + Salviati, Materiaterza Design Collective.
+I am a member of <a href="http://www.iperstudio.net/about" target="_blank">Iperstudio Design Network</a> and I collaborated with some agencies and organizations such as Unops—Ideass, Confartigianato Venezia, Re:common, Careof, Zeroviolenza, Superstudio media agency, BTM + Salviati, Materiaterza Design Collective.
 </p>
 
 <p>
