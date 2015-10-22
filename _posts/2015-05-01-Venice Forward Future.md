@@ -50,3 +50,6 @@ mould/" target="_blank">Nykyinen</a>, <a href="http://www.domusweb.it/content/do
 <br>
 <br>
 <a href="http://venice-future.com/" target="_blank" class="button">Explore project website</a>
+<br>
+<br>
+<a href="http://fabriziogoglia.com//Projects/" font-size="16px"><< A project</a><a href="http://fabriziogoglia.com//Projects/" font-size="16px" align="right"><< B project</a>
