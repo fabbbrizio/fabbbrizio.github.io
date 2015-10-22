@@ -23,7 +23,7 @@ menu_order: 2
 <p>
 I graduated in 2014 at IUAV University of Venice, Master in Visual and Multimedia Communication – <a href="http://www.interaction-venice.com/" target="_blank">IxD program</a> – run by Gillian Crampton Smith and Philip Tabor.
 </p>
-I design communication strategies and interfaces, building navigation flow, wireframe, mockup and prototype for web products.
+I design communication strategies and interfaces, building navigation flow, wireframes, mockups and prototypes for web products.
 <p>
 I am a member of <a href="http://www.iperstudio.net/about" target="_blank">Iperstudio Design Network</a>. As designer and illustrator I collaborated with agencies and organizations such as Unops—Ideass, Confartigianato Venezia, Re:common, Careof, Zeroviolenza, Superstudio media agency, BTM + Salviati, Materiaterza Design Collective. The latest project I have worked on is <a href="https://www.careof.org/" target="_blank">Careof website</a>.
 </p>
