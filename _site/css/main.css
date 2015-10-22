@@ -41,7 +41,9 @@ p.big {
 hr {
   border: 0;
   color: white;
-  border-bottom: 2px dashed; }
+  border-bottom: 2px dashed;
+  margin-bottom: 20px;
+  margin-top: 20px; }
 
 body.with-full-bg {
   color: #14141C;
@@ -274,9 +276,9 @@ button {
 
 .site-title {
   color: black;
-  font-size: 21px;
-  font-weight: 700;
-  line-height: 71px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 50px;
   letter-spacing: none;
   margin-top: none;
   margin-bottom: none;
@@ -297,9 +299,9 @@ button {
 @media screen and (max-width: 600px) {
   .site-title {
     color: black;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 73px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 74px;
     letter-spacing: none;
     margin-top: none;
     margin-bottom: none;
@@ -320,7 +322,7 @@ button {
   display: inline;
   float: right;
   position: 0px;
-  line-height: 71px; }
+  line-height: 50px; }
   .site-nav:visited {
     color: black; }
   .site-nav:hover {
@@ -617,7 +619,7 @@ color:white;
     margin-bottom: 10px; }
 
 .post-meta {
-  font-size: 18.375px;
+  font-size: 16px;
   color: #828282; }
 
 .post-link {
