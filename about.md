@@ -21,7 +21,7 @@ menu_order: 2
 <h1>About me</h1>
 
 <p>
-I am an Interaction and Visual designer. I graduated in 2014 at IUAV University of Venice, Master in Visual and Multimedia Communication –<a href="http://www.interaction-venice.com/" target="_blank">IxD program</a>– run by Gillian Crampton Smith and Philip Tabor.
+I am an Interaction and Visual designer. I graduated in 2014 at IUAV University of Venice, Master in Visual and Multimedia Communication – <a href="http://www.interaction-venice.com/" target="_blank">IxD program</a> – run by Gillian Crampton Smith and Philip Tabor.
 </p>
 
 <p>
