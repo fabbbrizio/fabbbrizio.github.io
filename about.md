@@ -27,7 +27,6 @@ I am an Interaction and Visual designer. I graduated in 2014 at IUAV University 
 <p>
 I am a member of <a href="http://www.iperstudio.net/about" target="_blank">Iperstudio Design Network</a> and I collaborated with some agencies and organizations such as Unops—Ideass, Confartigianato Venezia, Re:common, Careof, Zeroviolenza, Superstudio media agency, BTM + Salviati, Materiaterza Design Collective.
 </p>
-You can explore part of my work visiting <a href="">Projects section</a> or <a href="http://www.iperstudio.net" target="_blank">Iperstudio website</a>.
 <p>
-For collaborative inquiries or sharing ideas please contact me via <a href="mailto:info@fabriziogoglia.com">email</a>.
+You can explore part of my work visiting <a href="">Projects section</a> or <a href="http://www.iperstudio.net" target="_blank">Iperstudio website</a>. For collaborative inquiries or sharing ideas please contact me via <a href="mailto:info@fabriziogoglia.com">email</a>.
 </p>
