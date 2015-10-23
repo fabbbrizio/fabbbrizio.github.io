@@ -3,13 +3,17 @@
  */
 .site-header {
     min-height: 1px;
-      //background-color: #f0f0f0;
+
+    width: 100%;
+      background-color: #f0f0f0;
+
       //background-color: #ECF0F1;
-      background-color: transparent;
+      //background-color: transparent;
     // Positioning context for the mobile navigation icon
-    position: relative;
+    position: fixed;
     //border-bottom: 0.1em solid rgba(0, 0, 0, 0.13);
     border-bottom: 0.1em solid #FFFFFF;
+
 }
 
 .site-logo {
@@ -61,7 +65,7 @@
     color:black;
     font-size: 16px;
     font-weight: $font-weight-normal;
-    line-height: 74px;
+    line-height: 50px;
     letter-spacing: none;
     margin-top: none;
     margin-bottom: none;

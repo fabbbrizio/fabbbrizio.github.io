@@ -264,8 +264,9 @@ button {
  */
 .site-header {
   min-height: 1px;
-  background-color: transparent;
-  position: relative;
+  width: 100%;
+  background-color: #f0f0f0;
+  position: fixed;
   border-bottom: 0.1em solid #FFFFFF; }
 
 .site-logo {
@@ -301,7 +302,7 @@ button {
     color: black;
     font-size: 16px;
     font-weight: 400;
-    line-height: 74px;
+    line-height: 50px;
     letter-spacing: none;
     margin-top: none;
     margin-bottom: none;
