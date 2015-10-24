@@ -237,6 +237,13 @@ pre {
 .with-full-bg .wrapper {
   margin-top: 60px; }
 
+body .with-full-bg2 {
+  background-image: url("/images/goya.png");
+  color: #14141C;
+  font-size: 46px;
+  margin-top: 38px;
+  background-size: cover; }
+
 /**
  * Clearfix
  */
