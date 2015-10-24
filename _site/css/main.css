@@ -676,7 +676,7 @@ color:white;
   font-size: 64px;
   letter-spacing: -1px;
   line-height: 1;
-  margin-top: 0px; }
+  margin-top: 50px; }
   @media screen and (max-width: 900px) {
     .post-title {
       font-size: 36px; } }
