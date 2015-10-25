@@ -7,8 +7,8 @@ menu: yes
 menu_order: 2
 ---
 
-<h1>About me</h1>
 
+<h1>About me</h1>
 <p>
 I graduated in 2014 at IUAV University of Venice, Master in Visual and Multimedia Communication – <a href="http://www.interaction-venice.com/" target="_blank">IxD program</a> – run by Gillian Crampton Smith and Philip Tabor.
 </p>
