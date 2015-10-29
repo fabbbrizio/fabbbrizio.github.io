@@ -70,7 +70,7 @@
     font-weight: 700;
     line-height: 50px;
     letter-spacing: none;
-    margin-top: none;
+    margin-top: 10px;
     margin-bottom: none;
     margin-left: 0px;
     float: left;
@@ -157,11 +157,13 @@ display: inline;
     @include media-query($on-palm) {
         position: inline;
         top: 0px;
-        right: 30px;
+        right: 0px;
         //background-color: $background-color;
         //border: 0px solid $grey-color-light;
         //border-radius: 5px;
         text-align: right;
+        margin-top: 10px;
+        margin-right: 10px;
 
         .menu-icon {
 

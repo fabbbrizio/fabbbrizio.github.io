@@ -304,7 +304,7 @@ button {
     font-weight: 700;
     line-height: 50px;
     letter-spacing: none;
-    margin-top: none;
+    margin-top: 10px;
     margin-bottom: none;
     margin-left: 0px;
     float: left;
@@ -350,8 +350,10 @@ button {
     .site-nav {
       position: inline;
       top: 0px;
-      right: 30px;
-      text-align: right; }
+      right: 0px;
+      text-align: right;
+      margin-top: 10px;
+      margin-right: 10px; }
       .site-nav .menu-icon {
         display: none;
         float: right;
