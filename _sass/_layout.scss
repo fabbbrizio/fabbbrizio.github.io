@@ -29,9 +29,9 @@
 .site-title {
 
     color:black;
-    font-size: 32px;
+    font-size: 55px;
     font-weight: 700;
-    line-height: 50px;
+    line-height: 77px;
     letter-spacing: none;
 
     margin-top: none;
@@ -66,9 +66,9 @@
 .site-title {
 
     color:black;
-    font-size: 32px;
+    font-size: 80px;
     font-weight: 700;
-    line-height: 50px;
+    line-height: 77px;
     letter-spacing: none;
     margin-top: 10px;
     margin-bottom: none;
@@ -106,13 +106,11 @@
 
 
     display: inline;
-    font-size: 21px;
+    font-size: 55px;
     float: right;
     position: 0px;
-    line-height: 50px;
-    font-weight: 700;
-
-
+    line-height: 70px;
+    font-weight: 400;
 
 
     &:visited {
@@ -132,8 +130,9 @@
     .page-link {
         color: black;
         background-color: transparent;
-        font-size: 16px;
+        font-size: 21px;
         padding: 0px 5px;
+
 
         // Gaps between nav items, but not on the first one
       &:not(:first-child) {
@@ -160,14 +159,12 @@
 
     @include media-query($on-palm) {
         position: inline;
-        top: 0px;
-        right: 0px;
         //background-color: $background-color;
         //border: 0px solid $grey-color-light;
         //border-radius: 5px;
         text-align: right;
         margin-top: 10px;
-        margin-right: 10px;
+        margin-right: 4px;
 
         .menu-icon {
 
@@ -206,7 +203,7 @@
 
             display: inline;
             padding: 5px 4px;
-            font-size: 16px;
+            font-size: 21px;
         }
     }
 }
@@ -228,7 +225,7 @@
   color: #E74C3C;
   background: transparent;
   border: solid #E74C3C 3px;
-  font-size: 16px;
+  font-size: 21px;
   padding: 10px 20px 10px 20px;
   text-transform: none;
   letter-spacing: none;
@@ -493,7 +490,7 @@ color:white;
 
 }
 .page-heading {
-    font-size: 16px;
+    font-size: 21px;
 }
 
 .post-list,
@@ -503,7 +500,24 @@ color:white;
 
      li {
         margin-bottom: $spacing-unit;
+        margin-top: 10px;
     }
+
+}
+
+@include media-query($on-palm) {
+
+  .post-list,
+  .projects-list {
+      margin-left: 0;
+      list-style: none;
+
+       li {
+          margin-bottom: $spacing-unit;
+          margin-top: 50px;
+      }
+
+  }
 
 }
 
@@ -551,7 +565,7 @@ transition-duration: 1.2s;
 .blog-title-size {
   display: block;
     color: black;
-    font-size: 45px;
+    font-size: 55px;
     line-height: 65px;
 
 
@@ -568,7 +582,7 @@ transition-duration: 1.2s;
 .blog-title-size {
 display: block;
   color: black;
-  font-size: 30px;
+  font-size: 32px;
   line-height: 44px;
   line-height: 1;
   padding-bottom: 10px;
