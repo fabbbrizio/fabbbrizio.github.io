@@ -16,6 +16,7 @@ I graduated in 2014 at IUAV University of Venice, Master in Visual and Multimedi
 I design communication strategies and interfaces, building navigation flow, wireframes, mockups and prototypes for web products.
 <p>
 <!-- I am a member of <a href="http://www.iperstudio.net/about" target="_blank">Iperstudio Design Network</a>. -->
+<!--
 As designer and illustrator I collaborated with agencies and organizations such as Unops—Ideass, Confartigianato Venezia, Re:common, Careof, Zeroviolenza, Superstudio media agency, BTM + Salviati, Materiaterza Design Collective.
 -->
 The latest project I worked on is <a href="https://www.careof.org/" target="_blank">Careof website</a>.
