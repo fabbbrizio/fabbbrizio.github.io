@@ -266,9 +266,8 @@ button {
 .site-header {
   min-height: 1px;
   width: 100%;
-  background-color: #f0f0f0;
-  position: fixed;
-  border-bottom: 0.1em solid #FFFFFF; }
+  background-color: transparent;
+  position: fixed; }
 
 .site-logo {
   width: 60px;
@@ -278,8 +277,8 @@ button {
 
 .site-title {
   color: black;
-  font-size: 16px;
-  font-weight: 400;
+  font-size: 32px;
+  font-weight: 700;
   line-height: 50px;
   letter-spacing: none;
   margin-top: none;
@@ -301,13 +300,13 @@ button {
 @media screen and (max-width: 600px) {
   .site-title {
     color: black;
-    font-size: 16px;
-    font-weight: 400;
+    font-size: 21px;
+    font-weight: 700;
     line-height: 50px;
     letter-spacing: none;
     margin-top: none;
     margin-bottom: none;
-    margin-left: 7px;
+    margin-left: 0px;
     float: left;
     text-transform: none;
     display: block;
@@ -336,7 +335,7 @@ button {
     color: black;
     background-color: transparent;
     font-size: 16px;
-    padding: 0px 6px; }
+    padding: 0px 5px; }
     .site-nav .page-link:not(:first-child) {
       margin-left: none; }
     .site-nav .page-link:hover {
