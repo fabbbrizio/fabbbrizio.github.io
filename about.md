@@ -10,6 +10,8 @@ menu_order: 2
 
 <h1>About me</h1>
 <p>
+<br>
+<br>
 I graduated in 2014 at IUAV University of Venice, Master in Visual and Multimedia Communication – <a href="http://www.interaction-venice.com/" target="_blank">IxD program</a> – run by Gillian Crampton Smith and Philip Tabor.
 <!--
 </p>
@@ -19,9 +21,10 @@ I design communication strategies and interfaces, building navigation flow, wire
 <!--
 As designer and illustrator I collaborated with agencies and organizations such as Unops—Ideass, Confartigianato Venezia, Re:common, Careof, Zeroviolenza, Superstudio media agency, BTM + Salviati, Materiaterza Design Collective.
 -->
-<p>
+<br>
 The latest project I worked on is <a href="https://www.careof.org/" target="_blank">Careof website</a>.
 </p>
 <p>
+<br>
 You can explore part of my work visiting <a href="http://fabriziogoglia.com//Projects/">Projects section</a> or <a href="http://www.iperstudio.net" target="_blank">Iperstudio website</a>. For collaborative inquiries or sharing ideas please contact me via <a href="mailto:info@fabriziogoglia.com">email</a>.
 </p>
