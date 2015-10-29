@@ -19,6 +19,7 @@ I design communication strategies and interfaces, building navigation flow, wire
 <!--
 As designer and illustrator I collaborated with agencies and organizations such as Unops—Ideass, Confartigianato Venezia, Re:common, Careof, Zeroviolenza, Superstudio media agency, BTM + Salviati, Materiaterza Design Collective.
 -->
+<p>
 The latest project I worked on is <a href="https://www.careof.org/" target="_blank">Careof website</a>.
 </p>
 <p>
