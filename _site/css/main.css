@@ -90,14 +90,14 @@ ul, ol, dl, figure {
 img {
   max-width: 100%;
   vertical-align: middle;
-  margin-top: 30px;
+  margin-top: 0px;
   margin-bottom: 30px; }
 
 @media screen and (max-width: 600px) {
   img {
     max-width: 100%;
     vertical-align: middle;
-    margin-top: 20px;
+    margin-top: 0px;
     margin-bottom: 20px; } }
 .projects-list img {
   -webkit-filter: brightness(100%);

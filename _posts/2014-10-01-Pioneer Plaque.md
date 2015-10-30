@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Pioneer Plaque"
-featured_image: /images/projects/pioneer/plaque.jpg
+#featured_image: /images/projects/pioneer/plaque.jpg
 date:   1972-09-14 19:13:23
-categories: post
+categories: news
 ---
 
 <img src="http://payload403.cargocollective.com/1/10/325579/10371245/plaque.jpg" alt="Pioneer cover">
