@@ -7,7 +7,7 @@ menu: yes
 menu_order: 1
 ---
 
-<ul class="post-list">
+<ul class="projects-list">
   {% for post in site.posts %}
     {% for cat in post.categories %}
       {% unless cat == 'projects' %}
@@ -18,7 +18,7 @@ menu_order: 1
           <a class="blog-title-size" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h1>
 
-        <p>{{ post.excerpt }}</p>
+        {{ post.excerpt }}
         <a class="post-actions" href="{{ post.url | prepend: site.baseurl }}">Read more</a>
 
       </li>
