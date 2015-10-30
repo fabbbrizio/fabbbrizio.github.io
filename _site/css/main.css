@@ -277,7 +277,7 @@ button {
 
 .site-title {
   color: black;
-  font-size: 55px;
+  font-size: 35px;
   font-weight: 700;
   line-height: 77px;
   letter-spacing: none;
@@ -300,7 +300,7 @@ button {
 @media screen and (max-width: 600px) {
   .site-title {
     color: black;
-    font-size: 80px;
+    font-size: 35px;
     font-weight: 700;
     line-height: 77px;
     letter-spacing: none;
@@ -336,7 +336,7 @@ button {
   .site-nav .page-link {
     color: black;
     background-color: transparent;
-    font-size: 21px;
+    font-size: 18px;
     padding: 0px 5px; }
     .site-nav .page-link:not(:first-child) {
       margin-left: none; }
@@ -374,7 +374,7 @@ button {
       .site-nav .page-link {
         display: inline;
         padding: 5px 4px;
-        font-size: 21px; } }
+        font-size: 18px; } }
 
 .with-full-bg .site-nav .page-link {
   color: #EFEFEF; }
