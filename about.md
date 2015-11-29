@@ -12,6 +12,11 @@ menu_order: 2
 I graduated in 2014 at IUAV University of Venice, Master in Visual and Multimedia Communication – <a href="http://www.interaction-venice.com/" target="_blank">IxD program</a> – run by Gillian Crampton Smith and Philip Tabor.
 </p>
 <!--
+<p>
+I joined as Interaction and Visual designer, <a href="http://www.iperstudio.net/" target="_blank"><font color="black">Iperstudio </a></font> Design Network for <font color="blue"><a href="https://www.careof.org/" target="_blank"><font color="black">C/O</a></font> web project and <a href="http://materiaterza.com/" target="_blank"><font color="black">Materiaterza</a></font> Design Collective for <a href="http://venice-future.com/" target="_blank"><font color="black">V>>F</a></font> project.
+</p>
+-->
+<!--
 I design communication strategies and interfaces, building navigation flow, wireframes, mockups and prototypes for web products.
 <p>
 <!-- I am a member of <a href="http://www.iperstudio.net/about" target="_blank">Iperstudio Design Network</a>. -->
