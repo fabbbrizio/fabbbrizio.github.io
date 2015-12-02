@@ -8,7 +8,7 @@ menu_order: 2
 ---
 <br>
 <br>
-<font size="42px">Work</font size>
+<font size="42px">Work</font>
 <br>
 <br>
 2015 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>MM–ONE Group</b> — Designer • Venice
