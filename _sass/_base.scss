@@ -122,7 +122,7 @@ body.with-full-bg {
   color: #14141C;
   font-size: 46px;
   margin-top: 38px;
-
+/*
   background-size: cover;
 
   background: -webkit-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(rgb(160, 167, 163)), color-stop(0.5, rgb(190, 172, 181)), to(rgb(182, 195, 207)));
@@ -141,11 +141,11 @@ background-origin: initial;
 background-clip: initial;
 background-color: initial;
 
-/*
+*/
   background-repeat: no-repeat;
   line-height:1.4;
 
-  */
+  
 }
 
 @include media-query($on-palm) {
