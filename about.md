@@ -11,7 +11,9 @@ menu_order: 2
 <font size="42px">Work</font>
 <br>
 <br>
-2015 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>MM–ONE Group</b> — Designer • Venice
+<br>
+2015 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>MM–ONE Group</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Designer • Venice
 <br>
 <br>
 2014 - 2015 &nbsp; <b>Iperstudio</b> – Designer • Venice
