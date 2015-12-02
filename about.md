@@ -47,7 +47,6 @@ Designer and random illustrator.
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Intern, Designer • Rome
 <br>
 <br>
-<br>
 <hr>
 <font size="42px">Workshops</font>
 <br>
