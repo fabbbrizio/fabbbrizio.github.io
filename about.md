@@ -9,7 +9,7 @@ menu_order: 2
 
 <font size="42px"><b>About</b></font>
 <br>
-Designer and random illustrator, former Iperstudio member and student of IUAV IxD program, living and working in Venice.
+Designer and random illustrator, former <a href="http://www.iperstudio.net/" target="_blank">Iperstudio</a> member and student of <a href="http://www.interaction-venice.com/" target="_blank">IUAV IxD</a>program, living and working in Venice.
 
 <br>
 <font size="42px">Work</font>
