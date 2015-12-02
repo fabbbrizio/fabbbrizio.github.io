@@ -8,6 +8,9 @@ menu_order: 2
 ---
 <br>
 <br>
+Designer and random illustrator. UI designer at MM-One, former Iperstudio member and student of IUAV IxD program.
+<br>
+<br>
 <font size="42px">Work</font>
 <br>
 <br>
@@ -33,7 +36,7 @@ menu_order: 2
 <br>
 <br>
 2011 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Re:Common</b>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Designer • Remote
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaborator, Designer • Remote
 <br>
 <br>
 2011 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Service Civil International</b>
