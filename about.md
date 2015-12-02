@@ -6,9 +6,11 @@ author: Fabrizio
 menu: yes
 menu_order: 2
 ---
+<font size="42px"><b>About</b></font>
 <br>
 <br>
-Designer and random illustrator. UI designer at MM-One, former Iperstudio member and student of IUAV IxD program.
+Designer and random illustrator.
+<p>UI designer at MM-One, former Iperstudio member and student of IUAV IxD program.
 <br>
 <br>
 <font size="42px">Work</font>
@@ -45,7 +47,33 @@ Designer and random illustrator. UI designer at MM-One, former Iperstudio member
 <br>
 2010 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Superstudio Agency</b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Intern, Designer • Rome
-
+<br>
+<br>
+<br>
+<font size="42px">Workshops</font>
+<br>
+<br>
+<br>
+2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>X – A variable hunts for identity</b>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FF3300
+<br>
+<br>
+2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Interaction Design workshop</b>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Durrell Bishop
+<br>
+<br>
+2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Physical Computing</b>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Giorgio Olivero > TODO
+<br>
+<br>
+2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Interface design</b>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Susanne Stage e Stanley Wood > Spotify
+<br>
+<br>
+2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Data Visualization</b>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Till Nagel > MIT Senseable City Lab
+<br>
+<br>
 
 <!--
 FFFF33
