@@ -115,13 +115,14 @@ hr {
 }
 
 body.with-full-bg {
-  //background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');
-  background-image: url('/images/stellone.gif');
+  background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');
+  //background-image: url('/images/stellone.gif');
   //background-image: url('/images/madonna.png');
   //background-image: url('/images/goya.png');
   color: #14141C;
   font-size: 46px;
   margin-top: 38px;
+  background-size: cover;
 /*
   background-size: cover;
 
@@ -145,7 +146,7 @@ background-color: initial;
   background-repeat: no-repeat;
   line-height:1.4;
 
-  
+
 }
 
 @include media-query($on-palm) {
