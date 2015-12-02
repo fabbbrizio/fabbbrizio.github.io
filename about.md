@@ -12,7 +12,6 @@ menu_order: 2
 Designer and random illustrator.
 -->
 <br>
-<br>
 <font size="42px">Work</font>
 <br>
 <br>
