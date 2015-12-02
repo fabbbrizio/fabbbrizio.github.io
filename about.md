@@ -6,9 +6,9 @@ author: Fabrizio
 menu: yes
 menu_order: 2
 ---
-<!--
+
 <font size="42px"><b>About</b></font>
--->
+
 Designer and random illustrator, former Iperstudio member and student of IUAV IxD program, living and working in Venice.
 
 <br>
