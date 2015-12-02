@@ -17,7 +17,7 @@ menu_order: 2
 <br>
 <br>
 2014 - 2015 &nbsp; <b>Iperstudio</b>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Designer • Venice
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Designer • Venice
 <br>
 <br>
 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Materiaterza</b>
@@ -25,7 +25,7 @@ menu_order: 2
 <br>
 <br>
 2014 - 2015 &nbsp; <b>Confartigianato</b>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Designer • Venice
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Designer • Venice
 <br>
 <br>
 2013 – 2014 &nbsp; <b>Unops–Ideass</b>
