@@ -9,7 +9,6 @@ menu_order: 2
 <font size="42px"><b>About</b></font>
 <br>
 Designer and random illustrator.
-<p>UI Designer at MM-One, former Iperstudio member and student of IUAV IxD program.
 <br>
 <br>
 <font size="42px">Work</font>
