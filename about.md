@@ -8,9 +8,9 @@ menu_order: 2
 ---
 <!--
 <font size="42px"><b>About</b></font>
-<br>
-Designer and random illustrator.
 -->
+Designer and random illustrator, living and working in Venice.
+
 <br>
 <font size="42px">Work</font>
 <br>
