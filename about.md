@@ -11,19 +11,19 @@ menu_order: 2
 <h1>Collaborations</h1>
 
 2015 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>MM–ONE Group</b> — Designer • Venice
-
+<p>
 2014 - 2015 &nbsp; <b>Iperstudio</b> – Designer • Venice
-
+<p>
 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Materiaterza</b> – Designer • Venice
-
+<p>
 2014 - 2015 &nbsp; <b>Confartigianato</b> – Designer • Venice
-
+<p>
 2013 – 2014 &nbsp; <b>Unops–Ideass</b> - Research collaborator • FAO, Rome
-
+<p>
 2011 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Re:common</b> – Designer • Remote
-
+<p>
 2011 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Service Civil International</b> – Campaigner • Italy, India
-
+<p>
 2010 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Superstudio Agency</b> – Intern, Designer • Rome
 
 
