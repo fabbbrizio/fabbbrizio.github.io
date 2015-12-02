@@ -14,7 +14,7 @@ menu_order: 2
 
 2014 - 2015 &nbsp; <b>Iperstudio</b> – Designer • Venice
 
-2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Materiaterza</b> – Designer • Venice
+2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Materiaterza</b> – Designer • Venice
 
 2014 - 2015 &nbsp; <b>Confartigianato</b> – Designer • Venice
 
@@ -22,9 +22,9 @@ menu_order: 2
 
 2011 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Re:common</b> – Designer • Remote
 
-2011 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Service Civil International</b> – Campaigner • Italy, India
+2011 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Service Civil International</b> – Campaigner • Italy, India
 
-2010 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Superstudio Agency</b> – Intern, Designer • Rome
+2010 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Superstudio Agency</b> – Intern, Designer • Rome
 
 
 <!--
