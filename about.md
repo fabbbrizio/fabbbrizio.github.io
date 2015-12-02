@@ -7,7 +7,7 @@ menu: yes
 menu_order: 2
 ---
 
-<font size="42px"><b>About</b></font>
+<font size="42px">About</font>
 <br>
 Designer and random illustrator, former <a href="http://www.iperstudio.net/" target="_blank">Iperstudio</a> member and student of <a href="http://www.interaction-venice.com/" target="_blank">IUAV IxD</a> program, living and working in Venice.
 
