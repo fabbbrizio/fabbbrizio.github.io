@@ -8,7 +8,7 @@ menu_order: 2
 ---
 <br>
 <br>
-<h1>Collaborations</h1>
+<h1>Work</h1>
 
 2015 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>MM–ONE Group</b> — Designer • Venice
 <br>
