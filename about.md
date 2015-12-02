@@ -14,7 +14,7 @@ menu_order: 2
 
 2014 - 2015   Iperstudio – Designer • Venice
 
-2014 &nbsp Materiaterza – Designer • Venice
+2014 <&nbsp> Materiaterza – Designer • Venice
 
 2014 - 2015   Confartigianato – Designer • Venice
 
