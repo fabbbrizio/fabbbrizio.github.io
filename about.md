@@ -10,24 +10,25 @@ menu_order: 2
 <br>
 <b>Collaborations</b>
 
-2015 –        MM–ONE Group — Designer | Venice
+2015 –        MM–ONE Group — Designer • Venice
 
-2014 - 2015   Iperstudio – Designer | Venice
+2014 - 2015   Iperstudio – Designer • Venice
 
-2014          Materiaterza – Designer | Venice
+2014          Materiaterza – Designer • Venice
 
-2014 - 2015   Confartigianato – Designer | Venice
+2014 - 2015   Confartigianato – Designer • Venice
 
-2013 – 2014   Unops–Ideass - Research collaborator | FAO, Rome
+2013 – 2014   Unops–Ideass - Research collaborator • FAO, Rome
 
-2011 –        Re:common – Designer | Remote, Rome
+2011 –        Re:common – Designer • Remote
 
-2011          Service Civil International – Campaigner | Italy, India
+2011          Service Civil International – Campaigner • Italy, India
 
-2010          Superstudio Agency – Intern, Designer | Rome
+2010          Superstudio Agency – Intern, Designer • Rome
 
 
 <!--
+FFFF33
 I graduated in 2014 at IUAV University of Venice, Master in Visual and Multimedia Communication – <a href="http://www.interaction-venice.com/" target="_blank">IxD program</a> – run by Gillian Crampton Smith and Philip Tabor.
 -->
 
