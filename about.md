@@ -15,7 +15,6 @@ Designer and random illustrator.
 <font size="42px">Work</font>
 <br>
 <br>
-<br>
 2015 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>MM–ONE Group</b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Designer • Venice
 <br>
@@ -49,8 +48,8 @@ Designer and random illustrator.
 <br>
 <br>
 <br>
+<hr>
 <font size="42px">Workshops</font>
-<br>
 <br>
 <br>
 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>X – A variable hunts for identity</b>
@@ -69,7 +68,7 @@ Designer and random illustrator.
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Susanne Stage and Stanley Wood > Spotify
 <br>
 <br>
-2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Data Visualization</b>
+2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Interactive Data Visualization</b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Till Nagel > MIT Senseable City Lab
 <br>
 <br>
