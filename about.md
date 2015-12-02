@@ -16,17 +16,20 @@ menu_order: 2
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Designer • Venice
 <br>
 <br>
-2014 - 2015 &nbsp; <b>Iperstudio</b> – Designer • Venice
+2014 - 2015 &nbsp; <b>Iperstudio</b>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Designer • Venice
 <br>
 <br>
 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Materiaterza</b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Designer • Venice
 <br>
 <br>
-2014 - 2015 &nbsp; <b>Confartigianato</b> – Designer • Venice
+2014 - 2015 &nbsp; <b>Confartigianato</b>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Designer • Venice
 <br>
 <br>
-2013 – 2014 &nbsp; <b>Unops–Ideass</b> - Research collaborator • FAO, Rome
+2013 – 2014 &nbsp; <b>Unops–Ideass</b>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research collaborator • FAO, Rome
 <br>
 <br>
 2011 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Re:Common</b>
