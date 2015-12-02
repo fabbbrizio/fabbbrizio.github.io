@@ -6,9 +6,11 @@ author: Fabrizio
 menu: yes
 menu_order: 2
 ---
+<!--
 <font size="42px"><b>About</b></font>
 <br>
 Designer and random illustrator.
+-->
 <br>
 <br>
 <font size="42px">Work</font>
