@@ -55,7 +55,7 @@ Designer and random illustrator, former <a href="http://www.iperstudio.net/" tar
 2013 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Interface design</b> – Susanne Stage and Stanley Wood > Spotify
 <br>
 <br>
-2011 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Interactive Data Visualization</b> – Till Nagel > MIT Senseable City Lab
+2011 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Interactive Data Visualization</b> – Till Nagel
 <br>
 <br>
 
