@@ -42,4 +42,5 @@ In the end I create a pattern that imitates the ceramic extruded form, and I use
 <img src="http://payload399.cargocollective.com/1/10/325579/10282961/3.1.jpg" alt="">
 
 For the project I designed the identity for printed artefacts and shops exposition of the ceramic 3D printed objects.
-<a href="href="http://materiaterza.com/" target="_blank" class="button">Explore Materiaterza website</a>
+
+<a href="http://materiaterza.com/" target="_blank" class="button">Explore Materiaterza website</a>
