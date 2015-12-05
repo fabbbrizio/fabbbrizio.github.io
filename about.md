@@ -18,19 +18,19 @@ Designer and random illustrator, former <a href="http://www.iperstudio.net/" tar
 2015 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>MM–ONE Group</b> – UI Designer • Venice
 <br>
 <br>
-2014 - 2015 &nbsp; <b>Iperstudio</b> – Designer • Venice
+2014 - 2015 &nbsp; <b>Iperstudio</b> – Former member Designer • Venice
 <br>
 <br>
 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Materiaterza</b> – Designer • Venice
 <br>
 <br>
-2014 - 2015 &nbsp; <b>Confartigianato</b> – Designer • Venice
+2014 - 2015 &nbsp; <b>Confartigianato</b> – Freelance Designer • Venice
 <br>
 <br>
 2013 – 2014 &nbsp; <b>Unops–Ideass</b> – Research collaborator • FAO, Rome
 <br>
 <br>
-2011 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Re:Common</b> – Collaborator, Designer • Remote
+2011 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Re:Common</b> – Freelance Designer • Remote
 <br>
 <br>
 2011 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Service Civil International</b> – Campaigner • Italy, India
