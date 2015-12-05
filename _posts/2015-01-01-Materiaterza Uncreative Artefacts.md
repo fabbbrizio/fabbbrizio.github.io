@@ -15,11 +15,11 @@ The origin of the project came from the encounter between Davide Tuberga – pro
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282961/IMGP0929.JPG" alt="">
 
+<iframe src="https://player.vimeo.com/video/140449058?color=e74c3c&title=0&byline=0&portrait=0" width="100%" height="440" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 I joined the group with Chiara Costantini – graphic designer – with the interest to explore deeply this kind of production processes, that fuse the traditional handicraft with modern digital approaches.
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282961/IMG_1279_o.JPG" alt="">
-
-<iframe src="https://player.vimeo.com/video/140449058?color=e74c3c&title=0&byline=0&portrait=0" width="100%" height="440" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282961/2.9.gif" alt="">
 
