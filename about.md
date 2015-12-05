@@ -18,7 +18,7 @@ Designer and random illustrator, former <a href="http://www.iperstudio.net/" tar
 2015 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>MM–ONE Group</b> – UI Designer • Venice
 <br>
 <br>
-2014 - 2015 &nbsp; <b>Iperstudio</b> – Former member Designer • Venice
+2014 - 2015 &nbsp; <b>Iperstudio</b> – Former member, Designer • Venice
 <br>
 <br>
 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Materiaterza</b> – Designer • Venice
