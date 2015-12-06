@@ -39,7 +39,7 @@ I work across different communication disciplines; from identity design, design 
 2011 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Service Civil International</b> – Campaigner • Italy, India
 <br>
 <br>
-2010 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Superstudio Agency</b> – Intern, Designer • Rome
+2011 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Superstudio Agency</b> – Intern, Designer • Rome
 <br>
 <br>
 2011 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>School of Arts & Crafts</b> • Web Design certificate • Rome
