@@ -11,7 +11,7 @@ menu_order: 2
 <br>
 Designer and random illustrator, former <a href="http://www.iperstudio.net/" target="_blank">Iperstudio</a> and <a href="http://materiaterza.com/" target="_blank">Materiaterza</a> member and student of <a href="http://www.interaction-venice.com/" target="_blank">IUAV IxD</a> program, living and working in Venice.
 <hr>
-<br>
+
 <font size="42px">Work</font>
 <br>
 2015 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>MM–ONE Group</b> – UI Designer • Venice
