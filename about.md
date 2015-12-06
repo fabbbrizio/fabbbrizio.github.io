@@ -9,7 +9,8 @@ menu_order: 2
 
 <font size="42px">About</font>
 <br>
-Designer and random illustrator, former <a href="http://www.iperstudio.net/" target="_blank">Iperstudio</a> and <a href="http://materiaterza.com/" target="_blank">Materiaterza</a> member and student of <a href="http://www.interaction-venice.com/" target="_blank">IUAV IxD</a> program, living and working in Venice.
+Hello, I am Fabrizio, Designer and random illustrator, former <a href="http://www.iperstudio.net/" target="_blank">Iperstudio</a> and <a href="http://materiaterza.com/" target="_blank">Materiaterza</a> member and student of <a href="http://www.interaction-venice.com/" target="_blank">IUAV IxD</a> program.
+I work across different communication disciplines; from identity design, design and illustration for digital and print. I live and work in Venice.
 <hr>
 
 <font size="42px">Work</font>
@@ -32,12 +33,19 @@ Designer and random illustrator, former <a href="http://www.iperstudio.net/" tar
 2011 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Re:Common</b> – Freelance Designer • Remote
 <br>
 <br>
+2011 – 2014 &nbsp; <b>Iuav University of Venice</b>, Master in Visual and Multimedia Communications • Venice
+<br>
+<br>
 2011 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Service Civil International</b> – Campaigner • Italy, India
 <br>
 <br>
 2010 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Superstudio Agency</b> – Intern, Designer • Rome
 <br>
 <br>
+2011 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>School of Arts & Crafts</b> • Web Design certificate • Rome
+<br>
+<br>
+2008 – 2011 &nbsp; <b>Roma3 University of Rome</b>, Bachelor in Communications studies • Rome
 <hr>
 
 <font size="42px">Workshops</font>
