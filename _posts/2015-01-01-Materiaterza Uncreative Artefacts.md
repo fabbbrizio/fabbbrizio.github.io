@@ -9,7 +9,7 @@ categories: news
 <img src="http://payload399.cargocollective.com/1/10/325579/10282961/7.png" alt="Mtrtrz cover">
 Materiaterza is been a Design Collective aimed to research on design methodologies and production processes.
 
-The origin of the project came from the encounter between Davide Tuberga – product designer – and Andrea Reggiani – artisan ceramist – who develop a new method to extruding ceramic material, building a unique 3D printer.
+The origin of the project came from an idea of <a href="http://davidetuberga.it/works">Davide Tuberga</a> – product designer – who explored new methods for extruding ceramic material using CNC machine (3D printing).
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282961/IMGP0924.JPG" alt="">
 
