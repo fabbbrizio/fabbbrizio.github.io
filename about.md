@@ -33,7 +33,7 @@ I work across different communication disciplines; from identity design, design 
 2011 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Re:Common</b> – Freelance Designer • Remote
 <br>
 <br>
-2011 – 2014 &nbsp; <b>Iuav University of Venice</b>, Master in Visual and Multimedia Communications • Venice
+2011 – 2014 &nbsp; <b>Iuav University of Venice</b>, MA in Visual and Multimedia Communications • Venice
 <br>
 <br>
 2011 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Service Civil International</b> – Campaigner • Italy, India
@@ -45,7 +45,7 @@ I work across different communication disciplines; from identity design, design 
 2011 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>School of Arts & Crafts</b> • Web Design certificate • Rome
 <br>
 <br>
-2008 – 2011 &nbsp; <b>Roma3 University of Rome</b>, Bachelor in Communications studies • Rome
+2008 – 2011 &nbsp; <b>Roma3 University of Rome</b>, BA in Communications studies • Rome
 <hr>
 
 <font size="42px">Workshops</font>
