@@ -13,8 +13,8 @@ Designer and random illustrator, former <a href="http://www.iperstudio.net/" tar
 <hr>
 <br>
 <font size="21px"><b>Work</b></font>
-<br>
-<br>
+
+
 2015 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>MM–ONE Group</b> – UI Designer • Venice
 <br>
 <br>
@@ -38,11 +38,10 @@ Designer and random illustrator, former <a href="http://www.iperstudio.net/" tar
 <br>
 2010 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Superstudio Agency</b> – Intern, Designer • Rome
 <br>
-<br>
 <hr>
 <font size="21px"><b>Workshops</b></font>
-<br>
-<br>
+
+
 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>X – A variable hunts for identity</b> – FF3300
 <br>
 <br>
