@@ -9,7 +9,7 @@ menu_order: 2
 
 <font size="42px">About</font>
 <br>
-Hello, I am Fabrizio, Designer and random illustrator, former <a href="http://www.iperstudio.net/" target="_blank">Iperstudio</a> and <a href="http://materiaterza.com/" target="_blank">Materiaterza</a> member and student of <a href="http://www.interaction-venice.com/" target="_blank">IUAV IxD</a> program.
+Hello, I am Fabrizio, Designer and random illustrator, former <a href="http://www.iperstudio.net/" target="_blank">Iperstudio</a> and <a href="http://materiaterza.com/" target="_blank">Materiaterza</a> member and student of <a href="http://www.interaction-venice.com/" target="_blank">IUAV IxD</a> program run by Gillian Crampton Smith and Philip Tabor.
 I work across different communication disciplines; from identity design, design and illustration for digital and print. I live and work in Venice.
 <hr>
 
