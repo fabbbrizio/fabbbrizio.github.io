@@ -11,10 +11,9 @@ menu_order: 2
 <br>
 Designer and random illustrator, former <a href="http://www.iperstudio.net/" target="_blank">Iperstudio</a> member and student of <a href="http://www.interaction-venice.com/" target="_blank">IUAV IxD</a> program, living and working in Venice.
 <hr>
-<br>
+
 <font size="21px"><b>Work</b></font>
-
-
+<br>
 2015 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>MM–ONE Group</b> – UI Designer • Venice
 <br>
 <br>
@@ -39,9 +38,9 @@ Designer and random illustrator, former <a href="http://www.iperstudio.net/" tar
 2010 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Superstudio Agency</b> – Intern, Designer • Rome
 <br>
 <hr>
+
 <font size="21px"><b>Workshops</b></font>
-
-
+<br>
 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>X – A variable hunts for identity</b> – FF3300
 <br>
 <br>
