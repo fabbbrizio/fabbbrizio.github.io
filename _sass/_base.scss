@@ -115,6 +115,19 @@ hr {
 }
 
 body.with-full-bg {
+
+  video{
+   position:fixed;
+   left:0;
+          top:0;
+   min-width:100%;
+   min-height:100%;
+   width:auto;
+   height:auto;
+   z-index:-100;
+   visibility: visible;
+  }
+
   background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');
   //background-image: url('/images/stellone.gif');
   //background-image: url('/images/madonna.png');
