@@ -161,6 +161,27 @@ background-color: initial;
     }
   }
 
+  body.with-full-bg-2 {
+
+    color: #14141C;
+    color: black;
+    font-size: 46px;
+    margin-top: 38px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    line-height:1.4;
+
+  }
+
+  @include media-query($on-palm) {
+    body.with-full-bg-2 {
+
+    font-size: 33px;
+    line-height: 44px;
+    margin-top: 0%;
+
+      }
+    }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
