@@ -117,6 +117,7 @@ hr {
 
 body.with-full-bg {
 
+background-color: yellow;
   background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');
   //background-image: url('/images/stellone.gif');
   //background-image: url('/images/madonna.png');
@@ -152,8 +153,9 @@ background-color: initial;
 
 }
 
-body.with-full-bg {
-background-color: yellow;
+body.with-full-bg
+.background-color
+ {
 opacity: 50%;
 }
 
