@@ -165,14 +165,15 @@ background-color: initial;
 
   body.with-full-bg-2 {
 
-    color: #14141C;
-    color: black;
-    font-size: 46px;
-    margin-top: 38px;
-    background-size: cover;
-    background-repeat: no-repeat;
-    line-height:1.4;
-
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    font-family: sans-serif;
+    font-size: 1em;
+    line-height: 1.4;
+    color: blue;
+    margin: 0;
   }
 
   @include media-query($on-palm) {
