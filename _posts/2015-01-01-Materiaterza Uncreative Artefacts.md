@@ -1,8 +1,8 @@
 ---
-#layout: post
-#title:  "Materiaterza"
-#date:   2015-01-01 17:00:00
-#categories: news
+layout: post
+title:  "Materiaterza"
+date:   2015-01-01 17:00:00
+categories: news
 ---
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282961/7.png" alt="Mtrtrz cover">
