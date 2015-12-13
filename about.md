@@ -48,12 +48,10 @@ I work across different communication disciplines; from identity design, User ex
 <br>
 <br>
 2008 – 2011 &nbsp; <b>Roma3 University</b>, BA in Communications studies • Rome
-
 <hr>
-<br>
+
 <font size="42px">Workshops</font>
 <br>
-
 2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Digital Craftmanship</b> > Fablab Venice + Confartigianato
 <br>
 <br>
