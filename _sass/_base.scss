@@ -163,26 +163,6 @@ background-color: initial;
     }
   }
 
-  body.with-full-bg-2 {
-
-    max-width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    height: 100%;
-    line-height: 1.4;
-    margin: 0;
-  }
-
-  @include media-query($on-palm) {
-    body.with-full-bg-2 {
-
-    font-size: 33px;
-    line-height: 44px;
-    margin-top: 0%;
-
-      }
-    }
-
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
