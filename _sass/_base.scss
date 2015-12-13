@@ -95,6 +95,19 @@ body {
 }
 }
 
+body.2 {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    font-family: "Open Sans",sans-serif;
+    font-size: 1em;
+    line-height: 1.4;
+    color: blue;
+    margin: 0;
+}
+
+
 p.small {
     line-height: 1.2;
 }
