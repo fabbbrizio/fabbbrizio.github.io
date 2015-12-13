@@ -153,12 +153,6 @@ background-color: initial;
 
 }
 
-body.with-full-bg
-.background-color
- {
-opacity: 50%;
-}
-
 @include media-query($on-palm) {
   body.with-full-bg {
 
