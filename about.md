@@ -54,10 +54,10 @@ I work across different communication disciplines; from identity design, User ex
 <font size="42px">Workshops</font>
 <br>
 
-2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Digital Craftmanship</b> – Fablab Venice
+2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Digital Craftmanship</b> > Fablab Venice + Confartigianato
 <br>
 <br>
-2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>X – A variable hunts for identity</b> – FF3300
+2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>X – A variable hunts for identity</b> > FF3300
 <br>
 <br>
 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Interaction Design workshop</b> – Durrell Bishop
