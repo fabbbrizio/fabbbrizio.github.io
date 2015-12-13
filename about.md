@@ -33,21 +33,24 @@ I work across different communication disciplines; from identity design, User ex
 2011 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Re:Common</b> – Freelance Designer • Remote
 <br>
 <br>
-2011 – 2014 &nbsp; <b>Iuav</b>, MA in Visual and Multimedia Communications • Venice
-<br>
-<br>
 2011 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Service Civil International</b> – Campaigner • Italy, India
 <br>
 <br>
 2011 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Superstudio Agency</b> – Intern, Designer • Rome
+<hr>
+
+<font size="42px">Education</font>
+<br>
+2011 – 2014 &nbsp; <b>IUAV</b>, MA in Visual and Multimedia Communications • Venice
 <br>
 <br>
 2011 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>School of Arts & Crafts</b> • Web Design certificate • Rome
 <br>
 <br>
 2008 – 2011 &nbsp; <b>Roma3 University</b>, BA in Communications studies • Rome
-<hr>
 
+<hr>
+<br>
 <font size="42px">Workshops</font>
 <br>
 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>X – A variable hunts for identity</b> – FF3300
