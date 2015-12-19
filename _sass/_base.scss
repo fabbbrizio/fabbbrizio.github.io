@@ -169,6 +169,7 @@ background-color: initial;
 
 
     //color: #14141C;
+    text-align: center;
     background-color: white;
     color: black;
     font-size: 9px;
@@ -440,7 +441,7 @@ text-decoration: none;
 //  -ms-transition: blur 3s linear 3s;
 //  -o-transition: blur 3s linear 3s;
 //  transition: blur 3s linear 3s;
-transition-duration: 1.3s;
+transition-duration: 1s;
 
     background-color: transparent;
     border-bottom-width: 1px;
@@ -452,10 +453,10 @@ transition-duration: 1.3s;
       //  color: darken(white, 25%);
       font-size: 55px;
         border-bottom: none;
-
+        text-align: left;
     //    letter-spacing: 15px;
     //     text-transform: uppercase;;
-      text-decoration: underline;
+      text-decoration: none;
 
     }
 }
