@@ -162,6 +162,37 @@ background-color: initial;
     }
   }
 
+
+
+
+  body.with-full-bg-2 {
+
+
+    //color: #14141C;
+    background-color: white;
+    color: black;
+    font-size: 9px;
+    margin-top: 38px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    line-height:1;
+
+
+  }
+
+  @include media-query($on-palm) {
+    body.with-full-bg-2 {
+
+    font-size: 9px;
+    line-height: 18px;
+    margin-top: 0%;
+
+      }
+    }
+
+
+
+
   body.version2 {
       max-width: 100%;
       margin-left: auto;
