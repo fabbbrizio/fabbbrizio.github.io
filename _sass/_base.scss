@@ -190,6 +190,39 @@ background-color: initial;
       }
     }
 
+    a.with-full-bg-2 {
+
+        color: black;
+
+        text-decoration: none;
+        border-bottom-style: none;
+        //border-bottom-width: 2px;
+        //border-bottom-color: black;
+      background-color: none;
+
+        //text-transform: uppercase;
+        //text-decoration: underline;
+
+
+
+        &:visited {
+            //color: darken($brand-color, 25%);
+    //color: #E74C3C, darken (25%);
+        }
+
+        &:hover {
+
+            color: black;
+                font-size: 55px;
+            //background-color: #E74C3C;
+            //border-bottom-style: none;
+            //border-bottom-color: none;
+            //background: black;
+            //text-decoration: line-through;
+            transition-duration: 1.3s;
+
+        }
+    }
 
 
 
