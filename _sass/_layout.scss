@@ -486,9 +486,13 @@ color:white;
 .with-full-bg .page-content {
     //padding: $spacing-unit 0 $spacing-unit * 5 0;
     padding: 1px 0 100px 0;
-
-
 }
+
+.with-full-bg-2 .page-content {
+    //padding: $spacing-unit 0 $spacing-unit * 5 0;
+    padding: 1px 0 300px 0;
+}
+
 .page-heading {
     font-size: 21px;
 }

@@ -177,7 +177,7 @@ background-color: initial;
     background-repeat: no-repeat;
     line-height:1;
 
-
+}
 
 
   @include media-query($on-palm) {
@@ -223,7 +223,7 @@ background-color: initial;
 
         }
     }
-}
+
 
 
   body.version2 {
@@ -531,6 +531,9 @@ pre {
   margin-top: 60px;
 }
 
+.with-full-bg-2 .wrapper {
+  margin-top: 150px;
+}
 
 /**
  * Clearfix
