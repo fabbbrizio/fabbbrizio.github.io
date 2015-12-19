@@ -178,7 +178,7 @@ background-color: initial;
     line-height:1;
 
 
-  }
+
 
   @include media-query($on-palm) {
     body.with-full-bg-2 {
@@ -223,7 +223,7 @@ background-color: initial;
 
         }
     }
-
+}
 
 
   body.version2 {
