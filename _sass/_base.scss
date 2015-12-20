@@ -637,7 +637,13 @@ pre {
 }
 
 .with-full-bg-2 .wrapper {
-  margin-top: 80px;
+  margin-top: 120px;
+}
+
+@include media-query($on-palm) {
+.with-full-bg-2 .wrapper {
+  margin-top: 50px;
+}
 }
 
 /**
