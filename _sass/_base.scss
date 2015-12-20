@@ -170,34 +170,15 @@ background-color: initial;
 
     //color: #14141C;
     text-transform: uppercase;
-    text-align: center;
+    text-align: left;
     //background-color: white;
     color: white;
-    font-size: 35px;
-    line-height: 45px;
+    font-size: 45px;
+    line-height: 65px;
     margin-top: 38px;
     background-size: cover;
     background-repeat: no-repeat;
-    line-height:1;
-}
-
-    body.with-full-bg-2 {
-  -webkit-animation: text 10s cubic-bezier(0,0,1,1) infinite;
-  animation: text 10s cubic-bezier(0,0,1,1) infinite;
-}
-
-@-webkit-keyframes text {
-  0% { text-color: #2E0927; }
-  33% { text-color: #DB9E36; }
-  67% { text-color: #EA2E49; }
-  100% { text-color: #333745; }
-}
-
-@keyframes text {
-  0% { text-color: #2E0927; }
-  33% { text-color: #DB9E36; }
-  67% { text-color: #EA2E49; }
-  100% { text-color: #333745; }
+    //line-height:1;
 }
 
 body.with-full-bg-2 {
