@@ -169,6 +169,7 @@ background-color: initial;
 
 
     //color: #14141C;
+    text-transform: uppercase;
     text-align: center;
     //background-color: white;
     color: white;
@@ -178,7 +179,6 @@ background-color: initial;
     background-size: cover;
     background-repeat: no-repeat;
     line-height:1;
-    text-transform: uppercase;
 }
 
     body.with-full-bg-2 {
@@ -452,9 +452,7 @@ text-decoration: none;
 
 .with-full-bg-2 a {
     //color: #14141C;
-    color: white;
     //letter-spacing: 15px;
-     text-transform: none;
     //text-decoration: underline;
     //border-bottom: solid white;
 
@@ -474,7 +472,7 @@ transition-duration: 1s;
         //  -webkit-filter: blur(0px);
 
       //  color: darken(white, 25%);
-      font-size: 55px;
+      //font-size: 55px;
         border-bottom: none;
 
     //    letter-spacing: 15px;
