@@ -451,6 +451,11 @@ transition-duration: 1s;
 
     &:hover {
 
+      body.with-full-bg-2 {
+
+         background-color: yellow;
+
+
         //  -webkit-filter: blur(0px);
 
       //  color: darken(white, 25%);
@@ -460,12 +465,7 @@ transition-duration: 1s;
     //    letter-spacing: 15px;
     //     text-transform: uppercase;;
       text-decoration: none;
-
-       body.with-full-bg-2 {
-
-          background-color: yellow;
-      }
-
+}
     }
 }
 
