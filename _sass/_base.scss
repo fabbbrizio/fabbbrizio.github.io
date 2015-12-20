@@ -178,7 +178,7 @@ background-color: initial;
     background-repeat: no-repeat;
     line-height:1;
 
-}
+
 
 table {
     width:100%;
@@ -190,7 +190,7 @@ td {
     padding:1em 0;
 }
 
-
+}
   @include media-query($on-palm) {
     body.with-full-bg-2 {
 
