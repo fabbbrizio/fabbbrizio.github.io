@@ -471,7 +471,7 @@ transition-duration: 1s;
     &:hover {
 
         //  -webkit-filter: blur(0px);
-        text-shadow: 4px 0px white;
+        text-shadow: 4px 0px black;
       color: black;
       //font-size: 55px;
         border-bottom: none;
@@ -504,7 +504,7 @@ background-color: transparent;
 &:hover {
 
     //-webkit-filter: blur(5px);
-    text-shadow: 4px 0px white;
+    text-shadow: 4px 0px black;
   color: black;
   border-bottom: none;
 //    letter-spacing: 15px;
