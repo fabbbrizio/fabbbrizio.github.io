@@ -186,17 +186,18 @@ font-size: 21px;
 text-transform: none;
 text-shadow: none;
 text-decoration: none;
+border-top: 20px;
 }
 
 .with-full-bg-2 .home-links a {
 
   text-shadow: none;
-color: black;
+color: #E74C3C;
 text-decoration: none;
 
 &:hover {
 
-  color: #E74C3C;
+  color: black;
     border-bottom: none;
   text-decoration: underline;
   text-shadow: none;
