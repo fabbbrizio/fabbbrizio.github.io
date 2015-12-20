@@ -184,8 +184,8 @@ background-color: initial;
   @include media-query($on-palm) {
     body.with-full-bg-2 {
 
-    font-size: 21px;
-    line-height: 28px;
+    font-size: 9px;
+    line-height: 19px;
     margin-top: 0%;
 
       }
@@ -467,13 +467,13 @@ color: black;
 //border-bottom: solid #14141C;
 //border-bottom: solid;
 //border-bottom-width: 1px;
-letter-spacing: 15px;
+//letter-spacing: 15px;
 text-transform: uppercase;
 //text-decoration: underline;
 //border-bottom: solid white;
 
 //-webkit-filter: blur(0px);
-transition-duration: 1.3s;
+transition-duration: 1s;
 
 background-color: transparent;
 //border-bottom-width: 1px;
@@ -484,10 +484,11 @@ background-color: transparent;
 
 //  color: darken(white, 25%);
   border-bottom: none;
-
+  font-size: 35px;
+  line-height: 45px;
 //    letter-spacing: 15px;
 //     text-transform: uppercase;;
-text-decoration: underline;
+//text-decoration: underline;
 
 }
 }
