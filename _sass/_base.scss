@@ -186,17 +186,19 @@ background-color: initial;
 }
 
 @-webkit-keyframes background {
-  0% { background-color: #f99; }
-  33% { background-color: #9f9; }
-  67% { background-color: #99f; }
-  100% { background-color: #f99; }
+  0% { background-color: #333745; }
+  33% { background-color: #F6F792; }
+  67% { background-color: #77C4D3; }
+  77% { background-color: #EA2E49; }
+  100% { background-color: #DAEDE2; }
 }
 
 @keyframes background {
-  0% { background-color: #f99; }
-  33% { background-color: #9f9; }
-  67% { background-color: #99f; }
-  100% { background-color: #f99; }
+  0% { background-color: #333745; }
+  33% { background-color: #F6F792; }
+  67% { background-color: #77C4D3; }
+  77% { background-color: #EA2E49; }
+  100% { background-color: #DAEDE2; }
 }
 
 
@@ -486,7 +488,7 @@ transition-duration: 1s;
 @include media-query($on-palm) {
 .with-full-bg-2 a {
 //color: #14141C;
-color: black;
+color: white;
 //border-bottom: solid #14141C;
 //border-bottom: solid;
 //border-bottom-width: 1px;
