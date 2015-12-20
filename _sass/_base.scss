@@ -179,6 +179,25 @@ background-color: initial;
     background-repeat: no-repeat;
     line-height:1;
 
+    body.with-full-bg-2 {
+  -webkit-animation: background 5s cubic-bezier(1,0,0,1) infinite;
+  animation: background 5s cubic-bezier(1,0,0,1) infinite;
+}
+
+@-webkit-keyframes background {
+  0% { background-color: #f99; }
+  33% { background-color: #9f9; }
+  67% { background-color: #99f; }
+  100% { background-color: #f99; }
+}
+
+@keyframes background {
+  0% { background-color: #f99; }
+  33% { background-color: #9f9; }
+  67% { background-color: #99f; }
+  100% { background-color: #f99; }
+}
+
 }
 
 
@@ -450,11 +469,6 @@ transition-duration: 1s;
     border-bottom-width: 1px;
 
     &:hover {
-
-      body {
-
-         background-color: yellow;
-}
 
         //  -webkit-filter: blur(0px);
 
