@@ -183,12 +183,18 @@ background-color: initial;
 .with-full-bg-2 .home-links {
 
 font-size: 21px;
-color: white;
 text-transform: none;
+}
+
+.with-full-bg a {
+
+  text-shadow: none;
+color: black;
+
+text-decoration: underline;
 
 &:hover {
 
-    text-shadow: none;
   color: #E74C3C;
     border-bottom: none;
   text-decoration: none;
