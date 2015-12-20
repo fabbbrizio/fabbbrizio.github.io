@@ -429,6 +429,7 @@ text-decoration: none;
   color: #BDADB6;
 }
 
+
 .with-full-bg-2 a {
     //color: #14141C;
     color: black;
@@ -459,6 +460,11 @@ transition-duration: 1s;
     //    letter-spacing: 15px;
     //     text-transform: uppercase;;
       text-decoration: none;
+
+      .with-full-bg-2 body {
+
+          background-color: yellow
+      }
 
     }
 }
