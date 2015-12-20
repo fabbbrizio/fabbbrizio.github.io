@@ -191,14 +191,13 @@ text-shadow: none;
 
   text-shadow: none;
 color: black;
-
-text-decoration: underline;
+text-decoration: none;
 
 &:hover {
 
   color: #E74C3C;
     border-bottom: none;
-  text-decoration: none;
+  text-decoration: underline;
   text-shadow: none;
 
 }
