@@ -114,15 +114,6 @@ hr {
 
 }
 
-.stellone {
- margin-bottom: 10px;
- display:block;
- background:transparent url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif') center top no-repeat;
-}
-
-.stellone:hover {
-   background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');
-}
 
 body.with-full-bg {
 
@@ -188,6 +179,16 @@ background-color: initial;
     background-size: cover;
     background-repeat: no-repeat;
     //line-height:1;
+}
+
+.with-full-bg-2 .stellone {
+ margin-bottom: 10px;
+ display:block;
+ background:transparent url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif') center top no-repeat;
+}
+
+.with-full-bg-2 .stellone:hover {
+   background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');
 }
 
 .with-full-bg-2 .home-links {
