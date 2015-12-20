@@ -116,15 +116,12 @@ hr {
 
 .stellone {
  margin-bottom: 10px;
- width: 160px;
- height:160px;
  display:block;
- background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif') center top no-repeat;
- background-size: cover;
+ background:transparent url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif') center top no-repeat;
 }
 
 .stellone:hover {
-   background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif') center top no-repeat;
+   background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');
 }
 
 body.with-full-bg {
