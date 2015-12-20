@@ -178,6 +178,7 @@ background-color: initial;
     background-size: cover;
     background-repeat: no-repeat;
     line-height:1;
+}
 
     body.with-full-bg-2 {
   -webkit-animation: background 5s cubic-bezier(1,0,0,1) infinite;
@@ -198,7 +199,6 @@ background-color: initial;
   100% { background-color: #f99; }
 }
 
-}
 
 
   @include media-query($on-palm) {
