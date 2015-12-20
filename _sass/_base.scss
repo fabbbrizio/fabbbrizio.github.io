@@ -492,11 +492,12 @@ transition-duration: 1s;
 
     background-color: transparent;
     border-bottom-width: 1px;
+    text-shadow: 2px 0px black;
 
     &:hover {
 
         //  -webkit-filter: blur(0px);
-        text-shadow: 2px 0px black;
+        text-shadow: none;
       color: black;
       //font-size: 55px;
         border-bottom: none;
@@ -525,11 +526,12 @@ transition-duration: 1s;
 
 background-color: transparent;
 //border-bottom-width: 1px;
+text-shadow: 2px 0px black;
 
 &:hover {
 
     //-webkit-filter: blur(5px);
-    text-shadow: 2px 0px black;
+    text-shadow: none;
   color: black;
   border-bottom: none;
 //    letter-spacing: 15px;
