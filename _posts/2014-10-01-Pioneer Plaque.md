@@ -19,18 +19,13 @@ One of the parts of the diagram that is among the easiest for humans to understa
 In the original plaque the man has his hand raised, and the woman stands passively at his side.
 
 Through communication design we can overcome cultural and spatial borders, and we do not necessary need to aim for distant targets (as Jupiter for the Pioneer 10). More concrete goals, such as designing a good communication about cultural differences or gender issues that are strictly related to the interactive nature of human beings, would serve the purpose of empowering images and words.
-<br>
-<br>
+
 <img src="http://payload403.cargocollective.com/1/10/325579/10371245/BUONI_MOTIVI_finale2_1600_c.jpg" alt="Poster">
-<br>
-<br>
+
 Poster designed for <i><a href="http://20buonimotivi.tumblr.com/" target="_blank"> 20 good reasons to do visual design</a></i> workshop. The workshop project born to clarify the visual designer role and the importance of his operation in the social and cultural dynamics.
-<br>
-<br>
+
 <img src="http://payload403.cargocollective.com/1/10/325579/10371245/IUAV_poster_camplani_960.jpg" alt="Poster exhibition">
-<br>
-<br>
+
 <img src="http://payload403.cargocollective.com/1/10/325579/10371245/65302_390774517690240_952004821_n_960.jpg" alt="Poster exhibition">
-<br>
-<br>
+
 <a href="http://20buonimotivi.tumblr.com/" target="_blank" class="button">Explore project website</a>
