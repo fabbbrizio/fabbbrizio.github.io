@@ -224,8 +224,8 @@ text-decoration: none;
 }
 
 body.with-full-bg-2 {
--webkit-animation: background 30s cubic-bezier(0,0,1,1) infinite;
-animation: background 30s cubic-bezier(0,0,1,1) infinite;
+-webkit-animation: background 50s cubic-bezier(0,0,1,1) infinite;
+animation: background 50s cubic-bezier(0,0,1,1) infinite;
 }
 
 @-webkit-keyframes background {
