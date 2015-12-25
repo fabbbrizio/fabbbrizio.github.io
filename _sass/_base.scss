@@ -302,6 +302,7 @@ ul, ol, dl, figure,
 /**
  * Images
  */
+
 img {
     max-width: 100%;
     vertical-align: middle;
@@ -434,6 +435,11 @@ color: #E74C3C, darken (25%);
     }
 }
 
+.immagine {
+
+  height: 100%;
+  weight: 100%;
+}
 
 .with-full-bg a {
     //color: #14141C;
