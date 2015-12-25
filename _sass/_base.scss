@@ -524,12 +524,6 @@ transition-duration: 1s;
     }
 }
 
-.wrapper a:hover {
-  background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
 
 @include media-query($on-palm) {
 .with-full-bg-2 a {
