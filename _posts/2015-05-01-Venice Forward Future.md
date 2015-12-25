@@ -9,10 +9,6 @@ categories: news
 <br>
 Venice>>Future is a series of controlled tests run within the prestigious Muranese furnace <a href="http://www.salviati.com/" target="_blank">Salviati</a> and <a href="http://www.breaking-the-mould.com/en.php" target="_blank">BTM</a> project.
 <br>
-<!--
-<iframe src="http://venice-future.com/" width="100%" height="400">
-</iframe>
--->
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/vf1.jpg" alt="Murano">
 <br>
