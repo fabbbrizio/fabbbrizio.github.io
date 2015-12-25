@@ -204,7 +204,13 @@ text-transform: none;
 
 @include media-query($on-palm) {
 .with-full-bg-2 .home-links {
-text-transform: none;
+  font-size: 21px;
+  text-transform: none;
+  text-shadow: none;
+  text-decoration: none;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  text-transform: none;
 }
 }
 
