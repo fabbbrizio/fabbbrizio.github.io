@@ -620,7 +620,7 @@ pre {
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
+    padding-left: 0px;
     @extend %clearfix;
 
     @include media-query($on-laptop) {
@@ -638,7 +638,6 @@ pre {
 
 .with-full-bg-2 .wrapper {
   margin-top: 120px;
-  margin-left: 0px;
 }
 
 @include media-query($on-palm) {
