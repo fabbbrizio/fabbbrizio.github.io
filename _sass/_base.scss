@@ -179,25 +179,7 @@ background-color: initial;
     background-size: cover;
     background-repeat: no-repeat;
     //line-height:1;
-    -webkit-animation: background 30s cubic-bezier(0,0,1,1) infinite;
-  animation: background 30s cubic-bezier(0,0,1,1) infinite;
-  }
-
-  @-webkit-keyframes background {
-  0% { background-color: #2E0927; }
-  33% { background-color: #DB9E36; }
-  67% { background-color: #EA2E49; }
-  100% { background-color: #333745; }
-  }
-
-  @keyframes background {
-  0% { background-color: #2E0927; }
-  33% { background-color: #DB9E36; }
-  67% { background-color: #EA2E49; }
-  100% { background-color: #333745; }
-  }
 }
-
 
 .with-full-bg-2 .home-links {
 
@@ -239,6 +221,24 @@ text-decoration: none;
 }
 }
 
+body.with-full-bg-2 {
+-webkit-animation: background 30s cubic-bezier(0,0,1,1) infinite;
+animation: background 30s cubic-bezier(0,0,1,1) infinite;
+}
+
+@-webkit-keyframes background {
+0% { background-color: #2E0927; }
+33% { background-color: #DB9E36; }
+67% { background-color: #EA2E49; }
+100% { background-color: #333745; }
+}
+
+@keyframes background {
+0% { background-color: #2E0927; }
+33% { background-color: #DB9E36; }
+67% { background-color: #EA2E49; }
+100% { background-color: #333745; }
+}
 
 /*
 body.with-full-bg-2 {
