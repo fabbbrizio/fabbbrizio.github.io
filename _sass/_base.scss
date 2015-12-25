@@ -521,14 +521,13 @@ transition-duration: 1s;
     //    letter-spacing: 15px;
     //     text-transform: uppercase;;
       text-decoration: none;
-
-      body.with-full-bg-2 {
-
-        background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');
-        background-size: cover;
-        background-repeat: no-repeat;
-      }
     }
+}
+
+.with-full-bg-2 a:hover {
+  background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 
