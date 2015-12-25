@@ -217,11 +217,6 @@ text-decoration: none;
 }
 }
 
-@include media-query($on-palm) {
-.with-full-bg-2 .home-links {
-text-transform: none;
-}
-}
 
 /*
 body.with-full-bg-2 {
@@ -534,7 +529,7 @@ color: black;
 //border-bottom: solid;
 //border-bottom-width: 1px;
 //letter-spacing: 15px;
-text-transform: uppercase;
+text-transform: none;
 //text-decoration: underline;
 //border-bottom: solid white;
 
