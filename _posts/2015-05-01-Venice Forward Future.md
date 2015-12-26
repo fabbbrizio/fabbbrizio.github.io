@@ -5,7 +5,7 @@ date:   2015-07-25 17:00:00
 categories: news
 ---
 
-<img src="http://payload399.cargocollective.com/1/10/325579/10282917/vf1.jpg" alt="Murano">
+<img src="http://payload399.cargocollective.com/1/10/325579/10282917/3.9_1600_c.jpg" alt="Decor magazine">
 
 Venice Forward Future is a series of controlled tests run within the prestigious Muranese furnace <a href="http://www.salviati.com/" target="_blank">Salviati</a> and <a href="http://www.breaking-the-mould.com/en.php" target="_blank">BTM</a> project.
 
@@ -23,6 +23,7 @@ The production site became a lab where analog and digital techniques are mixed.
 The resulting outcomes are been presented at VL2015 (Fuori Salone di Milano – May 2015) and London Design Festival (Tent London – September 2015).
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/3.1_1250.jpg" alt="Artworks">
+<img src="http://payload399.cargocollective.com/1/10/325579/10282917/vf1.jpg" alt="Murano">
 
 For this project I designed graphic identity and printed artefacts for the exposition (with Chiara Costantini and Luca Coppola), and the mockup of the project's website (developed by Federico Bovara).
 
@@ -37,8 +38,6 @@ For this project I designed graphic identity and printed artefacts for the expos
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/Scan-24_1600_c.jpeg" alt="logo2">
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/manifesto.jpg" alt="v>>f catalogue">
-
-<img src="http://payload399.cargocollective.com/1/10/325579/10282917/3.9_1600_c.jpg" alt="Decor magazine">
 
 <b>Web Articles</b>: <a href="http://www.theperfectjob.it/le-spettacolari-creazioni-del-collettivo-atu-mescolano-il-vetro-soffiato-muranese-e-la-ceramica-stampata-in-3d/" target="_blank">The perfect job</a>, <a href="http://nykyinen.com/venice-future-a-project-by-breaking-the-
 mould/" target="_blank">Nykyinen</a>, <a href="http://www.domusweb.it/content/domusweb/it/notizie/2015/04/30/subalterno1_venice_future.html" target="_blank">Domusweb</a>, <a href="http://www.artribune.com/2015/04/eppur-si-muove-le-nuove-facce-del-design-italiano/" target="_blank">Artribune</a>.
