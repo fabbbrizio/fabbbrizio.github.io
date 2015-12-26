@@ -181,7 +181,7 @@ background-color: initial;
     //line-height:1;
 }
 
-body.with-full-bg-2 a{
+body.with-full-bg-2 a {
 
     text-shadow: none;
   text-decoration: underline;
@@ -189,15 +189,13 @@ body.with-full-bg-2 a{
 
   &:hover {
 
-    color: #E74C3C;
+    color: none;
       border-bottom: none;
-    text-decoration: underline;
+    text-decoration: none;
     text-shadow: none;
 
   }
   }
-
-}
 
 
 .with-full-bg-2 .home-links {
