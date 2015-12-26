@@ -7,25 +7,22 @@ categories: news
 <br>
 <iframe src="https://player.vimeo.com/video/125023947?color=e74c3c&title=0&byline=0&portrait=0" width="100%" height="440" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <br>
-
+<div class="highlight">
 Venice>>Future is a series of controlled tests run within the prestigious Muranese furnace <a href="http://www.salviati.com/" target="_blank">Salviati</a> and <a href="http://www.breaking-the-mould.com/en.php" target="_blank">BTM</a> project.
+</div>
+<br>
+Traditional glass blowing techniques, historically linked to the island of Murano and dependent on the skills of its glass masters, is merge with ceramic 3D-printing, a much younger and more movable process to create identical objects.
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/vf1.jpg" alt="Murano">
 
-Traditional glass blowing techniques, historically linked to the island of Murano and dependent on the skills of its glass masters, is merge with ceramic 3D-printing, a much younger and more movable process to create identical objects.
-
-<br>
-<div class="highlight">
 The production site became a lab where analog and digital techniques are mixed.
-</div>
+The resulting outcomes are been presented at VL2015.
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/3.1_1250.jpg" alt="Artworks">
 
-The resulting outcomes are been presented at VL2015.
+For this project I designed graphic identity and printed artefacts for the exposition (with Chiara Costantini and Luca Coppola), and the mockup of the project's website (developed by Federico Bovara).
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/3.6_960.jpg" alt="exhibition in Milan">
-
-For this project I designed graphic identity and printed artefacts for the exposition (with Chiara Costantini and Luca Coppola), and the mockup of the project's website (developed by Federico Bovara).
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/vf2.jpg" alt="Tent Design Week London">
 
