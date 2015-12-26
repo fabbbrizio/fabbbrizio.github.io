@@ -11,7 +11,7 @@ Information Design Poster about an image sent to space, aims to give a message a
 
 <hr>
 <div class="highlight">
-The image displayed on a plaque was fixed to the hull of Pioneer 10, which was sent on an investigative flight into outer space (to Jupiter) in 1972.
+The image – displayed on a plaque – was fixed to the hull of Pioneer 10, which was sent on an investigative flight into outer space (to Jupiter) in 1972.
 </div>
 <hr>
 
@@ -19,9 +19,11 @@ The image displayed on a plaque was fixed to the hull of Pioneer 10, which was s
 
 This message received several critiques for being too anthropomorphic and hard to understand.
 One of the parts of the diagram that is among the easiest for humans to understand may be among the hardest for the extraterrestrial finders to understand: the arrow showing the trajectory of Pioneer because arrows are an artifact of hunter-gatherer societies like those on Earth.
-
+<hr>
+<div class="highlight">
 In the original plaque the man has his hand raised, and the woman stands passively at his side.
-
+</div>
+<hr>
 Through communication design we can overcome cultural and spatial borders, and we do not necessary need to aim for distant targets (as Jupiter for the Pioneer 10). More concrete goals, such as designing a good communication about cultural differences or gender issues that are strictly related to the interactive nature of human beings, would serve the purpose of empowering images and words.
 
 <img src="http://payload403.cargocollective.com/1/10/325579/10371245/BUONI_MOTIVI_finale2_1600_c.jpg" alt="Poster">
