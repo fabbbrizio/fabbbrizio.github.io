@@ -4,7 +4,9 @@ title:  "Venice Forward Future"
 date:   2015-07-25 17:00:00
 categories: news
 ---
-<img src="https://38.media.tumblr.com/2d3833fcded6c67dc8033d468ece77b7/tumblr_nw47i7XoFX1thir10o1_1280.gif" alt="v>>f logos">
+
+<img src="http://payload399.cargocollective.com/1/10/325579/10282917/vf1.jpg" alt="Murano">
+
 Venice Forward Future is a series of controlled tests run within the prestigious Muranese furnace <a href="http://www.salviati.com/" target="_blank">Salviati</a> and <a href="http://www.breaking-the-mould.com/en.php" target="_blank">BTM</a> project.
 
 <br>
@@ -12,8 +14,6 @@ Venice Forward Future is a series of controlled tests run within the prestigious
 <br>
 
 Traditional glass blowing techniques, historically linked to the island of Murano and dependent on the skills of its glass masters, is merge with ceramic 3D-printing, a much younger and more movable process to create identical objects.
-
-<img src="http://payload399.cargocollective.com/1/10/325579/10282917/vf1.jpg" alt="Murano">
 
 <hr>
 <div class="highlight">
@@ -25,6 +25,8 @@ The resulting outcomes are been presented at VL2015 (Fuori Salone di Milano – 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/3.1_1250.jpg" alt="Artworks">
 
 For this project I designed graphic identity and printed artefacts for the exposition (with Chiara Costantini and Luca Coppola), and the mockup of the project's website (developed by Federico Bovara).
+
+<img src="https://38.media.tumblr.com/2d3833fcded6c67dc8033d468ece77b7/tumblr_nw47i7XoFX1thir10o1_1280.gif" alt="v>>f logos">
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/3.6_960.jpg" alt="exhibition in Milan">
 
