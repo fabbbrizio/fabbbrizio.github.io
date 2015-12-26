@@ -5,7 +5,7 @@ date:   2015-07-25 17:00:00
 categories: news
 ---
 
-<img src="http://payload399.cargocollective.com/1/10/325579/10282917/3.9_1600_c.jpg" alt="Decor magazine">
+<img src="http://payload399.cargocollective.com/1/10/325579/10282917/Scan-24_1600_c.jpeg" alt="logo2">
 
 Venice Forward Future is a series of controlled tests run within the prestigious Muranese furnace <a href="http://www.salviati.com/" target="_blank">Salviati</a> and <a href="http://www.breaking-the-mould.com/en.php" target="_blank">BTM</a> project.
 
@@ -35,9 +35,9 @@ For this project I designed graphic identity and printed artefacts for the expos
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/2.6_1600_c.jpeg" alt="v>>f logo rough">
 
-<img src="http://payload399.cargocollective.com/1/10/325579/10282917/Scan-24_1600_c.jpeg" alt="logo2">
-
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/manifesto.jpg" alt="v>>f catalogue">
+
+<img src="http://payload399.cargocollective.com/1/10/325579/10282917/3.9_1600_c.jpg" alt="Decor magazine">
 
 <b>Web Articles</b>: <a href="http://www.theperfectjob.it/le-spettacolari-creazioni-del-collettivo-atu-mescolano-il-vetro-soffiato-muranese-e-la-ceramica-stampata-in-3d/" target="_blank">The perfect job</a>, <a href="http://nykyinen.com/venice-future-a-project-by-breaking-the-
 mould/" target="_blank">Nykyinen</a>, <a href="http://www.domusweb.it/content/domusweb/it/notizie/2015/04/30/subalterno1_venice_future.html" target="_blank">Domusweb</a>, <a href="http://www.artribune.com/2015/04/eppur-si-muove-le-nuove-facce-del-design-italiano/" target="_blank">Artribune</a>.
