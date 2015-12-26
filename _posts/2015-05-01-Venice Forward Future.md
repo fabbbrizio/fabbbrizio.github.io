@@ -13,7 +13,7 @@ Venice>>Future is a series of controlled tests run within the prestigious Murane
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/vf1.jpg" alt="Murano">
 
 Traditional glass blowing techniques, historically linked to the island of Murano and dependent on the skills of its glass masters, is merge with ceramic 3D-printing, a much younger and more movable process to create identical objects.
-
+<br>
 <div class="highlight">
 The production site became a lab where analog and digital techniques are mixed.
 </div>
