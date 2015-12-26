@@ -14,7 +14,7 @@ I work across different communication disciplines; from identity design, User ex
 <hr>
 
 <h2><b>Work</b></h2>
-<br>
+
 2015 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>MM–ONE Group</b> – UI Designer • Venice
 <br>
 <br>
@@ -40,7 +40,7 @@ I work across different communication disciplines; from identity design, User ex
 <hr>
 
 <h2><b>Education</b></h2>
-<br>
+
 2011 – 2014 &nbsp; <b>IUAV</b>, MA in Visual and Multimedia Communications • Venice
 <br>
 <br>
@@ -51,7 +51,7 @@ I work across different communication disciplines; from identity design, User ex
 <hr>
 
 <h2><b>Workshop</b></h2>
-<br>
+
 2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Digital Craftmanship</b> > Fablab Venice + Confartigianato
 <br>
 <br>
