@@ -13,8 +13,8 @@ Hello, I am Fabrizio, designer and random illustrator, former <a href="http://ww
 I work across different communication disciplines; from identity design, User experience/interface design and illustration for digital and print. I live and work in Venice.
 <hr>
 
-<font size="42px">Work</font>
-<br>
+<h2><b>Work</b></h2>
+
 2015 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>MM–ONE Group</b> – UI Designer • Venice
 <br>
 <br>
@@ -39,8 +39,8 @@ I work across different communication disciplines; from identity design, User ex
 2011 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Superstudio Agency</b> – Intern, Designer • Rome
 <hr>
 
-<font size="42px">Education</font>
-<br>
+<h2><b>Education</b></h2>
+
 2011 – 2014 &nbsp; <b>IUAV</b>, MA in Visual and Multimedia Communications • Venice
 <br>
 <br>
@@ -50,8 +50,8 @@ I work across different communication disciplines; from identity design, User ex
 2008 – 2011 &nbsp; <b>Roma3 University</b>, BA in Communications studies • Rome
 <hr>
 
-<font size="42px">Workshops</font>
-<br>
+<h2><b><font color="#E74C3C">Workshop</font></b></h2>
+
 2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Digital Craftmanship</b> > Fablab Venice + Confartigianato
 <br>
 <br>
