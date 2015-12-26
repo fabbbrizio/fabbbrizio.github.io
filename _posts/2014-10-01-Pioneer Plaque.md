@@ -9,7 +9,11 @@ categories: news
 <img src="http://payload403.cargocollective.com/1/10/325579/10371245/plaque.jpg" alt="Pioneer cover">
 Information Design Poster about an image sent to space, aims to give a message about us to other inhabitants of the universe.
 
-The image displayed on a plaque fixed to the hull of Pioneer 10, which was sent on an investigative flight into outer space (more precisely to Jupiter) in 1972.
+<hr>
+<div class="highlight">
+The image displayed on a plaque was fixed to the hull of Pioneer 10, which was sent on an investigative flight into outer space (to Jupiter) in 1972.
+</div>
+<hr>
 
 <img src="http://payload403.cargocollective.com/1/10/325579/10371245/placca_pioneer_1600_c.jpg" alt="Pioneer Plaque">
 
