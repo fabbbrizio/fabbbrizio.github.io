@@ -7,8 +7,10 @@ categories: news
 ---
 <img src="http://payload138.cargocollective.com/1/10/325579/5074354/ships_psy.jpg" alt="Ships Aquarium cover">
 Interactive visualization with Processing to check real-time data about ships in Venice.
+
 <br>
 <iframe src="https://player.vimeo.com/video/59518870?color=e74c3c&title=0&byline=0&portrait=0" width="100%" height="440" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 <br>
 Ships Aquarium is the product of a three-day workshop with Till Nagel, an interactive visualization that allows to check real-time information about ships in the lagoon of Venice.
 <hr>
