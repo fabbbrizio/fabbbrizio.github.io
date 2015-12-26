@@ -18,7 +18,7 @@ Traditional glass blowing techniques, historically linked to the island of Muran
 The production site became a lab where analog and digital techniques are mixed.
 </div>
 <hr>
-The resulting outcomes are been presented at VL2015.
+The resulting outcomes are been presented at VL2015 (Fuori Salone di Milano – May 2015) and London Design Festival (Tent London – September 2015).
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/3.1_1250.jpg" alt="Artworks">
 
