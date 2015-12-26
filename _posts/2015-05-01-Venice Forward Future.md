@@ -12,17 +12,19 @@ Venice>>Future is a series of controlled tests run within the prestigious Murane
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/vf1.jpg" alt="Murano">
 
-<div class="highlight">
 Traditional glass blowing techniques, historically linked to the island of Murano and dependent on the skills of its glass masters, is merge with ceramic 3D-printing, a much younger and more movable process to create identical objects.
-</div>
 
-The production site became a lab where analog and digital techniques are mixed. The resulting outcomes are been presented at VL2015.
+<div class="highlight">
+The production site became a lab where analog and digital techniques are mixed.
+</div>
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/3.1_1250.jpg" alt="Artworks">
 
-For this project I designed graphic identity and printed artefacts for the exposition (with Chiara Costantini and Luca Coppola), and the mockup of the project's website (developed by Federico Bovara).
+The resulting outcomes are been presented at VL2015.
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/3.6_960.jpg" alt="exhibition in Milan">
+
+For this project I designed graphic identity and printed artefacts for the exposition (with Chiara Costantini and Luca Coppola), and the mockup of the project's website (developed by Federico Bovara).
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/vf2.jpg" alt="Tent Design Week London">
 
