@@ -477,7 +477,7 @@ color:white;
     @include media-query($on-palm) {
       .page-content {
           //padding: $spacing-unit 0 $spacing-unit * 5 0;
-          padding: 50px 3px 30px 0px;
+          padding: 50px 0px 30px 0px;
       }
 
     }
