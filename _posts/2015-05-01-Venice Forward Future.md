@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Venice Forward Future"
-date:   2015-07-25 17:00:00
+date:   2015-06-01 17:00:00
 categories: news
 ---
 
