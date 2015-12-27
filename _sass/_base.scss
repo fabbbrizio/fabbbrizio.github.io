@@ -254,14 +254,14 @@ animation: background 50s cubic-bezier(0,0,1,1) infinite;
 }
 
 @-webkit-keyframes background {
-10% { background-color: #333745; }
+0% { background-color: #333745; }
 33% { background-color: #DB9E36; }
 67% { background-color: #EA2E49; }
 100% { background-color: #2E0927; }
 }
 
 @keyframes background {
-10% { background-color: #333745; }
+0% { background-color: #333745; }
 33% { background-color: #DB9E36; }
 67% { background-color: #EA2E49; }
 100% { background-color: #2E0927; }
