@@ -573,6 +573,17 @@ transition-duration: 1.2s;
   line-height: 22px;
   text-decoration: underline;
 
+  }
+
+  .home-links {
+@include media-query($on-palm) {
+  color: white;
+  font-size: 12px;
+  line-height: 22px;
+  text-decoration: underline;
+  padding-right: 15px;
+
+  }
 }
 
 .blog-title-size {
