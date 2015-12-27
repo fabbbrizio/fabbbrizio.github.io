@@ -688,6 +688,19 @@ padding-left: 20px;
     }
 }
 
+.with-full-bg-2 .wrapper {
+
+    @include media-query($on-laptop) {
+        max-width: -webkit-calc(600px - (#{$spacing-unit}));
+        max-width:         calc(600px - (#{$spacing-unit}));
+        //padding-right: $spacing-unit / 2;
+        //padding-left: $spacing-unit / 2;
+        padding-right: 15px;
+padding-left: 15px;
+margin-top: 50px;
+    }
+}
+
 
 .with-full-bg .wrapper {
   margin-top: 60px;
@@ -697,11 +710,6 @@ padding-left: 20px;
   margin-top: 120px;
 }
 
-@include media-query($on-palm) {
-.with-full-bg-2 .wrapper {
-  margin-top: 50px;
-}
-}
 
 /**
  * Clearfix
