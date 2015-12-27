@@ -1,5 +1,5 @@
 ---
-layout: home3
+layout: post
 title:  "Godiimenti"
 date:   2014-09-13
 categories: news
