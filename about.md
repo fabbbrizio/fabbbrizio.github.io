@@ -10,7 +10,7 @@ menu_order: 3
 <h2><b>About</b></h2>
 
 Hello, I am Fabrizio, designer and random illustrator, former <a href="http://www.iperstudio.net/" target="_blank">Iperstudio</a> and <a href="http://materiaterza.com/" target="_blank">Materiaterza</a> member and student of <a href="http://www.interaction-venice.com/" target="_blank">IUAV IxD</a> program run by Gillian Crampton Smith and Philip Tabor.
-I work across different communication disciplines; from identity design, User experience/interface design and illustration for digital and print. I live and work in Venice.
+I work across different communication disciplines; from identity design, user experience and interface design, illustration for digital and print. I live and work in Venice.
 <hr>
 
 <h2><b>Work</b></h2>
