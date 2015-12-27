@@ -17,5 +17,6 @@ The part of the title name <i>GODII</i> (Devastating and Senseless Mega Projects
 </div>
 <hr>
 
-GODIImenti is also a concert reading, combining readings with music, staged by Wu Ming 2 and <a href="https://www.youtube.com/watch?t=2&v=LsA35_0lh68" target="_blank">Egle Sommacal</a> (from the band Massimo Volume).
 <img src="http://payload399.cargocollective.com/1/10/325579/10281174/goddimenti_booklet_2.png" alt="Godiimenti booklet">
+
+GODIImenti is also a concert reading, combining readings with music, staged by Wu Ming 2 and <a href="https://www.youtube.com/watch?t=2&v=LsA35_0lh68" target="_blank">Egle Sommacal</a> (from the band Massimo Volume).
