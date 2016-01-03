@@ -81,7 +81,7 @@ overflow-x: hidden;
     font-smoothing: antialiased;
 }
 
-@include media-query($on-palm) {
+
 body {
     font-family: $base-font-family;
     font-size: 18px;
@@ -101,6 +101,15 @@ body {
   line-height: 1.3;
   font-weight: 400;
 
+}
+
+@include media-query($on-palm) {
+.highlight {
+
+  font-size: 30px;
+  line-height: 1.3;
+  font-weight: 400;
+}
 }
 
 p.small {
