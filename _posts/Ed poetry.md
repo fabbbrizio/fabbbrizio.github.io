@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Automaton forger"
-date:   2015-07-25
+date:   1850-07-25
 categories: news
 ---
 
