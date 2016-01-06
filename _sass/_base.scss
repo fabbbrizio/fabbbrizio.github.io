@@ -252,12 +252,13 @@ text-transform: none;
 body.with-full-bg-2 {
 
   //opacity: 0.5;
-  background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');
-  background-size: cover;
-  background-repeat: no-repeat;
-
--webkit-animation: background 50s cubic-bezier(0,0,1,1) infinite;
+  -webkit-animation: background 50s cubic-bezier(0,0,1,1) infinite;
 animation: background 50s cubic-bezier(0,0,1,1) infinite;
+
+background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');
+background-size: cover;
+background-repeat: no-repeat;
+
 }
 
 @-webkit-keyframes background {
