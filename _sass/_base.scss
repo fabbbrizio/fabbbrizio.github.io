@@ -278,6 +278,19 @@ animation: background 50s cubic-bezier(0,0,1,1) infinite;
 100% { background-color: #2E0927; }
 }
 
+.player .video {
+        position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+background-size: contain;
+margin: 0 auto;
+background-repeat: no-repeat;
+background-position: 50% 50%;
+
+}
+
 /*
 body.with-full-bg-2 {
 -webkit-animation: background 30s cubic-bezier(0,0,1,1) infinite;
