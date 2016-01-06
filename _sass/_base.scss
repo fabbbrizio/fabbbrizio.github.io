@@ -187,7 +187,6 @@ background-color: initial;
     margin-top: 130px;
     background-size: cover;
     background-repeat: no-repeat;
-    -webkit-filter: none;
     //line-height:1;
 }
 
@@ -250,14 +249,15 @@ text-transform: none;
 }
 }
 
+/*
 .with-full-bg-2 .gif-bg {
 
   //opacity: 0.5;
   background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');
-  -webkit-filter: blur(10px);
   background-size: cover;
   background-repeat: no-repeat;
 }
+*/
 
   body.with-full-bg-2 {
   -webkit-animation: background 50s cubic-bezier(0,0,1,1) infinite;
