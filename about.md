@@ -15,7 +15,7 @@ I work across different communication disciplines; from identity design, user ex
 
 <h2><b>Work</b></h2>
 
-2015 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>MM–ONE Group</b> – UI Designer • Venice
+2015 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>MM–ONE Group</b> – Designer • Venice
 <br>
 <br>
 2014 - 2015 &nbsp; <b>Iperstudio</b> – Former member, Designer • Venice
