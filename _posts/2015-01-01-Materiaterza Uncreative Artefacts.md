@@ -1,12 +1,13 @@
 ---
-#layout: post
-#title:  "Materiaterza"
-#date:   2015-01-01 17:00:00
-#categories: news
+layout: post
+title:  "Materiaterza"
+date:   2015-01-01 17:00:00
+featured_image: /images/projects/materiaterza/materiaterza.gif
+categories: news
 ---
 
-<img src="http://payload399.cargocollective.com/1/10/325579/10282961/7.png" alt="Mtrtrz cover">
 Materiaterza is been a Design Collective aimed to research on design methodologies and production processes.
+<img src="http://payload399.cargocollective.com/1/10/325579/10282961/7.png" alt="Mtrtrz cover">
 
 The origin of the project came from an idea of <a href="http://davidetuberga.it/works">Davide Tuberga</a> – product designer – who explored new methods for extruding ceramic material using CNC machine (3D printing).
 */
