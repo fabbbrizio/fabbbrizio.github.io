@@ -11,9 +11,11 @@ Personal research and graphic sperimentation between hand-drawing and automate-d
 This short research is led by a personal investigation on the transition of the practice of analog and digital drawing, in the field of illustration and Design.
 
 <img src="http://payload155.cargocollective.com/1/10/325579/5411202/Screen-Shot-2014-03-11-at-18.43.37.png" alt="digital tool">
-<img src="http://transit7.cargocollective.com/1/10/325579/5411202/IMG_3751_1.jpg" alt="digital tool">
-<img src="" alt="digital tool">
-<img src="" alt="digital tool">
+<img src="http://payload155.cargocollective.com/1/10/325579/5411202/IMG_3751_1_o.jpg" alt="digital tool2">
+<img src="/images/projects/automatonforger/gondola.jpg" alt="digital tool">
+<img src="/images/projects/automatonforger/arduino.jpg" alt="digital tool">
+<img src="/images/projects/automatonforger/drawbot.jpg" alt="digital tool">
+<iframe src="https://player.vimeo.com/video/151308418?color=e74c3c&title=0&byline=0&portrait=0" width="100%" height="440" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Digital media – such as graphic design software – offer enormous technical and professional opportunities, but also open many questions with regard to the changes that will respect the mental processes, approaches, processes, and stylistic choices.
 
@@ -29,7 +31,7 @@ Through the use of metaphors, drawing is used to represent and communicate in a 
 Subsequently, the research moves to the changes brought by technological development and mass diffusion of digital technologies and interfaces in the fields of design. Other implicit issues in this discourse are relating to the concepts of originality and autorship of the physical-virtual artefacts.
 
 My work concerns reflections on contemporary media and the connections between procedures and technical tools. It is an observation on different media, analog and digital,
-and union between different systems, thinking in a different way the linearity of technological progress, analog>digital.
+and union between different systems, thinking in a different way the linearity of technological progress, analog > digital.
 
 This set of procedures will be carried out through the use of various means which exponentially reduce the coordination brain–hand–sign, up to the limit case – the automated drawing through drawbot – with the aim of thinking processes on the basis of the relationship between author, technical tool and representation.
 
