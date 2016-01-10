@@ -12,11 +12,12 @@ This short research is led by a personal investigation on the transition of the 
 
 <img src="http://payload155.cargocollective.com/1/10/325579/5411202/Screen-Shot-2014-03-11-at-18.43.37.png" alt="digital tool">
 <img src="http://payload155.cargocollective.com/1/10/325579/5411202/IMG_3751_1_o.jpg" alt="digital tool2">
-<img src="/images/projects/automatonforger/gondola.jpg" alt="digital tool">
-<img src="/images/projects/automatonforger/arduino.jpg" alt="digital tool">
-<img src="/images/projects/automatonforger/drawbot.jpg" alt="digital tool">
+<img src="/images/projects/automatonforger/gondola.jpg" alt="">
+<img src="/images/projects/automatonforger/arduino.jpg" alt="">
+<img src="/images/projects/automatonforger/drawbot.jpg" alt="">
 <iframe src="https://player.vimeo.com/video/151308418?color=e74c3c&title=0&byline=0&portrait=0" width="100%" height="440" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
+<img src="/images/projects/automatonforger/scriabin.gif" alt="">
+<br>
 Digital media – such as graphic design software – offer enormous technical and professional opportunities, but also open many questions with regard to the changes that will respect the mental processes, approaches, processes, and stylistic choices.
 
 <hr>
