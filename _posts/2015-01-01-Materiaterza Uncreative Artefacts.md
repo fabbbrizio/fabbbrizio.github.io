@@ -7,6 +7,7 @@ categories: news
 ---
 
 Materiaterza is been a Design Collective aimed to research on design methodologies and production processes.
+
 <img src="http://payload399.cargocollective.com/1/10/325579/10282961/7.png" alt="Mtrtrz cover">
 
 The origin of the project came from an idea of <a href="http://davidetuberga.it/works">Davide Tuberga</a> – product designer – who explored new methods for extruding ceramic material using CNC machine (3D printing).
