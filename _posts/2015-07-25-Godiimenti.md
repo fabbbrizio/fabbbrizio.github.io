@@ -2,7 +2,7 @@
 layout: post
 title:  "Godiimenti"
 date:   2014-09-13
-featured_image: /images/godiimenti/Godimenti_illustrazione.png
+featured_image: /images/projects/godiimenti/Godimenti_illustrazione.png
 categories: news
 ---
 
