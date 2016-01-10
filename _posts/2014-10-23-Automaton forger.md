@@ -8,7 +8,9 @@ categories: news
 
 Personal research and graphic sperimentation between hand-drawing and automate-drawing.
 
-This short research is led by a personal investigation on the transition of the practice of analog and digital drawing, in the field of illustration and Design. Digital media – such as graphic design software – offer enormous technical and professional opportunities, but also open many questions with regard to the changes that will respect the mental processes, approaches, processes, and stylistic choices.
+This short research is led by a personal investigation on the transition of the practice of analog and digital drawing, in the field of illustration and Design.
+<img src="http://transit7.cargocollective.com/1/10/325579/5411202/Screen-Shot-2014-03-25-at-21.27.54.png" alt="digital tool">
+Digital media – such as graphic design software – offer enormous technical and professional opportunities, but also open many questions with regard to the changes that will respect the mental processes, approaches, processes, and stylistic choices.
 
 <hr>
 <div class="highlight">
