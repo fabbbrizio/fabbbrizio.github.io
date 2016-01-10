@@ -8,8 +8,6 @@ categories: news
 
 Materiaterza is been a Design Collective aimed to research on design methodologies and production processes.
 
-<img src="http://payload399.cargocollective.com/1/10/325579/10282961/7.png" alt="Mtrtrz cover">
-
 The origin of the project came from an idea of <a href="http://davidetuberga.it/works">Davide Tuberga</a> – product designer – who explored new methods for extruding ceramic material using CNC machine (3D printing).
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282961/IMGP0924.JPG" alt="">
@@ -35,6 +33,8 @@ In the same way as using the 3D printer software is possible change just some va
 <img src="http://payload399.cargocollective.com/1/10/325579/10282961/2.png" alt="">
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282961/8.png" alt="">
+
+<img src="http://payload399.cargocollective.com/1/10/325579/10282961/7.png" alt="Mtrtrz cover">
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282961/2.10.gif" alt="">
 
