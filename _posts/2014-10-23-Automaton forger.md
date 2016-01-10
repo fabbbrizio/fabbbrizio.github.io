@@ -27,7 +27,7 @@ Each technical tool is also a cognitive tool, designed to respond to a specific 
 
 In the first part of the research I have outlined how drawing is a common practice in various disciplines which study and operate in the fields of visual communication, and that recurs in different stages of their design process.
 
-<img src="/images/projects/automatonforger/scriabin.gif" alt="Scriabin drawings">
+<img src="/images/projects/automatonforger/scriabin.gif" loop=infinite alt="Scriabin drawings">
 
 Through the use of metaphors, drawing is used to represent and communicate in a fast and coordinated way the thought, turning abstract concepts into structures of visual signs, filtering them and turning them into understandable and shareable visual languages. A sort of historical investigation focused on the relationships between people and tools, and the cognitive aspects in between.
 
