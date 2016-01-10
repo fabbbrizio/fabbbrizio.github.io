@@ -35,8 +35,12 @@ Through the use of metaphors, drawing is used to represent and communicate in a 
 
 Subsequently, the research moves to the changes brought by technological development and mass diffusion of digital technologies and interfaces in the fields of design. Other implicit issues in this discourse are relating to the concepts of originality and autorship of the physical-virtual artefacts.
 
+<img src="http://payload155.cargocollective.com/1/10/325579/5411202/IMG_3775_o.jpg" alt="experiment1">
+
 My work concerns reflections on contemporary media and the connections between procedures and technical tools. It is an observation on different media, analog and digital,
 and union between different systems, thinking in a different way the linearity of technological progress, analog > digital.
+
+<img src="/images/projects/automatonforger/experimentX.jpg" alt="experiment2">
 
 This set of procedures will be carried out through the use of various means which exponentially reduce the coordination brain–hand–sign, up to the limit case – the automated drawing through drawbot – with the aim of thinking processes on the basis of the relationship between author, technical tool and representation.
 
