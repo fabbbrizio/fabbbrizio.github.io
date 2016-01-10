@@ -3,7 +3,7 @@ layout: post
 title:  "Godiimenti"
 date:   2014-09-13
 #featured_image: /images/projects/venice.jpg
-categories: projects
+categories: news
 ---
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10281174/Godimenti_illustrazione_web_1_o.png" alt="Godiimenti draw extract">
