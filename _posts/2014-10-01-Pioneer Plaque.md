@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "Pioneer Plaque"
-#featured_image: /images/projects/pioneer/plaque.jpg
+featured_image: /images/projects/pioneer/plaque.jpg
 date:   1972-09-14 19:13:23
 categories: news
 ---
 
-<img src="http://payload403.cargocollective.com/1/10/325579/10371245/plaque.jpg" alt="Pioneer cover">
 Information Design Poster about an image sent to space, aims to give a message about us to other inhabitants of the universe.
 
 <hr>
