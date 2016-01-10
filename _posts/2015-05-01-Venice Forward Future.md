@@ -2,10 +2,10 @@
 layout: post
 title:  "Venice Forward Future"
 date:   2015-06-01 17:00:00
+featured_image: /images/projects/venice>>future/v>>f logo process.jpeg
 categories: news
 ---
 
-<img src="http://payload399.cargocollective.com/1/10/325579/10282917/Scan-24_1600_c.jpeg" alt="logo2">
 Venice Forward Future is a series of controlled tests run within the prestigious Muranese furnace <a href="http://www.salviati.com/" target="_blank">Salviati</a> and <a href="http://www.breaking-the-mould.com/en.php" target="_blank">BTM</a> project.
 
 <br>
