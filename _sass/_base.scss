@@ -362,13 +362,13 @@ img {
 }
 
 .projects-list img {
-  -webkit-filter: brightness(100%);
+  -webkit-filter: brightness(95%);
   transition-duration: 1.3s;
 
 
 &:hover {
 
--webkit-filter: brightness(120%);
+-webkit-filter: brightness(100%);
 transition-duration: 1.3s;
 //-webkit-filter: blur(3px);
 
