@@ -2,6 +2,7 @@
 layout: post
 title:  "Godiimenti"
 date:   2014-09-13
+#featured_image: /images/projects/venice.jpg
 categories: projects
 ---
 
