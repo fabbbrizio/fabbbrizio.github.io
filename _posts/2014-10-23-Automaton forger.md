@@ -45,7 +45,9 @@ and union between different systems, thinking in a different way the linearity o
 This set of procedures will be carried out through the use of various means which exponentially reduce the coordination brain–hand–sign, up to the limit case – the automated drawing through drawbot – with the aim of thinking processes on the basis of the relationship between author, technical tool and representation.
 
 
-In a speech about the means and processes related to visual communication, disciplinary boundaries appear to be mere preconception. Therefore it is necessary to develop an awareness on the design tools and collaboration, between people from different fields – such as illustration and design
+In a speech about the means and processes related to visual communication, disciplinary boundaries appear to be mere preconception. Therefore it is necessary to develop an awareness on the design tools and collaboration, between people from different fields – such as illustration and design.
+
+<img src="http://40.media.tumblr.com/7330efed61da8dd96671719b2cbbdac2/tumblr_mv3bf0isEO1slid3lo1_1280.png" alt="">
 
 <!--Some applications of the experiment had the potential aim to not reveal explicitly the gap between the analog and the digital process of the drawings. -->
 
