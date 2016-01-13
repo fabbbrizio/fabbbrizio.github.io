@@ -24,11 +24,9 @@ I joined the group with Chiara Costantini – graphic designer – with the inte
 
 Materiaterza graphic identity follow a generative design process. As for the three coordinates values X, Y, Z of the 3D printer movement – necessary to permit to extrude every material artefact – a similar process is implemented in the typography variations procedure of the logo. I decided to use as picture element the first letter of the collective name.
 
-<img src="http://payload399.cargocollective.com/1/10/325579/10282961/1.png" alt="">
+<img src="http://41.media.tumblr.com/334d3497d9d96208f5f670da517eddec/tumblr_ndskl6YGjI1thir10o1_1280.jpg" alt="">
 
 In the same way as using the 3D printer software is possible change just some variables to create very different concave objects, I research new shapes for the M moving the type on X, Y axes, rotating and extruding it on Z axis. Then using a full-black color, I give a bidimensional perception to the altered version of the M.
-
-<img src="http://41.media.tumblr.com/334d3497d9d96208f5f670da517eddec/tumblr_ndskl6YGjI1thir10o1_1280.jpg" alt="">
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282961/2.png" alt="">
 
