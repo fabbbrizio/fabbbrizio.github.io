@@ -34,10 +34,11 @@ In the same way as using the 3D printer software is possible change just some va
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282961/2.10.gif" alt="">
 
+<!-- 
 In the end I create a pattern that imitates the ceramic extruded form, and I used it in different context (printed communication artifacts, graphic on the web).
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282961/3.1.jpg" alt="">
-<br>
+<br> -->
 For the project I designed the identity for printed artefacts, shops exposition of the ceramic 3D printed objects and the web & video communication.
 
 <br>
