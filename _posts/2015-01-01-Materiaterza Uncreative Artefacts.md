@@ -30,8 +30,6 @@ In the same way as using the 3D printer software is possible change just some va
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282961/2.png" alt="">
 
-<img src="http://payload399.cargocollective.com/1/10/325579/10282961/8.png" alt="">
-
 <img src="http://payload399.cargocollective.com/1/10/325579/10282961/7.png" alt="Mtrtrz cover">
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282961/2.10.gif" alt="">
