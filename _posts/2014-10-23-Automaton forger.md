@@ -46,10 +46,6 @@ This set of procedures will be carried out through the use of various means whic
 
 
 In a speech about the means and processes related to visual communication, disciplinary boundaries appear to be mere preconception. Therefore it is necessary to develop an awareness on the design tools and collaboration, between people from different fields – such as illustration and design.
-<a href="http://web.mit.edu/cocosci/Papers/line-drawings-in-press-old.pdf">
-<img src="http://40.media.tumblr.com/7330efed61da8dd96671719b2cbbdac2/tumblr_mv3bf0isEO1slid3lo1_1280.png" alt="Learning Style Translation for the Lines of a Drawing">
-</a>
-<font size="2" font color="red">Learning Style Translation for the Lines of a Drawing, WILLIAM T. FREEMAN, JOSHUA B. TENENBAUM, and EGON PASZTOR, MIT – 2003.</font>
 
 <!--Some applications of the experiment had the potential aim to not reveal explicitly the gap between the analog and the digital process of the drawings. -->
 
