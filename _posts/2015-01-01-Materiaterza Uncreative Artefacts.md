@@ -6,7 +6,7 @@ featured_image: /images/projects/materiaterza/materiaterza.gif
 categories: news
 ---
 
-Materiaterza is been a Design Collective aimed to research on design methodologies and production processes.
+Identity for Materiaterza, collective that researched on design production methodologies and processes.
 
 The origin of the project came from an idea of <a href="http://davidetuberga.it/works">Davide Tuberga</a> – product designer – who explored new methods for extruding ceramic material using CNC machine (3D printing).
 
