@@ -31,7 +31,7 @@ In the first part of the research I have outlined how drawing is a common practi
 
 Through the use of metaphors, drawing is used to represent and communicate in a fast and coordinated way the thought, turning abstract concepts into structures of visual signs, filtering them and turning them into understandable and shareable visual languages. A sort of historical investigation focused on the relationships between people and tools, and the cognitive aspects in between.
 
-<img src="/images/projects/automatonforger/bakunin.jpg" alt="bakunin drawing">
+<!-- <img src="/images/projects/automatonforger/bakunin.jpg" alt="bakunin drawing"> -->
 
 Subsequently, the research moves to the changes brought by technological development and mass diffusion of digital technologies and interfaces in the fields of design. Other implicit issues in this discourse are relating to the concepts of originality and autorship of the physical-virtual artefacts.
 
