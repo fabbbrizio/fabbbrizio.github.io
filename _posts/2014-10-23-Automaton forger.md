@@ -49,6 +49,7 @@ In a speech about the means and processes related to visual communication, disci
 
 <!--Some applications of the experiment had the potential aim to not reveal explicitly the gap between the analog and the digital process of the drawings. -->
 
+<a href="https://www.dropbox.com/s/dv4b06lbqvhdrxv/La%20visione%20inversa_tesi-Fabrizio%20Goglia.pdf?dl=0" target="_blank" class="button">Full research – IT</a>
 
 Thanks to <a href="http://davidetuberga.it/" target="_blank">Davide Tuberga</a> for the 3D printed pen-object design and to <a href="http://www.lenamehrerdesign.com/" target="_blank">Lena Mehrer</a> for the help with video documentation.
 
