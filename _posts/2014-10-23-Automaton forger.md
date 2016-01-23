@@ -54,9 +54,6 @@ In a speech about the means and processes related to visual communication, disci
 <!--Some applications of the experiment had the potential aim to not reveal explicitly the gap between the analog and the digital process of the drawings. -->
 
 Thanks to <a href="http://davidetuberga.it/" target="_blank">Davide Tuberga</a> for the 3D printed pen-object design and to <a href="http://www.lenamehrerdesign.com/" target="_blank">Lena Mehrer</a> for the help with video documentation.
-<br>
-<br>
-<a href="http://fabriziogoglia.tumblr.com" target="_blank" class="button">More sketches</a>
 
 <div class="blockquote">
 
