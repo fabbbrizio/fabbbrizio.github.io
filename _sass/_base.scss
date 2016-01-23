@@ -161,7 +161,7 @@ background-color: initial;
 
 }
 
-include media-query($on-palm) {
+@include media-query($on-palm) {
   body.with-full-bg-2 {
 
     background-size: cover;
@@ -189,7 +189,7 @@ include media-query($on-palm) {
 
     background-repeat: no-repeat;
     line-height:1.4;
-    
+
   }
 }
 
