@@ -281,6 +281,7 @@ animation: background 50s cubic-bezier(0,0,1,1) infinite;
 @include media-query($on-palm) {
   body.with-full-bg-2 {
 
+    background-image:none;
     -webkit-animation: background 50s cubic-bezier(0,0,1,1) infinite;
   animation: background 50s cubic-bezier(0,0,1,1) infinite;
   }
