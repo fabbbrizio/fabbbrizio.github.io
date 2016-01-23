@@ -161,38 +161,6 @@ background-color: initial;
 
 }
 
-@include media-query($on-palm) {
-  body.with-full-bg-2 {
-
-    background-size: cover;
-
-    background: -webkit-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(rgb(160, 167, 163)), color-stop(0.5, rgb(190, 172, 181)), to(rgb(182, 195, 207)));
-    background: -moz-linear-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(rgb(160, 167, 163)), color-stop(0.5, rgb(190, 172, 181)), to(rgb(182, 195, 207)));
-    background: -ms-linear-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(rgb(160, 167, 163)), color-stop(0.5, rgb(190, 172, 181)), to(rgb(182, 195, 207)));
-    background: -o-linear-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(rgb(160, 167, 163)), color-stop(0.5, rgb(190, 172, 181)), to(rgb(182, 195, 207)));
-    background: linear-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(rgb(160, 167, 163)), color-stop(0.5, rgb(190, 172, 181)), to(rgb(182, 195, 207)));
-
-    background-position-x: initial;
-    background-position-y: initial;
-    background-size: initial;
-    background-repeat-x: initial;
-    background-repeat-y: initial;
-    background-attachment: initial;
-    background-origin: initial;
-    background-clip: initial;
-    background-color: initial;
-
-    color: white;
-    font-size: 46px;
-    margin-top: 38px;
-    background-size: cover;
-
-    background-repeat: no-repeat;
-    line-height:1.4;
-
-  }
-}
-
 
 @include media-query($on-palm) {
   body.with-full-bg {
@@ -309,6 +277,27 @@ animation: background 50s cubic-bezier(0,0,1,1) infinite;
 67% { background-color: #EA2E49; }
 100% { background-color: #2E0927; }
 }
+
+@include media-query($on-palm) {
+  body.with-full-bg-2 {
+
+    -webkit-animation: background 50s cubic-bezier(0,0,1,1) infinite;
+  animation: background 50s cubic-bezier(0,0,1,1) infinite;
+  }
+  }
+
+  @-webkit-keyframes background {
+  0% { background-color: #333745; }
+  33% { background-color: #DB9E36; }
+  67% { background-color: #EA2E49; }
+  100% { background-color: #2E0927; }
+  }
+
+  @keyframes background {
+  0% { background-color: #333745; }
+  33% { background-color: #DB9E36; }
+  67% { background-color: #EA2E49; }
+  100% { background-color: #2E0927; }
 
 /*
 body.with-full-bg-2 {
