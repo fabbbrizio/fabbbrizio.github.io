@@ -54,7 +54,7 @@ In a speech about the means and processes related to visual communication, disci
 Thanks to <a href="http://davidetuberga.it/" target="_blank">Davide Tuberga</a> for the 3D printed pen-object design and to <a href="http://www.lenamehrerdesign.com/" target="_blank">Lena Mehrer</a> for the help with video documentation.
 <br>
 <br>
-<a href="http://fabriziogoglia.tumblr.com" target="_blank" class="button">See more sketches</a>
+<a href="http://fabriziogoglia.tumblr.com" target="_blank" class="button">More sketches</a>
 
 <div class="blockquote">
 
