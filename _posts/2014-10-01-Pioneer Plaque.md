@@ -34,3 +34,7 @@ Poster designed for <i><a href="http://20buonimotivi.tumblr.com/" target="_blank
 <img src="http://payload403.cargocollective.com/1/10/325579/10371245/65302_390774517690240_952004821_n_960.jpg" alt="Poster exhibition">
 
 <a href="http://20buonimotivi.tumblr.com/" target="_blank" class="button">Explore project website</a>
+
+<br>
+<br>
+<a href="http://fabriziogoglia.com//news/2012/01/01/Keepsake.html">< Previous Project</a> — <a href="http://fabriziogoglia.com//news/2015/07/25/Careof.html">Next Project ></a>

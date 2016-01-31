@@ -16,3 +16,7 @@ The article – February 2013 – examines the investment strategies in the cult
 <img src="http://payload155.cargocollective.com/1/10/325579/5418159/sole24ore_1_o.jpg" alt="Manifesto per la cultura">
 
 Project made with <a href="http://cargocollective.com/gloriaangelini" target="_blank">Gloria Angelini</a> and Giacomo Zonta.
+
+<br>
+<br>
+<a href="http://fabriziogoglia.com//news/2014/10/04/Automaton%20forger.html">< Previous Project</a> — <a href="http://fabriziogoglia.com//news/2014/09/13/Godiimenti.html">Next Project ></a>

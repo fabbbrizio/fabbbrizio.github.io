@@ -23,3 +23,7 @@ The motion design video aimed to promote on the web the anthology end product of
 <img src="http://payload399.cargocollective.com/1/10/325579/10281174/goddimenti_booklet_2.png" alt="Godiimenti booklet">
 
 GODIImenti is also a concert reading, combining readings with music, staged by Wu Ming 2 and <a href="https://www.youtube.com/watch?t=2&v=LsA35_0lh68" target="_blank">Egle Sommacal</a> (from the band Massimo Volume).
+
+<br>
+<br>
+<a href="http://fabriziogoglia.com//news/2014/10/01/Manifesto.html">< Previous Project</a> — <a href="http://fabriziogoglia.com//news/2012/01/01/Keepsake.html">Next Project ></a>

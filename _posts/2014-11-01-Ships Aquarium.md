@@ -27,3 +27,7 @@ I researched on the effect of the big ships in Venice lagoon environment conditi
 <img src="http://payload138.cargocollective.com/1/10/325579/5074354/sa3.png" alt="">
 
 Project developed with <a href="http://ruggerocastagnola.com/" target="_blank">Ruggero Castagnola</a> and <a href="http://www.lorenzpotthast.de/" target="_blank">Lorenz Potthast</a>.
+
+<br>
+<br>
+<a href="http://fabriziogoglia.com//news/2015/01/01/Materiaterza%20Uncreative%20Artefacts.html">< Previous Project</a> — <a href="http://fabriziogoglia.com//news/2014/10/04/Automaton%20forger.html">Next Project ></a>
