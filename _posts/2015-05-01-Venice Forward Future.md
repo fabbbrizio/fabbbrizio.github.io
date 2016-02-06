@@ -23,6 +23,7 @@ The resulting outcomes are been presented at VL2015 (Fuori Salone di Milano – 
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/3.1_1250.jpg" alt="Artworks">
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/vf1.jpg" alt="Murano">
+<img src="http://materiaterza.tumblr.com/post/138798368809" alt="glass-blowing process">
 
 For this project I designed graphic identity and printed artefacts for the exposition (with Chiara Costantini and Luca Coppola), and the mockup of the project's website (developed by Federico Bovara).
 
