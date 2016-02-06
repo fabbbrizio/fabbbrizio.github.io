@@ -131,7 +131,7 @@ body.with-full-bg-2 {
   //background-image: url('/images/madonna.png');
   //background-image: url('/images/goya.png');
   //color: #14141C;
-  color: white;
+  color: black;
   font-size: 46px;
   margin-top: 38px;
   background-size: cover;
@@ -196,6 +196,7 @@ background-color: initial;
     text-shadow: none;
   text-decoration: underline;
   border-bottom: 1px;
+  color:black;
 
   &:hover {
 
