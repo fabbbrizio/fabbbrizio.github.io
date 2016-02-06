@@ -47,7 +47,7 @@ mould/" target="_blank">Nykyinen</a>, <a href="http://www.domusweb.it/content/do
 <b>Credits</b>: <a href="http://www.breaking-the-mould.com/en.php" target="_blank">BTM</a>, <a href="http://materiaterza.com/" target="_blank">Materiaterza</a>, <a href= "http://www.salviati.com/" target="_blank">Salviati</a>.
 
 <br>
-<a href="http://venice-future.com/" target="_blank" class="button">Explore project website</a>
+<a href="http://venice-future.com/" target="_blank" class="button">Project website</a>
 
 <br>
 <br>
