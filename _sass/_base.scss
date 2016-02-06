@@ -630,6 +630,27 @@ transition-duration: 1s;
     }
 }
 
+@include media-query($on-palm) {
+.with-full-bg-2 a {
+
+    color: white;
+  transition-duration: 1s;
+    background-color: transparent;
+    border-bottom-width: 1px;
+    //text-shadow: 2px 0px black;
+
+    &:hover {
+
+        text-shadow: none;
+      color: white;
+        border-bottom: none;
+    
+      text-decoration: none;
+    }
+}
+}
+
+
 
 @include media-query($on-palm) {
 .with-full-bg-2 a {
