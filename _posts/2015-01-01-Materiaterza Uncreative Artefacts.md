@@ -8,8 +8,6 @@ categories: news
 
 Identity for Materiaterza, collective that researched on production methodologies and design processes.
 
-<iframe src="http://materiaterza.com/" width="100%" height="500px" frameborder="0"></iframe>
-
 The origin of the project came from an idea of <a href="http://davidetuberga.it/works">Davide Tuberga</a> – product designer – who explored new methods for extruding ceramic material using CNC machine (3D printing).
 
 <img src="http://payload399.cargocollective.com/1/10/325579/10282961/IMGP0924.JPG" alt="">
