@@ -207,7 +207,24 @@ background-color: initial;
 
   }
   }
+  @include media-query($on-palm) {
+  .with-full-bg-2 .page-content a {
 
+      text-shadow: none;
+    text-decoration: underline;
+    border-bottom: 1px;
+    color:black;
+
+    &:hover {
+
+      color: black;
+        border-bottom: none;
+      text-decoration: none;
+      text-shadow: none;
+
+    }
+    }
+}
 
 .with-full-bg-2 .home-links {
 
@@ -644,7 +661,7 @@ transition-duration: 1s;
         text-shadow: none;
       color: white;
         border-bottom: none;
-    
+
       text-decoration: none;
     }
 }
