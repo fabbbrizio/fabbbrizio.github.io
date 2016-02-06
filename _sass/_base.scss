@@ -250,6 +250,25 @@ text-transform: none;
 
 }
 }
+@include media-query($on-palm) {
+
+  .with-full-bg-2 .home-links a {
+
+    text-shadow: none;
+  color: white;
+  text-decoration: none;
+  text-transform: none;
+
+  &:hover {
+
+      border-bottom: none;
+    text-decoration: underline;
+    text-shadow: none;
+    text-transform: none;
+    color:white;
+  }
+  }
+}
 
 /*
   body.with-full-bg-2 {
@@ -602,7 +621,7 @@ transition-duration: 1s;
 
         //  -webkit-filter: blur(0px);
         text-shadow: none;
-      color: white;
+      color: black;
       //font-size: 55px;
         border-bottom: none;
     //    letter-spacing: 15px;
