@@ -160,9 +160,7 @@ background-color: initial;
   line-height:1.4;
 
   .page-gallery-layer {
-      -webkit-transition: opacity 0.5s;
-      -moz-transition: opacity 0.5s;
-      transition: opacity 0.5s;
+      
       top: 0;
       left: 0;
       height: 100%;
@@ -170,7 +168,7 @@ background-color: initial;
       background-color: #000;
       opacity: 0.4;
     }
-    
+
 }
 
 
