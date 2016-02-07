@@ -122,7 +122,16 @@ hr {
 
 }
 
+.page-bg-layer {
 
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #000;
+    opacity: 0.4;
+  }
+  
 body.with-full-bg-2 {
 
   background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');
@@ -158,16 +167,6 @@ background-color: initial;
 */
   background-repeat: no-repeat;
   line-height:1.4;
-
-  .page-bg-layer {
-
-      top: 0;
-      left: 0;
-      height: 100%;
-      width: 100%;
-      background-color: #000;
-      opacity: 0.4;
-    }
 
 }
 
