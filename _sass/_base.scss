@@ -161,6 +161,10 @@ background-color: initial;
 }
 .page-bg-layer {
 
+
+    -webkit-transition: opacity 0.5s;
+    -moz-transition: opacity 0.5s;
+    transition: opacity 0.5s;
     top: 0;
     left: 0;
     height: 100%;
