@@ -51,4 +51,4 @@ mould/" target="_blank">Nykyinen</a>, <a href="http://www.domusweb.it/content/do
 
 <br>
 <br>
-<a href="http://fabriziogoglia.com//news/2015/07/25/Careof.html">< Previous Project</a> — <a href="http://fabriziogoglia.com//news/2015/01/01/Materiaterza%20Uncreative%20Artefacts.html">Next Project ></a>
+<a href="http://fabriziogoglia.com//news/2015/07/25/Careof.html">< Previous Project</a> — <a href="http://fabriziogoglia.com//news/2015/01/01/Materiaterza-Uncreative-Artefacts.html">Next Project ></a>

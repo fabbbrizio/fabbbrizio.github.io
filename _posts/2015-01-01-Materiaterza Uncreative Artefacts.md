@@ -47,4 +47,4 @@ For the project I designed the identity for printed artefacts, shops exposition 
 
 <br>
 <br>
-<a href="http://fabriziogoglia.com//news/2015/06/01/Venice%20Forward%20Future.html">< Previous Project</a> — <a href="http://fabriziogoglia.com//news/2014/11/01/Ships%20Aquarium.html">Next Project ></a>
+<a href="http://fabriziogoglia.com//news/2015/06/01/Venice-Forward-Future.html">< Previous Project</a> — <a href="http://fabriziogoglia.com//news/2014/11/01/Ships-Aquarium.html">Next Project ></a>

@@ -19,4 +19,4 @@ Project made with <a href="http://cargocollective.com/gloriaangelini" target="_b
 
 <br>
 <br>
-<a href="http://fabriziogoglia.com//news/2014/10/04/Automaton%20forger.html">< Previous Project</a> — <a href="http://fabriziogoglia.com//news/2014/09/13/Godiimenti.html">Next Project ></a>
+<a href="http://fabriziogoglia.com//news/2014/10/04/Automaton-forger.html">< Previous Project</a> — <a href="http://fabriziogoglia.com//news/2014/09/13/Godiimenti.html">Next Project ></a>

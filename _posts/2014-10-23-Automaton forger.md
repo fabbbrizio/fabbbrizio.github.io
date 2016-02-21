@@ -57,4 +57,4 @@ Thanks to <a href="http://davidetuberga.it/" target="_blank">Davide Tuberga</a> 
 
 <br>
 <br>
-<a href="http://fabriziogoglia.com//news/2014/11/01/Ships%20Aquarium.html">< Previous Project</a> — <a href="http://fabriziogoglia.com//news/2014/10/01/Manifesto.html">Next Project ></a>
+<a href="http://fabriziogoglia.com//news/2014/11/01/Ships-Aquarium.html">< Previous Project</a> — <a href="http://fabriziogoglia.com//news/2014/10/01/Manifesto.html">Next Project ></a>
