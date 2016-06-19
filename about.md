@@ -18,10 +18,10 @@ I work across different communication disciplines; from identity design, user ex
 2015 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>MM–ONE Group</b> – UI/UX Designer • Venice
 <br>
 <br>
-2014 - 2015 &nbsp; <b>Iperstudio</b> – Former member, Designer • Venice
+2014 - 2015 &nbsp; <b>Iperstudio</b> – Former member, Interaction Designer • Venice
 <br>
 <br>
-2014 - 2015 &nbsp; <b>Materiaterza</b> – Designer • Venice
+2014 - 2015 &nbsp; <b>Materiaterza</b> – Graphic Designer • Venice
 <br>
 <br>
 2014 - 2015 &nbsp; <b>Confartigianato</b> – Freelance Designer • Venice
