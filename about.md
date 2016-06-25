@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: About/
+permalink: about/
 author: Fabrizio
 menu: yes
 menu_order: 3
@@ -9,7 +9,8 @@ menu_order: 3
 
 <h2><b>About</b></h2>
 
-Hello, I am Fabrizio, interaction designer and random illustrator, former <a href="http://www.iperstudio.net/" target="_blank">Iperstudio</a> member and student of <a href="http://www.interaction-venice.com/" target="_blank">IUAV IxD</a> program run by Gillian Crampton Smith and Philip Tabor.
+Hello, I am Fabrizio, interaction designer and random illustrator, former
+<a href="http://www.iperstudio.net/" target="_blank">Iperstudio</a> member and student of <a href="http://www.interaction-venice.com/" target="_blank">IUAV IxD</a> program run by Gillian Crampton Smith and Philip Tabor.
 I work across different communication disciplines; from identity design, user experience and interface design, illustration for digital and print. I live and work in Venice.
 <hr>
 
