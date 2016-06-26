@@ -6,7 +6,7 @@
 //$base-font-family: 'Titillium Web', sans-serif;
 //$base-font-family: 'Montserrat', sans-serif;
 $base-font-family: 'Lekton', sans-serif;
-$base-font-family1: 'Lato', sans-serif;
+//$base-font-family1: 'Lato', sans-serif;
 //$base-font-family: 'Exo', sans-serif;
 //$base-font-family: 'Merriweather', sans-serif;
 $base-font-size:   21px;
@@ -181,7 +181,7 @@ background-color: initial;
     color: white;
     font-size: 45px;
     line-height: 65px;
-    margin-top: 130px;
+    margin-top: 150px;
     background-size: cover;
     background-repeat: no-repeat;
     //line-height:1;
@@ -216,7 +216,7 @@ background-color: initial;
   }
   }
   @include media-query($on-palm) {
-  .with-full-bg-2 .page-content a {
+  .with-full-bg-2 .page-content a {\
 
       text-shadow: none;
     text-decoration: underline;
@@ -329,6 +329,7 @@ animation: background 50s cubic-bezier(0,0,1,1) infinite;
   body.with-full-bg-2 {
 
     background-image:none;
+    /*
     -webkit-animation: background 50s cubic-bezier(0,0,1,1) infinite;
   animation: background 50s cubic-bezier(0,0,1,1) infinite;
   }
@@ -348,6 +349,7 @@ animation: background 50s cubic-bezier(0,0,1,1) infinite;
   100% { background-color: #2E0927; }
 }
 
+*/
 /*
 body.with-full-bg-2 {
 -webkit-animation: background 30s cubic-bezier(0,0,1,1) infinite;
