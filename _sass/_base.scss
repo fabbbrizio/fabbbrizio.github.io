@@ -91,7 +91,6 @@ body {
     //color: $text-color;
     color: black;
  //background-color: #ECECEC;
- background-color: black;
 
 }
 }
@@ -601,7 +600,7 @@ border-bottom-width: 1px;
 -webkit-filter: blur(0px);
 transition-duration: 1.3s;
 
-background-color: transparent;
+//background-color: transparent;
 border-bottom-width: 1px;
 
 &:hover {
@@ -668,7 +667,7 @@ transition-duration: 1s;
 
     color: white;
   transition-duration: 1s;
-    background-color: transparent;
+    //background-color: transparent;
     border-bottom-width: 1px;
     //text-shadow: 2px 0px black;
 
@@ -700,7 +699,7 @@ text-transform: uppercase;
 //-webkit-filter: blur(0px);
 transition-duration: 1s;
 
-background-color: transparent;
+//background-color: transparent;
 //border-bottom-width: 1px;
 //text-shadow: 2px 0px black;
 
