@@ -565,6 +565,41 @@ color: #E74C3C, darken (25%);
     }
 }
 
+@include media-query($on-palm) {
+a {
+
+    color: #4539e4;
+
+    text-decoration: none;
+    border-bottom-style: none;
+    border-bottom-width: 1px;
+    border-bottom-color: white;
+  background-color: none;
+
+    //text-transform: uppercase;
+    //text-decoration: underline;
+
+
+
+    &:visited {
+        //color: darken($brand-color, 25%);
+color: #4539e4, darken (25%);
+    }
+
+    &:hover {
+
+        color: #ffffff;
+        background-color: #4539e4;
+        border-bottom-style: none;
+        border-bottom-color: none;
+        //background: black;
+        //text-decoration: line-through;
+
+    }
+}
+
+}
+
 .immagine {
 
   height: 100%;
