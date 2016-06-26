@@ -355,6 +355,7 @@ animation: background 50s cubic-bezier(0,0,1,1) infinite;
   background-size: cover;
   background-repeat: no-repeat;
   }
+}
 
 
   @include media-query($on-palm) {
