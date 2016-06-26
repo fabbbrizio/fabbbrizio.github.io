@@ -92,10 +92,6 @@ body {
     color: black;
  background-color: #ECECEC;
 
-{
- .video { display : none; }
-}
-
 }
 }
 
@@ -373,6 +369,9 @@ animation: background 50s cubic-bezier(0,0,1,1) infinite;
     margin-top: 0%;
     text-align: left;
     color: white;
+    {
+     .video { display : none; }
+    }
 /*
     background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');
     background-size: cover;
