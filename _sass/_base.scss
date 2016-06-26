@@ -92,6 +92,10 @@ body {
     color: black;
  background-color: #ECECEC;
 
+ video{
+visibility:hidden;
+}
+
 }
 }
 
@@ -198,7 +202,7 @@ background-color: initial;
    z-index:-100;
    visibility: visible;
   }
-  
+
 }
 
 .with-full-bg-2 .page-content a {
