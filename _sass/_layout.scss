@@ -310,6 +310,69 @@
 
 }
 
+@include media-query($on-palm) {
+.button {
+-webkit-border-radius: 10;
+-moz-border-radius: 10;
+border-radius: 0px;
+font-family: Lekton, sans-serif;
+color: #4539e4;
+background: transparent;
+border: solid #4539e4 1px;
+font-size: 18px;
+padding: 10px 20px 10px 20px;
+text-transform: none;
+letter-spacing: none;
+text-decoration: none;
+-webkit-transition: background .1s linear .1s;
+  -moz-transition: background .1s linear .1s;
+  -ms-transition: background .1s linear .1s;
+  -o-transition: background .1s linear .1s;
+  transition: background .1s linear .1s;
+  transition-property: background;
+  transition-duration: 0.1s;
+  transition-timing-function: linear;
+  transition-delay: 0.1s;
+}
+.button:visited {
+color: #4539e4;
+background: transparent;
+text-decoration: none;
+border: solid #4539e4 1px;
+}
+.button:hover {
+color: #ECECEC;
+background: #4539e4;
+text-decoration: none;
+border: solid #4539e4 1px;
+}
+
+.with-full-bg .button {
+-webkit-border-radius: 10;
+-moz-border-radius: 10;
+border-radius: 0px;
+font-family: Lekton, sans-serif;
+color: black;
+background: transparent;
+border: solid black 3px;
+font-size: 18px;
+padding: 10px 20px 10px 20px;
+text-transform: none;
+letter-spacing: none;
+text-decoration: none;
+-webkit-transition: background .1s linear .1s;
+  -moz-transition: background .1s linear .1s;
+  -ms-transition: background .1s linear .1s;
+  -o-transition: background .1s linear .1s;
+  transition: background .1s linear .1s;
+  transition-property: background;
+  transition-duration: 0.1s;
+  transition-timing-function: linear;
+  transition-delay: 0.1s;
+
+}
+}
+
 /*.button:active {
   color: #2C3E50;
   background: #ECF0F1;
