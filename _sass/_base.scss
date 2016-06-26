@@ -90,7 +90,8 @@ body {
     font-weight: 400;
     //color: $text-color;
     color: black;
- background-color: #ECECEC;
+ //background-color: #ECECEC;
+ background-color: black;
 
 }
 }
@@ -326,12 +327,12 @@ animation: background 50s cubic-bezier(0,0,1,1) infinite;
 }
 */
 
-
+/*
 @include media-query($on-palm) {
   body.with-full-bg-2 {
 
 
-/*
+
     background-image:none;
     -webkit-animation: background 50s cubic-bezier(0,0,1,1) infinite;
   animation: background 50s cubic-bezier(0,0,1,1) infinite;
@@ -350,12 +351,13 @@ animation: background 50s cubic-bezier(0,0,1,1) infinite;
   33% { background-color: #DB9E36; }
   67% { background-color: #EA2E49; }
   100% { background-color: #2E0927; }
-  */
+
   background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');
   background-size: cover;
   background-repeat: repeat;
   }
 }
+*/
 
 
   @include media-query($on-palm) {
@@ -366,6 +368,9 @@ animation: background 50s cubic-bezier(0,0,1,1) infinite;
     margin-top: 0%;
     text-align: left;
     color: white;
+    background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');
+    background-size: cover;
+    background-repeat: repeat;
 /*
     video{
    position:fixed;
