@@ -364,8 +364,8 @@ animation: background 50s cubic-bezier(0,0,1,1) infinite;
   @include media-query($on-palm) {
     body.with-full-bg-2 {
 
-    font-size: 54px;
-    line-height: 62px;
+    font-size: 50px;
+    line-height: 55px;
     margin-top: 0%;
     text-align: left;
     color: white;
