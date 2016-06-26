@@ -6,7 +6,7 @@
 //$base-font-family: 'Titillium Web', sans-serif;
 //$base-font-family: 'Montserrat', sans-serif;
 $base-font-family: 'Lekton', sans-serif;
-//$base-font-family1: 'Lato', sans-serif;
+$base-font-family1: 'Lato', sans-serif;
 //$base-font-family: 'Exo', sans-serif;
 //$base-font-family: 'Merriweather', sans-serif;
 $base-font-size:   21px;
@@ -216,7 +216,7 @@ background-color: initial;
   }
   }
   @include media-query($on-palm) {
-  .with-full-bg-2 .page-content a {\
+  .with-full-bg-2 .page-content a {
 
       text-shadow: none;
     text-decoration: underline;
