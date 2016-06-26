@@ -123,6 +123,18 @@ hr {
 
 }
 
+@include media-query($on-palm) {
+hr {
+    border: 0;
+    color: #828282;
+    //background-color: black;
+    //height: 1px;
+    border-bottom: 2px dashed;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+}
+
 body.with-full-bg-2 {
 
 //  background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');
