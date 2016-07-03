@@ -146,10 +146,10 @@ hr {
 
 }
 
-.with-full-bg-3 .site-title{
 
-    color: white;
+.with-full-bg-3 ::selection {
 
+  color: white;
 }
 
 
@@ -423,18 +423,6 @@ text-decoration: none;
 
 }
 }
-}
-
-::selection {
-    background-color: #4539e4;
-    color: #ECF0F1;
-}
-
-.with-full-bg-3 ::selection {
-
-  background-color: transparent;
-  //color: #4539e4;
-  color: black;
 }
 
 .with-full-bg-3 .wrapper {
