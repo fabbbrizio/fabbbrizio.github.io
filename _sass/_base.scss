@@ -185,7 +185,7 @@ color:white;
   color: white;
     border-bottom: none;
   text-decoration: none;
-  text-shadow: 2px 2px black;
+  text-shadow: 2px 2px #20188a;
 
 }
 }
@@ -194,7 +194,7 @@ color:white;
 .with-full-bg-3 .page-content a {
 
     text-shadow: none;
-  text-decoration: underline;
+  text-decoration: none;
   border-bottom: 1px;
   color:white;
 
@@ -203,8 +203,9 @@ color:white;
 
       border-bottom: none;
     text-decoration: none;
-    text-shadow: none;
+    text-shadow: ;
     color:white;
+    text-shadow: 2px 2px #20188a;
 
   }
   }
