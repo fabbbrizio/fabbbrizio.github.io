@@ -587,13 +587,13 @@ text-decoration: none;
 }
 
 .with-full-bg-3 img {
-  -webkit-filter: brightness(95%);
+  -webkit-filter: brightness(100%);
   transition-duration: 1.3s;
 
 
 &:hover {
 
--webkit-filter: brightness(50%);
+-webkit-filter: brightness(70%);
 transition-duration: 1.3s;
 //-webkit-filter: blur(3px);
 
