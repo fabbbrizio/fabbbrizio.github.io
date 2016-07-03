@@ -402,13 +402,13 @@ text-decoration: none;
 }
 
 .with-full-bg-3 img {
-  -webkit-filter: brightness(100%);
+  -webkit-filter: brightness(90%);
   transition-duration: 1.3s;
 
 
 &:hover {
 
--webkit-filter: brightness(70%);
+-webkit-filter: brightness(100%);
 transition-duration: 1.3s;
 //-webkit-filter: blur(3px);
 
