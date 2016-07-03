@@ -276,13 +276,14 @@ text-transform: none;
 
 text-shadow: none;
 color: white;
-text-decoration: none;
+text-decoration: underline;
 text-transform: none;
 
 &:hover {
 
-  border-bottom: none;
-text-decoration: underline;
+border-bottom: none;
+color: black;
+text-decoration: none;
 text-shadow: none;
 text-transform: none;
 
