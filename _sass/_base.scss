@@ -137,7 +137,7 @@ hr {
 }
 
 
-/*
+
 .with-full-bg-3 .site-header{
 
     width: 100%;
@@ -146,13 +146,12 @@ hr {
 
 }
 
+.with-full-bg-3 .site-title{
 
-.with-full-bg-3 ::selection {
+    color: white;
 
-  color: white;
 }
 
-*/
 
 body.with-full-bg-3 {
 
@@ -424,6 +423,18 @@ text-decoration: none;
 
 }
 }
+}
+
+::selection {
+    background-color: #4539e4;
+    color: #ECF0F1;
+}
+
+.with-full-bg-3 ::selection {
+
+  background-color: transparent;
+  //color: #4539e4;
+  color: black;
 }
 
 .with-full-bg-3 .wrapper {
