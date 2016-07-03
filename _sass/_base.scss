@@ -385,8 +385,8 @@ text-decoration: none;
 .with-full-bg-3 .wrapper {
     max-width: -webkit-calc(100% - (#{$spacing-unit} * 2));
     max-width:         calc(100% - (#{$spacing-unit} * 2));
-    margin-right: 0px;
-    margin-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
     padding-right: 0px;
     padding-left: 0px;
     @extend %clearfix;
