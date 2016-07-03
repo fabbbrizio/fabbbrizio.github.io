@@ -351,7 +351,7 @@ body.with-full-bg-3 {
 .with-full-bg-3 .page-content a {
 
   text-shadow: none;
-text-decoration: underline;
+text-decoration: none;
 border-bottom: 1px;
 color:white;
 
@@ -369,7 +369,7 @@ color:white;
 .with-full-bg-3 .page-content a {
 
     text-shadow: none;
-  text-decoration: underline;
+  text-decoration: none;
   border-bottom: 1px;
   color:white;
 
@@ -523,8 +523,6 @@ transition-duration: 1s;
 }
 }
 
-
-
 @include media-query($on-palm) {
 .with-full-bg-3 a {
 //color: #14141C;
@@ -572,8 +570,8 @@ text-decoration: none;
 .with-full-bg-3 .wrapper {
 
     @include media-query($on-laptop) {
-        max-width: -webkit-calc(100% - (#{$spacing-unit}));
-        max-width:         calc(100% - (#{$spacing-unit}));
+        max-width: -webkit-calc(1200px - (#{$spacing-unit}));
+        max-width:         calc(1200px - (#{$spacing-unit}));
         //padding-right: $spacing-unit / 2;
         //padding-left: $spacing-unit / 2;
         padding-right: 30px;
