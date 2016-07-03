@@ -185,16 +185,14 @@ body.with-full-bg-3 {
 }
 }
 
-.body-introduction {
+.intro {
 
-background-color: black;
-color:white;
-font-size: 70px;
-margin-top: 0px;
-line-height: 80px;
-margin-top: 0px;
-background-size: cover;
-
+    background-color: #00f;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    z-index: -1;
+    height: 600px;
 
 }
 
