@@ -210,6 +210,22 @@ color:white;
   }
 }
 
+.with-full-bg-3 .home-project-title {
+
+  font-size: 100px;
+  color: white;
+  text-align: center;
+  text-transform: none;
+  text-shadow: none;
+  text-decoration: none;
+
+  padding-bottom: 20px;
+  padding-top: 20px;
+  text-transform: none;
+
+
+}
+
 .with-full-bg-3 .home-links {
 
 font-size: 21px;
@@ -217,6 +233,7 @@ color: white;
 text-transform: none;
 text-shadow: none;
 text-decoration: none;
+
 padding-bottom: 20px;
 padding-top: 20px;
 text-transform: none;
@@ -379,14 +396,15 @@ text-decoration: none;
 .with-full-bg-3 ::selection {
 
   background-color: transparent;
-  color: #4539e4;
+  //color: #4539e4;
+  color: black;
 }
 
 .with-full-bg-3 .wrapper {
     max-width: -webkit-calc(100% - (#{$spacing-unit} * 2));
     max-width:         calc(100% - (#{$spacing-unit} * 2));
-    margin-right: auto;
-    margin-left: auto;
+    //margin-right: auto;
+    //margin-left: auto;
     padding-right: 0px;
     padding-left: 0px;
     @extend %clearfix;
@@ -402,7 +420,7 @@ text-decoration: none;
 }
 
 .with-full-bg-3 img {
-  -webkit-filter: brightness(90%);
+  -webkit-filter: brightness(100%);
   transition-duration: 1.3s;
 
 
