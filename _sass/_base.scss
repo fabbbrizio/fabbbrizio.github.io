@@ -878,6 +878,20 @@ margin-top: 30px;
     }
 }
 
+.with-full-bg-3 .wrapper {
+
+    @include media-query($on-laptop) {
+        max-width: -webkit-calc(100% - (#{$spacing-unit}));
+        max-width:         calc(100% - (#{$spacing-unit}));
+        //padding-right: $spacing-unit / 2;
+        //padding-left: $spacing-unit / 2;
+        padding-right: 30px;
+padding-left: 15px;
+margin-top: 30px;
+    }
+}
+
+
 
 .with-full-bg .wrapper {
   margin-top: 60px;
