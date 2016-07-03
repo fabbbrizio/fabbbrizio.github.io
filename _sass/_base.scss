@@ -572,8 +572,7 @@ text-decoration: none;
     max-width:         calc(1300px - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: 0px;
+    
     @extend %clearfix;
 
     @include media-query($on-laptop) {
