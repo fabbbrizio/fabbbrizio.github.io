@@ -176,8 +176,8 @@ body.with-full-bg-3 {
 .with-full-bg-3 .page-content a {
 
   text-shadow: none;
-text-decoration: underline;
-border-bottom: 1px;
+text-decoration: none;
+//border-bottom: 1px;
 color:white;
 
 &:hover {
@@ -185,7 +185,7 @@ color:white;
   color: white;
     border-bottom: none;
   text-decoration: none;
-  text-shadow: none;
+  text-shadow: 2px 2px black;
 
 }
 }
