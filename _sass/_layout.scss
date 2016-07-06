@@ -144,6 +144,63 @@
 
 }
 
+
+.site-nav {
+
+font-family: sans-serif;
+    display: inline;
+    font-size: 55px;
+    float: right;
+    position: 0px;
+    line-height: 70px;
+    font-weight: 400;
+
+
+    &:visited {
+      color: black;
+    }
+
+    &:hover {
+
+        color: #4539e4;
+        background-color: transparent;
+    }
+
+    .menu-icon {
+        display: none;
+    }
+
+    .page-link {
+        color: black;
+        background-color: transparent;
+        font-size: 18px;
+        padding: 0px 5px;
+
+
+        // Gaps between nav items, but not on the first one
+      &:not(:first-child) {
+            margin-left: none;
+        }
+
+
+        &:hover {
+
+            color: #4539e4;
+            background-color: transparent;
+            border-bottom: 0.1em solid #4539e4;
+        }
+
+        &.current {
+
+          color: #4539e4;
+          background-color: transparent;
+          border-bottom: none;
+        }
+
+    }
+
+/*
+
 .site-nav {
 
 
@@ -197,6 +254,8 @@
         }
 
     }
+
+    */
 
   @include media-query($on-palm) {
 
