@@ -28,6 +28,46 @@
 
 .site-title {
 
+    font-family: sans-serif;
+    color:black;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 77px;
+    letter-spacing: none;
+
+    margin-top: none;
+    margin-bottom: none;
+    float: left;
+    text-transform: none;
+    display: block;
+
+    border-bottom-style: none;
+
+    transition-duration: 1.3s;
+
+        &,
+        &:visited {
+          color: black;
+        }
+
+        &:hover {
+
+            color: #4539e4;
+            background-color: transparent;
+            //-webkit-filter: blur(2px);
+        }
+    &:active {
+      color: black;
+      -webkit-filter: blur(4px);
+    }
+
+    }
+
+
+
+/*
+.site-title {
+
     color:black;
     font-size: 35px;
     font-weight: 700;
@@ -61,6 +101,8 @@
 }
 
 }
+
+*/
 
   @include media-query($on-palm) {
 .site-title {
