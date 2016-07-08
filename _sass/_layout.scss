@@ -29,12 +29,12 @@
 .site-title {
 
     font-family: 'Lekton', sans-serif;
-    color:black;
+    color:white;
     font-size: 18px;
     font-weight: 700;
     line-height: 77px;
     letter-spacing: none;
-    background-color: #ff7574;
+    //background-color: #ff7574;
     margin-top: none;
     margin-bottom: none;
     margin-left: 20px;
@@ -48,19 +48,15 @@
 
         &,
         &:visited {
-          color: black;
+          color: white;
         }
 
         &:hover {
 
-            color: #4539e4;
+            color: lime;
             background-color: transparent;
             //-webkit-filter: blur(2px);
         }
-    &:active {
-      color: black;
-      -webkit-filter: blur(4px);
-    }
 
     }
 
@@ -108,7 +104,7 @@
   @include media-query($on-palm) {
 .site-title {
 
-    color:black;
+    color:white;
     font-size: 35px;
     font-weight: 700;
     line-height: 77px;
@@ -124,12 +120,12 @@
 
     &,
     &:visited {
-      color: black;
+      color: white;
     }
 
     &:hover {
 
-        color: black;
+        color: lime;
         background-color: transparent;
 
     }
@@ -147,15 +143,16 @@
     line-height: 70px;
     font-weight: 700;
     margin-right: 20px;
+    color: white;
 
 
     &:visited {
-      color: black;
+      color: white;
     }
 
     &:hover {
 
-        color: #4539e4;
+        color: lime;
         background-color: transparent;
     }
 
