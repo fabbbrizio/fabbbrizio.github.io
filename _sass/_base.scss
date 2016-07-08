@@ -180,6 +180,8 @@ hr {
 
 }
 
+/*
+
 .with-full-bg-3 .site-title {
 
     font-family: 'Lekton', sans-serif;
@@ -258,6 +260,7 @@ hr {
         }
 }
 
+*/
 
 body.with-full-bg-3 {
 
@@ -268,7 +271,7 @@ body.with-full-bg-3 {
 
   background-repeat: no-repeat;
   line-height:1.4;
-  background-color: #4539e4;
+  //background-color: #4539e4;
 
   text-transform: uppercase;
   text-align: center;
@@ -650,7 +653,7 @@ text-decoration: none;
 }
 
 .with-full-bg-3 img {
-  -webkit-filter: brightness(100%);
+  -webkit-filter: brightness(95%);
   transition-duration: 1.3s;
   margin-top: 0px;
   margin-bottom: 0px;
