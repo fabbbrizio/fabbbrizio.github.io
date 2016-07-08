@@ -305,6 +305,8 @@ body.with-full-bg-3 {
 
 */
 
+/*
+
 .with-full-bg-3 .page-content {
 
 padding: 00px 0px 20px 0px;
@@ -328,6 +330,7 @@ color:white;
 }
 }
 
+
 @include media-query($on-palm) {
 .with-full-bg-3 .page-content a {
 
@@ -348,6 +351,8 @@ color:white;
   }
   }
 }
+
+*/
 
 .with-full-bg-3 .home-project-title {
 
@@ -482,6 +487,8 @@ text-transform: none;
 }
 }
 
+/*
+
 .with-full-bg-3 .home-links a {
 
 text-shadow: none;
@@ -520,6 +527,8 @@ text-transform: none;
 }
 }
 
+*/
+
 @include media-query($on-palm) {
   body.with-full-bg-3 {
 
@@ -533,6 +542,7 @@ text-transform: none;
 }
 }
 
+/*
 
 .with-full-bg-3 a {
 
@@ -566,25 +576,6 @@ transition-duration: 1s;
     }
 }
 
-@include media-query($on-palm) {
-.with-full-bg-3 a {
-
-    color: white;
-  transition-duration: 1s;
-    //background-color: transparent;
-    border-bottom-width: 1px;
-    //text-shadow: 2px 0px black;
-
-    &:hover {
-
-        text-shadow: none;
-      color: white;
-        border-bottom: none;
-
-      text-decoration: none;
-    }
-}
-}
 
 @include media-query($on-palm) {
 .with-full-bg-3 a {
@@ -618,6 +609,8 @@ text-decoration: none;
 }
 }
 }
+
+*/
 
 ::selection {
     background-color: #4539e4;
