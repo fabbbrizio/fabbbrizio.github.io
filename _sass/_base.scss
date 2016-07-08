@@ -180,10 +180,82 @@ hr {
 
 }
 
-.with-full-bg-3 .site-title{
+.with-full-bg-3 .site-title {
 
-    color: white;
+    font-family: 'Lekton', sans-serif;
+    color:black;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 77px;
+    letter-spacing: none;
+    background-color: #ff7574;
+    margin-top: none;
+    margin-bottom: none;
+    margin-left: 20px;
+    float: left;
+    text-transform: none;
+    display: block;
 
+    border-bottom-style: none;
+
+    transition-duration: 1.3s;
+
+        &,
+        &:visited {
+          color: black;
+        }
+
+        &:hover {
+
+            color: #4539e4;
+            background-color: transparent;
+            //-webkit-filter: blur(2px);
+        }
+    &:active {
+      color: black;
+      -webkit-filter: blur(4px);
+    }
+
+    }
+
+@include media-query($on-palm) {
+    .with-full-bg-3 .site-title {
+
+        font-family: 'Lekton', sans-serif;
+        color:black;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 77px;
+        letter-spacing: none;
+        background-color: #ff7574;
+        margin-top: none;
+        margin-bottom: none;
+        margin-left: 20px;
+        float: left;
+        text-transform: none;
+        display: block;
+
+        border-bottom-style: none;
+
+        transition-duration: 1.3s;
+
+            &,
+            &:visited {
+              color: black;
+            }
+
+            &:hover {
+
+                color: #4539e4;
+                background-color: transparent;
+                //-webkit-filter: blur(2px);
+            }
+        &:active {
+          color: black;
+          -webkit-filter: blur(4px);
+        }
+
+        }
 }
 
 
