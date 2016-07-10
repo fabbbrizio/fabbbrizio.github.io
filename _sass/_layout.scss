@@ -178,7 +178,8 @@
 
             color: #ff7574;
             background-color: transparent;
-            border-bottom: 0.1em solid #ff7574;
+            border-bottom: 0.5em solid #ff7574;
+            transition-duration: 1.3s;
         }
 
         &.current {
@@ -268,6 +269,7 @@
             color: #ff7574;
             background-color: transparent;
             //border-bottom: 0.1em solid #4539e4;
+            transition-duration: 1.3s;
         }
 
         &.current {
