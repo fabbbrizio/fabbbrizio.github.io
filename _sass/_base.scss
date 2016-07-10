@@ -200,7 +200,7 @@ color: white;
 .with-full-bg-3 .site-title {
 
     font-family: 'Lekton', sans-serif;
-    color:yellow;
+    color:white;
     font-size: 16px;
     font-weight: 300;
     line-height: 77px;
@@ -220,12 +220,12 @@ color: white;
 
         &:hover {
 
-            color: #ff7574;
+            color: white;
 
             //-webkit-filter: blur(2px);
         }
     &:active {
-      color: #ff7574;
+      color: white;
 
     }
 
@@ -255,12 +255,12 @@ color: white;
 
             &:hover {
 
-                color: #ff7574;
+                color: white;
                 background-color: transparent;
                 //-webkit-filter: blur(2px);
             }
         &:active {
-          color: #ff7574;
+          color: white;
 
         }
 
