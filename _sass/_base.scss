@@ -644,7 +644,6 @@ text-decoration: none;
     //margin-left: auto;
     padding-right: 0px;
     padding-left: 0px;
-    padding-top: 100px;
     @extend %clearfix;
 
     @include media-query($on-laptop) {
