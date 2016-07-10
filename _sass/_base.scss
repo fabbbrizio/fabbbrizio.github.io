@@ -181,7 +181,17 @@ hr {
 
 */
 
+.with-full-bg-3 .site-title a{
 
+color: white;
+
+&:hover {
+
+    color: black;
+    transition-duration: 1.3s;
+}
+
+}
 
 .with-full-bg-3 .site-title {
 
