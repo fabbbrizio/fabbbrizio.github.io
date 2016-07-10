@@ -311,7 +311,13 @@ body.with-full-bg-3 {
 
 */
 
+/*
 
+.with-full-bg-3 .page-content {
+
+padding: 00px 0px 20px 0px;
+
+}
 
 .with-full-bg-3 .page-content a {
 
@@ -319,11 +325,10 @@ body.with-full-bg-3 {
 text-decoration: none;
 //border-bottom: 1px;
 color:white;
-//padding: 00px 0px 20px 0px;
 
 &:hover {
 
-  color: black;
+  color: white;
     border-bottom: none;
   text-decoration: none;
   text-shadow: 2px 2px #20188a;
@@ -346,14 +351,14 @@ color:white;
       border-bottom: none;
     text-decoration: none;
 
-    color:black;
+    color:white;
     text-shadow: 2px 2px #20188a;
 
   }
   }
 }
 
-
+*/
 
 
 .with-full-bg-3 .home-project-title a{
