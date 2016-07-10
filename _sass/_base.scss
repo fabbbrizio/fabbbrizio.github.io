@@ -217,20 +217,16 @@ color: white;
 
     transition-duration: 1.3s;
 
-        &,
-        &:visited {
-          color: black;
-        }
 
         &:hover {
 
-            color: #4539e4;
-            background-color: transparent;
+            color: black;
+
             //-webkit-filter: blur(2px);
         }
     &:active {
       color: black;
-      -webkit-filter: blur(4px);
+
     }
 
     }
@@ -256,20 +252,16 @@ color: white;
 
         transition-duration: 1.3s;
 
-            &,
-            &:visited {
-              color: black;
-            }
 
             &:hover {
 
-                color: #4539e4;
+                color: black;
                 background-color: transparent;
                 //-webkit-filter: blur(2px);
             }
         &:active {
           color: black;
-          -webkit-filter: blur(4px);
+          
         }
 
         }
@@ -414,7 +406,7 @@ color:white;
 
 
 
-/*
+
 .with-full-bg-3 .site-nav {
 
 font-family: 'Poppins', sans-serif;
@@ -424,17 +416,13 @@ font-family: 'Poppins', sans-serif;
     position: 0px;
     line-height: 70px;
     font-weight: 700;
-    text-transform: none;;
+    text-transform: none;
+    color:white;
 
-
-    &:visited {
-      color: black;
-    }
 
     &:hover {
 
-        color: #4539e4;
-        background-color: transparent;
+        color: black;
     }
   }
 
