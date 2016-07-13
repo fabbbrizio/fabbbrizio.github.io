@@ -170,16 +170,17 @@ hr {
 }
 
 
-/*
+@include media-query($on-palm) {
 .with-full-bg-3 .site-header{
 
     width: 100%;
     color:white;
-    background-color: transparent;;
+    background-color: red;
     position: fixed;
 }
+}
 
-*/
+
 
 /*
 
