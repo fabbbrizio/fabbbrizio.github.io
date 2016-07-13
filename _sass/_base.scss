@@ -199,6 +199,13 @@ color: white;
 
 */
 
+@include media-query($on-palm) {
+.with-full-bg-3 .home-project-title-mobile{
+margin-top: 50px;
+margin-left:50px;
+}
+}
+
 .with-full-bg-3 .site-title {
 
     font-family: 'Lekton', sans-serif;
