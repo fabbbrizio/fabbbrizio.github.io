@@ -712,21 +712,6 @@ text-decoration: none;
         padding-right: 0px;
         padding-left: 0px;
     }
-}
-
-@include media-query($on-palm) {
-.with-full-bg-3 .wrapper {
-    //max-width: -webkit-calc(100% - (#{$spacing-unit} * 2));
-    //max-width:         calc(100% - (#{$spacing-unit} * 2));
-    max-width: -webkit-calc(100% - (0px * 2));
-    max-width: calc(100% - (0px * 2));
-
-    //margin-right: auto;
-    //margin-left: auto;
-    padding-right: 0px;
-    padding-left: 0px;
-    margin-top: 100px;
-    @extend %clearfix;
 
     @include media-query($on-palm) {
         max-width: -webkit-calc(100% - (#{$spacing-unit}));
@@ -735,10 +720,10 @@ text-decoration: none;
         //padding-left: $spacing-unit / 2;
         padding-right: 0px;
         padding-left: 0px;
-        margin-top: 100px;
+        padding-top: 100px;
     }
 }
-}
+
 
 .with-full-bg-3 img {
   -webkit-filter: brightness(100%);
