@@ -728,7 +728,14 @@ transition-duration: 1.3s;
 }
 }
 
-
+@include media-query($on-palm) {
+.with-full-bg-3 img {
+  -webkit-filter: brightness(100%);
+  transition-duration: 1.3s;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+}
 
 
 
