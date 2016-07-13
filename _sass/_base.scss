@@ -728,7 +728,7 @@ text-decoration: none;
     padding-top: 100px;
     @extend %clearfix;
 
-    @include media-query($on-laptop) {
+    @include media-query($on-palm) {
         max-width: -webkit-calc(100% - (#{$spacing-unit}));
         max-width:         calc(100% - (#{$spacing-unit}));
         //padding-right: $spacing-unit / 2;
