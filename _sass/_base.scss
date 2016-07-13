@@ -406,6 +406,18 @@ text-transform: none;
   padding-top: 100px;
   text-transform: uppercase;
 
+  &:hover {
+
+      color: #ff7574;
+
+      //-webkit-filter: blur(2px);
+  }
+&:active {
+color: #ff8000;
+
+}
+
+
 }
 
 @include media-query($on-palm) {
@@ -425,6 +437,17 @@ text-transform: none;
     padding-bottom: 20px;
     padding-top: 70px;
     text-transform: uppercase;
+
+    &:hover {
+
+        color: #ff7574;
+
+        //-webkit-filter: blur(2px);
+    }
+  &:active {
+  color: #ff8000;
+
+  }
 
   }
 }
