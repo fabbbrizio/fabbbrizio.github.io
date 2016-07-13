@@ -199,6 +199,28 @@ color: white;
 
 */
 
+@include media-query($on-palm) {
+.with-full-bg-3 .home-project-title-palm {
+
+    font-family: 'Lekton', sans-serif;
+    color: #e6e6e6;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 77px;
+    letter-spacing: none;
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 27px;
+    float: left;
+    text-transform: none;
+    display: block;
+
+    border-bottom-style: none;
+
+    transition-duration: 1.3s;
+}
+
 
 .with-full-bg-3 .site-title {
 
