@@ -384,6 +384,8 @@ color:white;
 text-align: center;
 text-transform: none;
 line-height: 20px;
+background-color: #ff7574;
+margin-top: 20px
 }
 
 .with-full-bg-3 .info a{
@@ -393,6 +395,9 @@ color:white;
 text-align: center;
 text-transform: none;
 line-height: 20px;
+background-color: #ff7574;
+margin-top: 20px
+
 }
 
 @include media-query($on-palm) {
@@ -403,6 +408,9 @@ line-height: 20px;
   text-align: center;
   text-transform: none;
   line-height: 20px;
+  background-color: #ff7574;
+  margin-top: 20px
+
   }
 }
 
@@ -414,6 +422,9 @@ line-height: 20px;
   text-align: center;
   text-transform: none;
   line-height: 20px;
+  background-color: #ff7574;
+  margin-top: 20px
+
   }
 }
 
