@@ -314,12 +314,16 @@ body.with-full-bg-3 {
 
 .intro {
 
-    background-color: #00f;
-    text-align: center;
+    //background-color: #ff7574;
+    text-align: left;
 
     top: 0;
     z-index: -1;
-    height: 600px;
+    border: 2px solid #ff7574;
+    height: 60px;
+    margin-left: 20px;
+    margin-left: 20px;
+
 
 }
 
