@@ -586,6 +586,50 @@ font-family: 'Lekton', sans-serif;
 }
 }
 
+.with-full-bg-3 .home-project-credits {
+
+  font-family: 'Lekton', sans-serif;
+  font-size: 16px;
+  color: white;
+  text-align: left;
+  text-transform: none;
+  text-shadow: none;
+  text-decoration: none;
+  font-weight: 300;
+  background-color: lime;
+
+  padding-top: 10px;
+  padding-bottom: 0px;
+  padding-right: 20px;
+  padding-left: 20px;
+  text-transform: none;
+
+}
+
+@include media-query($on-palm) {
+.with-full-bg-3 .home-project-credits {
+
+  font-family: 'Lekton', sans-serif;
+  font-size: 16px;
+  color: white;
+  text-align: left;
+  text-transform: none;
+  text-shadow: none;
+  text-decoration: none;
+  font-weight: 300;
+  line-height: 1.6;
+  padding-top: 2px;
+  padding-top: 10px;
+  padding-bottom: 0px;
+  padding-right: 20px;
+  padding-left: 20px;
+  text-transform: none;
+  background-color: lime;
+
+}
+}
+
+
 .with-full-bg-3 .home-project-about {
 
   font-family: 'Lekton', sans-serif;
