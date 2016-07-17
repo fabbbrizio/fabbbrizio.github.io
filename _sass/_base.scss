@@ -313,22 +313,6 @@ body.with-full-bg-3 {
 }
 
 
-.bg1 {
-
-    background-color: lime;
-  }
-/*
-    text-align: left;
-    top: 0;
-    z-index: -1;
-    border: 2px solid #ff7574;
-    height: 60px;
-    margin-left: 20px;
-    margin-left: 20px;
-}
-*/
-
-
 
 /*
 
@@ -378,6 +362,22 @@ color:white;
 }
 
 */
+
+.with-full-bg-3 .bg1 {
+
+    background-color: lime;
+  }
+/*
+    text-align: left;
+    top: 0;
+    z-index: -1;
+    border: 2px solid #ff7574;
+    height: 60px;
+    margin-left: 20px;
+    margin-left: 20px;
+}
+*/
+
 
 .with-full-bg-3 .info {
 font-family: Lekton, sans-serif;
