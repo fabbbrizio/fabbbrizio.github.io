@@ -367,6 +367,8 @@ color:white;
 
     background-color: #36b99c;
     width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
 
   }
 
@@ -375,6 +377,8 @@ color:white;
     .with-full-bg-3 .bg1 {
         background-color: #36b99c;
         width: 100%;
+        margin-top: 0px;
+        margin-bottom: 0px;
 
       }
   }
@@ -383,6 +387,8 @@ color:white;
 
       background-color: #db2c46;
       width: 100%;
+      margin-top: 0px;
+      margin-bottom: 0px;
     }
 
     @include media-query($on-palm) {
@@ -390,6 +396,8 @@ color:white;
       .with-full-bg-3 .bg2 {
           background-color: #db2c46;
           width: 100%;
+          margin-top: 0px;
+          margin-bottom: 0px;
 
         }
     }
