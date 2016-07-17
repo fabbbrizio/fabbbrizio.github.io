@@ -154,7 +154,7 @@ hr {
     //border-bottom: 2px dashed;
     border-bottom: 1px inset;
     margin-bottom: 20px;
-    margin-top: 20px;
+    margin-top: 0px;
 
 }
 
@@ -166,7 +166,7 @@ hr {
     //height: 1px;
     border-bottom: 1px inset;
     margin-bottom: 20px;
-    margin-top: 20px;
+    margin-top: 0px;
 }
 }
 
@@ -367,6 +367,7 @@ color:white;
 
     background-color: #36b99c;
     width: 100%;
+
   }
 
   @include media-query($on-palm) {
