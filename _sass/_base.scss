@@ -164,7 +164,7 @@ hr {
     color: #828282;
     //background-color: black;
     //height: 1px;
-    border-bottom: 1px dashed;
+    border-bottom: 1px inset;
     margin-bottom: 20px;
     margin-top: 20px;
 }
@@ -374,6 +374,7 @@ color:white;
     .with-full-bg-3 .bg1 {
         background-color: #db2c46;
         width: 100%;
+
       }
   }
 
@@ -525,7 +526,7 @@ color: #cc5c5c;
     text-decoration: none;
     font-weight: 700;
     background-color: none;
-    padding-bottom: 0px;
+    padding-bottom: 10px;
     padding-top: 20px;
     text-transform: uppercase;
 
