@@ -1,7 +1,7 @@
 ---
 layout: home4
 title: "Venice >> Future"
-featured_image: /images/projects/venice.jpg
+featured_image: /images/projects/venice>>future/v>>f logo process.jpeg
 date: 2015-05-01 19:13:23
 categories: news
 ---
