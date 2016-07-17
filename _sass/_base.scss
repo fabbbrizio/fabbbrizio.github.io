@@ -365,18 +365,33 @@ color:white;
 
 .with-full-bg-3 .bg1 {
 
-    background-color: #db2c46;
+    background-color: #36b99c;
     width: 100%;
   }
 
   @include media-query($on-palm) {
 
     .with-full-bg-3 .bg1 {
-        background-color: #db2c46;
+        background-color: #36b99c;
         width: 100%;
 
       }
   }
+
+  .with-full-bg-3 .bg2 {
+
+      background-color: #db2c46;
+      width: 100%;
+    }
+
+    @include media-query($on-palm) {
+
+      .with-full-bg-3 .bg2 {
+          background-color: #db2c46;
+          width: 100%;
+
+        }
+    }
 
 
 .with-full-bg-3 .info {
