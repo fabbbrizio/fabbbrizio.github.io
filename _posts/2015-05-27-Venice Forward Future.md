@@ -1,11 +1,11 @@
 ---
-#layout: post
-#title: "Venice Forward Future"
-#featured_image: /images/projects/venice.jpg
-#date: 2015-05-01 19:13:23
-#categories: projects
+layout: home4
+title: "Venice >> Future"
+featured_image: /images/projects/venice.jpg
+date: 2015-05-01 19:13:23
+categories: projects
 ---
-<!--
+
 Series of controlled tests run within the prestigious Muranese furnace Salviati.
 
 Traditional glass blowing techniques, historically linked to the island of Murano and dependent on the skills of its glass masters, is merge with ceramic 3D-printing, a much younger and more movable process to create identical objects.
