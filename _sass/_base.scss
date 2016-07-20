@@ -965,40 +965,6 @@ transition-duration: 1.3s;
 }
 
 
-
-.with-full-bg-3 .project img {
-  -webkit-filter: brightness(100%);
-  transition-duration: 1.3s;
-  margin-top: 50px;
-  margin-bottom: 0px;
-
-
-&:hover {
-
--webkit-filter: brightness(100%);
-transition-duration: 1.3s;
-//-webkit-filter: blur(3px);
-
-}
-}
-
-@include media-query($on-palm) {
-.with-full-bg-3-project img {
-  -webkit-filter: brightness(100%);
-  transition-duration: 1.3s;
-  margin-top: 100px;
-  margin-bottom: 100px;
-}
-}
-
-
-
-
-
-
-
-
-
 body.with-full-bg-2 {
 
   //background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');
