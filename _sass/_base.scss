@@ -231,13 +231,13 @@ margin-left:50px;
         &:hover {
 
             //color: #ff7574;
-            color: #00ffd4;
+            color: #00ff18;
 
             //-webkit-filter: blur(2px);
         }
     &:active {
       //color: #cc5c5c;
-      color: #00ffd4;
+      color: #00ff18;
 
     }
 
@@ -268,13 +268,13 @@ margin-left:50px;
             &:hover {
 
                 //color: #ff7574;
-                color: #00ffd4;
+                color: #00ff18;
                 background-color: transparent;
                 //-webkit-filter: blur(2px);
             }
         &:active {
           //color: #cc5c5c;
-          color: #00ffd4;
+          color: #00ff18;
 
         }
 
@@ -480,13 +480,13 @@ margin-top: 20px
   &:hover {
 
       //color: #ff7574;
-      color: #00ffd4;
+      color: #00ff18;
 
       //-webkit-filter: blur(2px);
   }
 &:active {
 //color: #cc5c5c;
-color: #00ffd4;
+color: #00ff18;
 
 }
 
@@ -515,13 +515,13 @@ color: #00ffd4;
     &:hover {
 
         //color: #ff7574;
-        color: #00ffd4;
+        color: #00ff18;
 
         //-webkit-filter: blur(2px);
     }
   &:active {
   //color: #cc5c5c;
-  color: #00ffd4;
+  color: #00ff18;
 
   }
 
@@ -1531,13 +1531,15 @@ text-decoration: none;
 
 ::selection {
     background-color: #af9928;
-    color: #ECF0F1;
+    //color: #ECF0F1;
+    color: #00ff18;
 }
 
 .with-full-bg ::selection {
 
   background-color: transparent;
-  color: #af9928;
+  //color: #af9928;
+  color: #00ff18;
 }
 
 
@@ -1630,13 +1632,15 @@ text-decoration: none;
 
 ::selection {
     background-color: #4539e4;
-    color: #ECF0F1;
+    //color: #ECF0F1;
+    color: #00ff18;
 }
 
 .with-full-bg-2 ::selection {
 
   background-color: transparent;
-  color: #4539e4;
+  //color: #4539e4;
+  color: #00ff18;
 }
 
 

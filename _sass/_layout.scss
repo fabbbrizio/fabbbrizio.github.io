@@ -176,7 +176,8 @@
 
         &:hover {
 
-            color: #ff7574;
+            //color: #ff7574;
+            color: #00ff18;
             background-color: transparent;
             //border-bottom: 0.2em solid #ff7574;
             transition-duration: 0.5s;
@@ -184,7 +185,8 @@
 
         &.current {
 
-          color: #ff7574;
+          //color: #ff7574;
+          color: #00ff18;
           background-color: transparent;
           border-bottom: none;
         }
