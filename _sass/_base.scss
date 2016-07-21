@@ -479,12 +479,14 @@ margin-top: 20px
 
   &:hover {
 
-      color: #ff7574;
+      //color: #ff7574;
+      color: #00ffd4;
 
       //-webkit-filter: blur(2px);
   }
 &:active {
-color: #cc5c5c;
+//color: #cc5c5c;
+color: #00ffd4;
 
 }
 
@@ -512,12 +514,14 @@ color: #cc5c5c;
 
     &:hover {
 
-        color: #ff7574;
+        //color: #ff7574;
+        color: #00ffd4;
 
         //-webkit-filter: blur(2px);
     }
   &:active {
-  color: #cc5c5c;
+  //color: #cc5c5c;
+  color: #00ffd4;
 
   }
 
@@ -902,14 +906,15 @@ text-decoration: none;
 
 ::selection {
     background-color: #4539e4;
-    color: #af9928;
+    //color: #af9928;
+    color:#00ff18;
 }
 
 .with-full-bg-3 ::selection {
 
   background-color: transparent;
   //color: #4539e4;
-  color: #af9928;
+  color:#00ff18;
 }
 
 .with-full-bg-3 .wrapper {
