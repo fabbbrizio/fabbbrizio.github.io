@@ -161,7 +161,10 @@
     }
 
     .page-link {
-        color: #171717;
+
+        font-family: 'Poppins', sans-serif;
+        font-weight: 500;
+        color: black;
         background-color: transparent;
         font-size: 16px;
         padding: 0px 5px;
@@ -177,7 +180,7 @@
         &:hover {
 
             //color: #ff7574;
-            color: #a9a9a9;
+            color: #0010ff;
             background-color: transparent;
             //border-bottom: 0.2em solid #ff7574;
             transition-duration: 0.5s;
@@ -186,7 +189,7 @@
         &.current {
 
           //color: #ff7574;
-          color: #a9a9a9;
+          color: #0010ff;
           background-color: transparent;
           border-bottom: none;
         }
@@ -254,7 +257,9 @@
   @include media-query($on-palm) {
 
     .page-link {
-        color: white;
+        color: black;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 500;
         background-color: transparent;
         font-size: 18px;
         padding: 0px 10px;
@@ -268,7 +273,7 @@
 
         &:hover {
 
-            color: #ff7574;
+            color: #0010ff;
             background-color: transparent;
             //border-bottom: 0.1em solid #4539e4;
             transition-duration: 0.5s;
@@ -276,7 +281,7 @@
 
         &.current {
 
-          color: #ff7574;
+          color: #0010ff;
           background-color: transparent;
           border-bottom: none;
         }
