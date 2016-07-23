@@ -711,26 +711,26 @@ font-family: 'Lekton', sans-serif;
 
 .with-full-bg-3 .home-project-credits {
 
-  font-family: 'Lekton', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 16px;
-  color: #171717;
+  color: black;
   text-align: center;
   text-transform: none;
   text-shadow: none;
   text-decoration: none;
   font-weight: 300;
   //background-color: lime;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 
 }
 
 @include media-query($on-palm) {
 .with-full-bg-3 .home-project-credits {
 
-  font-family: 'Lekton', sans-serif;
-  font-size: 13px;
-  color: #171717;
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  color: black;
   text-align: center;
   text-transform: none;
   text-shadow: none;
@@ -738,8 +738,8 @@ font-family: 'Lekton', sans-serif;
   font-weight: 300;
   line-height: 1.6;
   padding-top: 2px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 
 }
 }
