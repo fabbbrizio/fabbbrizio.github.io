@@ -668,9 +668,10 @@ font-family: 'Lekton', sans-serif;
 
 .with-full-bg-3 .home-project-sub-title {
 
-  font-family: 'Lekton', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
   font-size: 23px;
-  color: #171717;
+  color: black;
   text-align: center;
   text-transform: none;
   text-shadow: none;
@@ -688,9 +689,10 @@ font-family: 'Lekton', sans-serif;
 @include media-query($on-palm) {
 .with-full-bg-3 .home-project-sub-title {
 
-  font-family: 'Lekton', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
   font-size: 16px;
-  color: #171717;
+  color: black;
   text-align: center;
   text-transform: none;
   text-shadow: none;
