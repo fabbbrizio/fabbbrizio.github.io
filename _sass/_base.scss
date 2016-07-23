@@ -1550,12 +1550,11 @@ h2 {
  */
 a {
 
-    color: #ff7574;
-
-    text-decoration: none;
-    border-bottom-style: none;
-    border-bottom-width: 1px;
-    border-bottom-color: white;
+  color: black;
+  text-decoration: none;
+  border-bottom-style: solid;
+  border-bottom-width: 3px;
+  border-bottom-color: black;
   background-color: none;
 
     //text-transform: uppercase;
@@ -1565,12 +1564,12 @@ a {
 
     &:visited {
         //color: darken($brand-color, 25%);
-color: #ff7574, darken (25%);
+color: black, darken (25%);
     }
 
     &:hover {
 
-        color: #ECF0F1;
+        color: #0010ff;
         background-color: none;
         border-bottom-style: none;
         border-bottom-color: none;
@@ -1583,13 +1582,12 @@ color: #ff7574, darken (25%);
 @include media-query($on-palm) {
 a {
 
-    color: #ff7574;
-
+    color: black;
     text-decoration: none;
-    border-bottom-style: none;
-    border-bottom-width: 1px;
-    border-bottom-color: white;
-  background-color: none;
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
+    border-bottom-color: black;
+    background-color: none;
 
     //text-transform: uppercase;
     //text-decoration: underline;
@@ -1598,12 +1596,12 @@ a {
 
     &:visited {
         //color: darken($brand-color, 25%);
-color: #ff7574, darken (25%);
+color: black, darken (25%);
     }
 
     &:hover {
 
-        color: #ffffff;
+        color: #0010ff
         background-color: none;
         border-bottom-style: none;
         border-bottom-color: none;
