@@ -296,7 +296,8 @@ body.with-full-bg-3 {
   line-height:1.4;
   //background-color: #4539e4;
   //background-color: #1A1A34;
-  background-color: #f2f2f2;
+  //background-color: #f2f2f2;
+  background-color:rgba(237, 255, 0, 0.23);
   text-transform: uppercase;
   text-align: center;
   //background-color: white;
@@ -749,7 +750,7 @@ font-family: 'Lekton', sans-serif;
   text-transform: none;
   text-shadow: none;
   text-decoration: none;
-  font-weight: 300;
+  font-weight: 500;
 
   padding-top: 0px;
   padding-bottom: 50px;
@@ -763,13 +764,13 @@ font-family: 'Lekton', sans-serif;
 .with-full-bg-3 .home-project-about {
 
   font-family: 'Poppins', sans-serif;
-  font-size: 16px;
+  font-size: 23px;
   color: #171717;
   text-align: left;
   text-transform: none;
   text-shadow: none;
   text-decoration: none;
-  font-weight: 300;
+  font-weight: 500;
   line-height: 1.6;
   padding-top: 2px;
   padding-top: 10px;
