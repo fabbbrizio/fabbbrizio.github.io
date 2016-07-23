@@ -1550,13 +1550,13 @@ h2 {
  */
 a {
 
-  color: black;
+  color: #0010ff;
   text-decoration: none;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: black;
+  //border-bottom-style: solid;
+  //border-bottom-width: 2px;
+  //border-bottom-color: black;
   background-color: none;
-  padding-bottom: 0px;
+  //padding-bottom: 0px;
 
     //text-transform: uppercase;
     //text-decoration: underline;
@@ -1570,13 +1570,8 @@ color: black, darken (25%);
 
     &:hover {
 
-        color: #0010ff;
+        color: black;
         text-decoration: none;
-        border-bottom-style: solid;
-        border-bottom-width: 2px;
-        border-bottom-color: #0010ff;
-        background-color: none;
-        padding-bottom: 0px;
         //background: black;
         //text-decoration: line-through;
 
@@ -1586,13 +1581,13 @@ color: black, darken (25%);
 @include media-query($on-palm) {
 a {
 
-    color: black;
-    text-decoration: none;
-    border-bottom-style: solid;
-    border-bottom-width: 2px;
-    border-bottom-color: black;
-    background-color: none;
-    padding-bottom: 0px;
+  color: #0010ff;
+  text-decoration: none;
+  //border-bottom-style: solid;
+  //border-bottom-width: 2px;
+  //border-bottom-color: black;
+  background-color: none;
+  //padding-bottom: 0px;
 
     //text-transform: uppercase;
     //text-decoration: underline;
@@ -1606,12 +1601,8 @@ color: black, darken (25%);
 
     &:hover {
 
+      color: black;
       text-decoration: none;
-      border-bottom-style: solid;
-      border-bottom-width: 2px;
-      border-bottom-color: #0010ff;
-      background-color: none;
-      padding-bottom: 0px;
         //background: black;
         //text-decoration: line-through;
 
