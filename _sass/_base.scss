@@ -749,6 +749,47 @@ font-family: 'Lekton', sans-serif;
 }
 }
 
+.with-full-bg-3 .introduction {
+
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 23px;
+  color: black;
+  text-align: center;
+  text-transform: none;
+  text-shadow: none;
+  text-decoration: none;
+  padding-top: 70px;
+  padding-bottom: 0px;
+  padding-right: 120px;
+  padding-left: 120px;
+  text-transform: none;
+
+}
+
+@include media-query($on-palm) {
+.with-full-bg-3 .introduction {
+
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: black;
+  text-align: center;
+  text-transform: none;
+  text-shadow: none;
+  text-decoration: none;
+  line-height: 1.6;
+  padding-top: 50px;
+  padding-bottom: 0px;
+  padding-right: 20px;
+  padding-left: 20px;
+  text-transform: none;
+
+}
+}
+
+
+
 .with-full-bg-3 .home-project-credits {
 
   font-family: 'Poppins', sans-serif;
