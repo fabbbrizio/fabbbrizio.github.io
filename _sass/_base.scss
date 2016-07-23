@@ -765,9 +765,6 @@ font-family: 'Lekton', sans-serif;
   padding-left: 230px;
   text-transform: none;
 
-  background-color: #f1f1f1;
-  padding: 1px 4px;
-
 }
 
 @include media-query($on-palm) {
@@ -787,10 +784,6 @@ font-family: 'Lekton', sans-serif;
   padding-right: 20px;
   padding-left: 20px;
   text-transform: none;
-
-  background-color: #f1f1f1;
-  padding: 1px 4px;
-
 }
 }
 
