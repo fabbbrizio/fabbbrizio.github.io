@@ -1553,9 +1553,10 @@ a {
   color: black;
   text-decoration: none;
   border-bottom-style: solid;
-  border-bottom-width: 3px;
+  border-bottom-width: 2px;
   border-bottom-color: black;
   background-color: none;
+  padding-bottom: 0px;
 
     //text-transform: uppercase;
     //text-decoration: underline;
@@ -1570,9 +1571,12 @@ color: black, darken (25%);
     &:hover {
 
         color: #0010ff;
+        text-decoration: none;
+        border-bottom-style: solid;
+        border-bottom-width: 2px;
+        border-bottom-color: #0010ff;
         background-color: none;
-        border-bottom-style: none;
-        border-bottom-color: none;
+        padding-bottom: 0px;
         //background: black;
         //text-decoration: line-through;
 
@@ -1585,9 +1589,10 @@ a {
     color: black;
     text-decoration: none;
     border-bottom-style: solid;
-    border-bottom-width: 3px;
+    border-bottom-width: 2px;
     border-bottom-color: black;
     background-color: none;
+    padding-bottom: 0px;
 
     //text-transform: uppercase;
     //text-decoration: underline;
@@ -1601,10 +1606,12 @@ color: black, darken (25%);
 
     &:hover {
 
-        color: #0010ff;
-        background-color: none;
-        border-bottom-style: none;
-        border-bottom-color: none;
+      text-decoration: none;
+      border-bottom-style: solid;
+      border-bottom-width: 2px;
+      border-bottom-color: #0010ff;
+      background-color: none;
+      padding-bottom: 0px;
         //background: black;
         //text-decoration: line-through;
 
