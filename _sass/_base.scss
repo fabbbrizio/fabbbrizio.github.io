@@ -415,24 +415,24 @@ color:white;
 
 
 .with-full-bg-3 .info {
-  font-family: 'Lekton', sans-serif;
-  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
 font-size: 16px;
 color: black;
 text-align: center;
-text-transform: none;
+text-transform: uppercase;
 line-height: 20px;
 //background-color: #ff7574;
 margin-top: 20px
 }
 
 .with-full-bg-3 .info a{
-font-family: 'Lekton', sans-serif;
-font-weight: 500;
+font-family: 'Poppins', sans-serif;
+font-weight: 700;
 font-size: 16px;
 color: black;
 text-align: center;
-text-transform: none;
+text-transform: uppercase;
 //line-height: 20px;
 //background-color: #ff7574;
 margin-top: 20px
@@ -441,12 +441,12 @@ margin-top: 20px
 
 @include media-query($on-palm) {
   .with-full-bg-3 .info {
-  font-family: 'Lekton', sans-serif;
-  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
   font-size: 16px;
   color: black;
   text-align: center;
-  text-transform: none;
+  text-transform: uppercase;
   line-height: 10px;
   //background-color: #ff7574;
   margin-top: 20px
