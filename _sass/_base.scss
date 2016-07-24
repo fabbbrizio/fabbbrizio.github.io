@@ -436,6 +436,13 @@ text-transform: uppercase;
 //line-height: 20px;
 //background-color: #ff7574;
 margin-top: 20px
+}
+&:hover {
+
+    //color: #ff7574;
+    color: #0010ff;
+    background-color: transparent;
+    //-webkit-filter: blur(2px);
 
 }
 
