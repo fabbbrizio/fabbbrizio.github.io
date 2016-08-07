@@ -681,7 +681,16 @@ color:white;
  */
 
 
+ .page-content-beta {
+     color: lime;
+     padding: $spacing-unit 0;
+     position: relative;
+     background-color: transparent;
+     bottom: 0;
+     left: 10px;
+     width: 100%;
 
+ }
 
  .page-content-beta-col-wrapper {
 
