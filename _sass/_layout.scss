@@ -687,7 +687,7 @@ color:white;
 
      font-size: 14px;
      line-height: 1.4;
-     color: #ECECEC;
+     color: lime;
      margin-left: -$spacing-unit / 2;
      @extend %clearfix;
  }
@@ -699,13 +699,13 @@ color:white;
  }
 
  .page-content-beta-col-1 {
-     width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-     width:         calc(35% - (#{$spacing-unit} / 2));
+     width: -webkit-calc(49% - (#{$spacing-unit} / 2));
+     width:         calc(49% - (#{$spacing-unit} / 2));
  }
 
  .page-content-beta-col-2 {
-     width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-     width:         calc(20% - (#{$spacing-unit} / 2));
+     width: -webkit-calc(49% - (#{$spacing-unit} / 2));
+     width:         calc(49% - (#{$spacing-unit} / 2));
  }
 
 
@@ -736,7 +736,7 @@ color:white;
 
 
 
- 
+
 
 .page-content {
     //padding: $spacing-unit 0 $spacing-unit * 5 0;
