@@ -89,8 +89,8 @@ dl, dd, ol, ul, figure {
  @include media-query($on-palm) {
    body.with-full-bg-5 {
 
-   font-size: 21px;
-   line-height: 50px;
+   font-size: 19px;
+   line-height:1.6;
    margin-top: 0%;
    text-align: left;
    color: #010712;
