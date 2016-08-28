@@ -104,11 +104,11 @@ dl, dd, ol, ul, figure {
      text-shadow: none;
    text-decoration: underline;
    border-bottom: 1px;
-   color:#010712;
+   color:#4539e4;
 
    &:hover {
 
-     color: blue;
+     color: #1200ff;
        border-bottom: none;
      text-decoration: none;
      text-shadow: none;
@@ -121,14 +121,14 @@ dl, dd, ol, ul, figure {
        text-shadow: none;
      text-decoration: underline;
      border-bottom: 1px;
-     color:#010712;
+     color:#4539e4;
 
      &:hover {
 
          border-bottom: none;
        text-decoration: none;
        text-shadow: none;
-       color:blue;
+       color: #1200ff;
 
      }
      }
@@ -137,7 +137,8 @@ dl, dd, ol, ul, figure {
  .with-full-bg-5 .home-links {
 
  font-size: 19px;
- color:rgba(0, 39, 255, 0.5);
+ color:#4539e4;
+ //color:rgba(0, 39, 255, 0.5);
  text-transform: none;
  text-shadow: none;
  text-decoration: none;
@@ -149,7 +150,7 @@ dl, dd, ol, ul, figure {
  @include media-query($on-palm) {
  .with-full-bg-5 .home-links {
    font-size: 16px;
-   color: black;
+   color: #4539e4;
    text-transform: none;
    text-shadow: none;
    text-decoration: none;
