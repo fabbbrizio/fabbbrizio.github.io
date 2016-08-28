@@ -68,11 +68,9 @@ dl, dd, ol, ul, figure {
  */
 
 
-
-
  body.with-full-bg-5 {
 
-
+   font-family: sans-serif;
    color: black;
    font-size: 70px;
    margin-top: 80px;
@@ -104,11 +102,11 @@ dl, dd, ol, ul, figure {
      text-shadow: none;
    text-decoration: underline;
    border-bottom: 1px;
-   color:white;
+   color:black;
 
    &:hover {
 
-     color: white;
+     color: blue;
        border-bottom: none;
      text-decoration: none;
      text-shadow: none;
@@ -121,14 +119,14 @@ dl, dd, ol, ul, figure {
        text-shadow: none;
      text-decoration: underline;
      border-bottom: 1px;
-     color:white;
+     color:black;
 
      &:hover {
 
          border-bottom: none;
        text-decoration: none;
        text-shadow: none;
-       color:white;
+       color:blue;
 
      }
      }
@@ -137,7 +135,7 @@ dl, dd, ol, ul, figure {
  .with-full-bg-5 .home-links {
 
  font-size: 21px;
- color: white;
+ color: black;
  text-transform: none;
  text-shadow: none;
  text-decoration: none;
@@ -149,7 +147,7 @@ dl, dd, ol, ul, figure {
  @include media-query($on-palm) {
  .with-full-bg-5 .home-links {
    font-size: 20px;
-   color: white;
+   color: black;
    text-transform: none;
    text-shadow: none;
    text-decoration: none;
@@ -162,7 +160,7 @@ dl, dd, ol, ul, figure {
  .with-full-bg-5 .home-links a {
 
    text-shadow: none;
- color: white;
+ color: black;
  text-decoration: none;
  text-transform: none;
 
@@ -181,7 +179,7 @@ dl, dd, ol, ul, figure {
    .with-full-bg-5 .home-links a {
 
      text-shadow: none;
-   color: white;
+   color: black;
    text-decoration: none;
    text-transform: none;
 
@@ -191,10 +189,17 @@ dl, dd, ol, ul, figure {
      text-decoration: underline;
      text-shadow: none;
      text-transform: none;
-     color:white;
+     color:black;
    }
    }
  }
+
+
+
+
+
+
+
 
 
 
