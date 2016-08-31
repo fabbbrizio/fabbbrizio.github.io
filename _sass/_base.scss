@@ -74,7 +74,7 @@ dl, dd, ol, ul, figure {
    font-family: 'Work Sans', sans-serif;
    font-weight: 300;
    color: #010712;
-   font-size: 19px;
+   font-size: 39px;
    margin-top: 80px;
    line-height:1.6;
    text-transform: none;
@@ -89,7 +89,7 @@ dl, dd, ol, ul, figure {
  @include media-query($on-palm) {
    body.with-full-bg-5 {
 
-   font-size: 19px;
+   font-size: 29px;
    line-height:1.6;
    margin-top: 0%;
    text-align: left;
