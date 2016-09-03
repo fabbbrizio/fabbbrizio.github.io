@@ -98,6 +98,32 @@ dl, dd, ol, ul, figure {
  }
  }
 
+  .with-full-bg-5 .text-b {
+
+   font-family: 'Work Sans', sans-serif;
+   font-weight: 300;
+   color: #010712;
+   font-size: 19px;
+   line-height:1.6;
+   text-transform: none;
+   text-align: left;
+}
+
+@include media-query($on-palm) {
+  .with-full-bg-5 .text-b {
+
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 300;
+    color: #010712;
+    font-size: 19px;
+    line-height:1.6;
+    text-transform: none;
+    text-align: left;
+
+  }
+}
+
+
 
  .with-full-bg-5 .page-content a {
 
@@ -149,7 +175,7 @@ dl, dd, ol, ul, figure {
 
  @include media-query($on-palm) {
  .with-full-bg-5 .home-links {
-   font-size: 16px;
+   font-size: 19px;
    color: #4539e4;
    text-transform: none;
    text-shadow: none;
