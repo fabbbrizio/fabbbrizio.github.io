@@ -107,6 +107,7 @@ dl, dd, ol, ul, figure {
    line-height:1.6;
    text-transform: none;
    text-align: left;
+   margin-top: 20px;
 }
 
 @include media-query($on-palm) {
