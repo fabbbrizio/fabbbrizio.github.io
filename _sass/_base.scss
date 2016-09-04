@@ -701,8 +701,8 @@ margin-top: 20px;
 
   &:hover {
 
-      //color: #ff7574;
-      color: #0010ff;
+      color: #ff7574;
+      //color: #0010ff;
 
       //-webkit-filter: blur(2px);
   }
@@ -736,8 +736,8 @@ color: #0010ff;
 
     &:hover {
 
-        //color: #ff7574;
-        color: #0010ff;
+        color: #ff7574;
+        //color: #0010ff;
 
         //-webkit-filter: blur(2px);
     }
@@ -1374,12 +1374,12 @@ text-decoration: none;
 -webkit-filter: brightness(100%);
 transition-duration: 1.3s;
 //-webkit-filter: blur(3px);
-    outline-color: #f9f9f9;
+    outline-color: #F8CD02;
     outline-width: 20px;
     outline-style: solid;
     outline-offset: -20px;
 
-    transition: all 0.2s ease-in-out;
+    transition: all 0.3s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;
     -o-transition: all 0.2s ease-in-out;
     -webkit-transition: all 0.2s ease-in-out;
