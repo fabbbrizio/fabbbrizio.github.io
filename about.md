@@ -14,7 +14,7 @@ Hello, I am Fabrizio, interaction designer and random illustrator, former
 I work across different communication disciplines; from identity design, user experience and interface design, illustration for digital and print. I live and work in Venice.
 <hr>
 
-<h2><b>Work</b></h2>
+<h2><b>Work experience</b></h2>
 
 2015 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>MM–ONE Group</b> – UI-UX Designer • Venice
 <br>
