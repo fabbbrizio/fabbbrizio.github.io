@@ -73,7 +73,8 @@ dl, dd, ol, ul, figure {
 
    font-family: 'Work Sans', sans-serif;
    font-weight: 300;
-   color: #010712;
+   //color: #010712;
+   color: #f2f3ca;
    font-size: 29px;
    margin-top: 80px;
    line-height:1.6;
@@ -93,7 +94,7 @@ dl, dd, ol, ul, figure {
    line-height:1.6;
    margin-top: 0%;
    text-align: left;
-   color: #010712;
+   color: #f2f3ca;
 
  }
  }
@@ -264,12 +265,6 @@ body {
  //background-color: #ECECEC;
 background-color: #ECECEC;
 }
-}
-
-p
-{
-  margin: 0;
-  padding-bottom: 0.8em;
 }
 
 .presentation {
