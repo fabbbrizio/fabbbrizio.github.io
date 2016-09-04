@@ -586,12 +586,12 @@ color:white;
 
 
 .with-full-bg-3 .info {
-  font-family: 'Poppins', sans-serif;
-  font-weight: 500;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 400;
 font-size: 14px;
 color: black;
 text-align: center;
-text-transform: uppercase;
+text-transform: none;
 line-height: 20px;
 //background-color: #ff7574;
 margin-top: 20px;
@@ -600,12 +600,12 @@ margin-top: 20px;
 
 
 .with-full-bg-3 .info a{
-font-family: 'Poppins', sans-serif;
-font-weight: 500;
+font-family: 'Work Sans', sans-serif;
+font-weight: 400;
 font-size: 14px;
 color: black;
 text-align: center;
-text-transform: uppercase;
+text-transform: none;
 //line-height: 20px;
 //background-color: #ff7574;
 margin-top: 20px;
@@ -623,12 +623,12 @@ margin-top: 20px;
 
 @include media-query($on-palm) {
   .with-full-bg-3 .info {
-  font-family: 'Poppins', sans-serif;
-  font-weight: 500;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 400;
   font-size: 14px;
   color: black;
   text-align: center;
-  text-transform: uppercase;
+  text-transform: none;
   line-height: 10px;
   //background-color: #ff7574;
   margin-top: 20px;
@@ -638,8 +638,8 @@ margin-top: 20px;
 
 @include media-query($on-palm) {
   .with-full-bg-3 .info a{
-    font-family: 'Poppins', sans-serif;
-    font-weight: 500;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
   font-size: 14px;
   color: #171717;
   text-align: center;
