@@ -584,6 +584,29 @@ color:white;
         }
     }
 
+    .with-full-bg-3 .bg3 {
+
+        //background-color: #af9928;
+        //background-color:#e0e0e0;
+        background-color: #f8cd02;
+        width: 100%;
+        margin-top: 0px;
+        margin-bottom: 0px;
+      }
+
+      @include media-query($on-palm) {
+
+        .with-full-bg-3 .bg3 {
+            //background-color: #af9928;
+            //background-color:#e0e0e0;
+            background-color: #f8cd02;
+            width: 100%;
+            margin-top: 0px;
+            margin-bottom: 0px;
+
+          }
+      }
+
 
 .with-full-bg-3 .info {
   font-family: 'Work Sans', sans-serif;
@@ -1060,7 +1083,7 @@ font-family: 'Lekton', sans-serif;
   font-weight: 100;
 
   padding-top: 0px;
-  padding-bottom: 30px;
+  padding-bottom: 10px;
   padding-right: 250px;
   padding-left: 250px;
   text-transform: none;
