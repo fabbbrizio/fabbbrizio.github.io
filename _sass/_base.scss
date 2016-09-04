@@ -1009,14 +1009,14 @@ font-family: 'Lekton', sans-serif;
 
 .with-full-bg-3 .home-project-about {
 
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Work Sans', sans-serif;
   font-size: 23px;
   color: #171717;
   text-align: left;
   text-transform: none;
   text-shadow: none;
   text-decoration: none;
-  font-weight: 500;
+  font-weight: 400;
 
   padding-top: 0px;
   padding-bottom: 50px;
@@ -1029,14 +1029,14 @@ font-family: 'Lekton', sans-serif;
 @include media-query($on-palm) {
 .with-full-bg-3 .home-project-about {
 
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Work Sans', sans-serif;
   font-size: 23px;
   color: #171717;
   text-align: left;
   text-transform: none;
   text-shadow: none;
   text-decoration: none;
-  font-weight: 500;
+  font-weight: 400;
   line-height: 1.6;
   padding-top: 2px;
   padding-top: 10px;
