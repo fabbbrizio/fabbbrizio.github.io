@@ -1418,14 +1418,14 @@ text-decoration: none;
 &:hover {
 
 -webkit-filter: brightness(100%);
-transition-duration: 1.3s;
+transition-duration: 1.2s;
 //-webkit-filter: blur(3px);
-    outline-color: #F8CD02;
+    outline-color: #0010FF;
     outline-width: 20px;
     outline-style: solid;
     outline-offset: -20px;
 
-    transition: all 0.3s ease-in-out;
+    transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;
     -o-transition: all 0.2s ease-in-out;
     -webkit-transition: all 0.2s ease-in-out;
