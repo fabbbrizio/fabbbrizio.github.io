@@ -1444,6 +1444,30 @@ transition-duration: 1.2s;
 }
 }
 
+.with-full-bg-3.1 img {
+  -webkit-filter: brightness(95%);
+  transition-duration: 1.3s;
+  margin-top: 0px;
+  margin-bottom: 0px;
+
+
+&:hover {
+
+-webkit-filter: brightness(100%);
+transition-duration: 1.2s;
+}
+}
+
+@include media-query($on-palm) {
+.with-full-bg-3.1 img {
+  -webkit-filter: brightness(100%);
+  transition-duration: 1.3s;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+}
+
+
 
 body.with-full-bg-2 {
 
