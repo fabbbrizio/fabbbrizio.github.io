@@ -1444,10 +1444,10 @@ transition-duration: 1.2s;
 }
 }
 
-.with-full-bg-3.1 img {
+.with-full-bg-3 .img1 {
   -webkit-filter: brightness(95%);
   transition-duration: 1.3s;
-  margin-top: 0px;
+  margin-top: -60px;
   margin-bottom: 0px;
 
 
@@ -1459,7 +1459,7 @@ transition-duration: 1.2s;
 }
 
 @include media-query($on-palm) {
-.with-full-bg-3.1 img {
+.with-full-bg-3 .img1 {
   -webkit-filter: brightness(100%);
   transition-duration: 1.3s;
   margin-top: 0px;
