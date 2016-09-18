@@ -1449,7 +1449,7 @@ transition-duration: 1.2s;
 
 .with-full-bg-3 .img-project-bottom img{
   //-webkit-filter: brightness(100%);
-  opacity: 1;
+  opacity: 1.0;
   transition-duration: 1.3s;
   margin-top: 0px;
   margin-bottom: 10px;
@@ -1457,7 +1457,7 @@ transition-duration: 1.2s;
 
 &:hover {
 
-opacity: .5;
+opacity: 0.5;
 //-webkit-filter: brightness(80%);
 transition-duration: 1.2s;
 //-webkit-filter: blur(3px);
