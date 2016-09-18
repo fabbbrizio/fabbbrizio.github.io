@@ -1447,6 +1447,35 @@ transition-duration: 1.2s;
 }
 }
 
+.with-full-bg-3 .img-project-bottom img{
+  //-webkit-filter: brightness(100%);
+  opacity: 1;
+  transition-duration: 1.3s;
+  margin-top: 0px;
+  margin-bottom: 10px;
+
+
+&:hover {
+
+opacity: .5;
+//-webkit-filter: brightness(80%);
+transition-duration: 1.2s;
+//-webkit-filter: blur(3px);
+/*
+    outline-color: #0010FF;
+    outline-width: 20px;
+    outline-style: solid;
+    outline-offset: -20px;
+
+    transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    */
+
+}
+}
+
 .with-full-bg-3 .img1 {
   -webkit-filter: brightness(95%);
   transition-duration: 1.3s;
