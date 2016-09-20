@@ -1903,9 +1903,40 @@ h2 {
  */
 a {
 
+  color: #000fff;
+  //text-decoration: underline;
+  //border-bottom-style: solid;
+  //border-bottom-width: 2px;
+  //border-bottom-color: black;
+  background-color: none;
+  //padding-bottom: 0px;
+
+    //text-transform: uppercase;
+    //text-decoration: underline;
+
+
+
+    &:visited {
+        //color: darken($brand-color, 25%);
+color: #000fff, darken (25%);
+    }
+
+    &:hover {
+
+        color: #000777;
+        text-decoration: none;
+        //background: black;
+        //text-decoration: line-through;
+
+    }
+}
+
+
+.project a {
+
   //color: #000fff;
   color: white;
-  text-decoration: underline;
+  //text-decoration: underline;
   border-bottom-style: solid;
   border-bottom-width: 2px;
   //border-bottom-color: black;
@@ -1931,6 +1962,8 @@ color: #000fff, darken (25%);
 
     }
 }
+
+
 
 @include media-query($on-palm) {
 a {
