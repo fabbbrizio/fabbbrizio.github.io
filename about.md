@@ -42,33 +42,33 @@ I work across different communication disciplines; from identity design, user ex
 
 <h2><b>Education</b></h2>
 
-2011 – 2014 &nbsp; <b>IUAV</b>, MA in Visual and Multimedia Communications • Venice
+2011 – 2014 <b>IUAV</b>, MA in Visual and Multimedia Communications • Venice
 <br>
 <br>
-2011 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>School of Arts & Crafts</b>, Web Design certificate • Rome
+2011 <b>School of Arts & Crafts</b>, Web Design certificate • Rome
 <br>
 <br>
-2008 – 2011 &nbsp; <b>Roma3 University</b>, BA in Communications studies • Rome
+2008 – 2011 <b>Roma3 University</b>, BA in Communications studies • Rome
 <hr>
 
 <h2><b>Workshop</b></h2>
 
-2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Digital Craftmanship</b> > Fablab Venice + Confartigianato
+2015 <b>Digital Craftmanship</b> > Fablab Venice + Confartigianato
 <br>
 <br>
-2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>X – A variable hunts for identity</b> > FF3300
+2014 <b>X – A variable hunts for identity</b> > FF3300
 <br>
 <br>
-2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Interaction Design workshop</b> – Durrell Bishop
+2014 <b>Interaction Design workshop</b> – Durrell Bishop
 <br>
 <br>
-2013 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Physical Computing</b> – Giorgio Olivero > TODO
+2013 <b>Physical Computing</b> – Giorgio Olivero > TODO
 <br>
 <br>
-2013 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Interface design</b> – Susanne Stage and Stanley Wood > Spotify
+2013 <b>Interface design</b> – Susanne Stage and Stanley Wood > Spotify
 <br>
 <br>
-2011 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Interactive Data Visualization</b> – Till Nagel
+2011 <b>Interactive Data Visualization</b> – Till Nagel
 <br>
 <br>
 
