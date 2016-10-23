@@ -16,28 +16,28 @@ I work across different communication disciplines; from identity design, user ex
 
 <h2><b>Work experience</b></h2>
 
-2015 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>MM–ONE Group</b> – UI-UX Designer • Venice
+2015 – 2016 <b>MM–ONE Group</b> – UI-UX Designer • Venice
 <br>
 <br>
-2014 - 2015 &nbsp; <b>Iperstudio</b> – Former member, Interaction Designer • Venice
+2014 - 2015 <b>Iperstudio</b> – Former member, Interaction Designer • Venice
 <br>
 <br>
-2014 - 2015 &nbsp; <b>Materiaterza</b> – Graphic Designer • Venice
+2014 - 2015 <b>Materiaterza</b> – Graphic Designer • Venice
 <br>
 <br>
-2014 - 2015 &nbsp; <b>Confartigianato</b> – Freelance Designer • Venice
+2014 - 2015 <b>Confartigianato</b> – Freelance Designer • Venice
 <br>
 <br>
-2013 – 2014 &nbsp; <b>Unops–Ideass</b> – Research collaborator • FAO, Rome
+2013 – 2014 <b>Unops–Ideass</b> – Research collaborator • FAO, Rome
 <br>
 <br>
-2011 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Re:Common</b> – Freelance Designer • Remote
+2011 <b>Service Civil International</b> – Campaigner • Italy, India
 <br>
 <br>
-2011 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Service Civil International</b> – Campaigner • Italy, India
+2011 – currently <b>Freelance activity</b>
 <br>
 <br>
-2011 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Superstudio Agency</b> – Intern, Designer • Rome
+2011 <b>Superstudio Agency</b> – Intern, Designer • Rome
 <hr>
 
 <h2><b>Education</b></h2>
