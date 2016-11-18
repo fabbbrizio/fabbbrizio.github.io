@@ -1083,7 +1083,7 @@ font-family: 'Lekton', sans-serif;
 }
 }
 
-@include media-query(min-width: 1400px) {
+@media screen and (min-width: 1400px) {
 .with-full-bg-3 .home-project-about {
 
   font-family: 'Work Sans', sans-serif;
