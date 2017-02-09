@@ -312,8 +312,8 @@ p.big {
 
 hr {
     border: 0;
-    color: black;
-    //color: #131313;
+    //color: black;
+    color: #131313;
     //background-color: black;
     //height: 1px;
     //border-bottom: 2px dashed;
@@ -326,8 +326,8 @@ hr {
 @include media-query($on-palm) {
 hr {
     border: 0;
-    color: black;
-    //color: #131313;
+    //color: black;
+    color: #131313;
     //background-color: black;
     //height: 1px;
     border-bottom: 1px inset;
