@@ -189,7 +189,7 @@
         font-family: 'Work Sans', sans-serif;
         font-weight: 400;
         text-transform: none;
-        color: #f8f8ff;
+        color: #131313;
         background-color: transparent;
         font-size: 16px;
         padding: 0px 5px;
@@ -204,8 +204,8 @@
 
         &:hover {
 
-            //color: #ff7574;
-            color: #cdd0ff;
+            //color: #cdd0ff;
+            color: #4539e4;
             background-color: transparent;
             //border-bottom: 0.2em solid #ff7574;
             transition-duration: 0.5s;
@@ -213,8 +213,8 @@
 
         &.current {
 
-          //color: #ff7574;
-          color: #2fffa7;
+          //color: #2fffa7;
+          color: #4539e4;
           background-color: transparent;
           border-bottom: none;
         }
@@ -282,7 +282,7 @@
   @include media-query($on-palm) {
 
     .page-link {
-        color: #f8f8ff;
+        color: #131313;
         font-family: 'Work Sans', sans-serif;
         font-weight: 400;
         background-color: transparent;
@@ -298,7 +298,8 @@
 
         &:hover {
 
-            color: #2fffa7;
+            //color: #2fffa7;
+            color: #4539e4;
             background-color: transparent;
             //border-bottom: 0.1em solid #4539e4;
             transition-duration: 0.5s;
@@ -306,7 +307,8 @@
 
         &.current {
 
-          color: #2fffa7;
+          //color: #2fffa7;
+          color: #4539e4;
           background-color: transparent;
           border-bottom: none;
         }
