@@ -72,12 +72,14 @@
 
         &,
         &:visited {
-          color: #f8f8ff;
+          //color: #f8f8ff;
+          color: #131313;
         }
 
         &:hover {
 
-            color: #cdd0ff;
+            //color: #cdd0ff;
+            color: #4539e4;
             background-color: transparent;
             //-webkit-filter: blur(2px);
         }
@@ -128,7 +130,8 @@
   @include media-query($on-palm) {
 .site-title {
 
-    color: #f8f8ff;
+    //color: #f8f8ff;
+    color: #131313;
     font-size: 35px;
     font-weight: 700;
     line-height: 77px;
@@ -144,12 +147,14 @@
 
     &,
     &:visited {
-      color: #f8f8ff;
+      //color: #f8f8ff;
+      color: #131313;
     }
 
     &:hover {
 
-        color: #cdd0ff;
+        //color: #cdd0ff;
+        color: #4539e4;
         background-color: transparent;
 
     }
