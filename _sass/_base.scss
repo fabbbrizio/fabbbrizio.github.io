@@ -335,35 +335,6 @@ hr {
 }
 }
 
-/*
-@include media-query($on-palm) {
-.with-full-bg-3 .site-header{
-
-    width: 100%;
-    color:white;
-    background-color: red;
-    position: fixed;
-}
-}
-
-*/
-
-
-/*
-
-.with-full-bg-3 .site-title a{
-
-color: white;
-
-&:hover {
-
-    color: black;
-    transition-duration: 1.3s;
-}
-
-}
-
-*/
 
 @include media-query($on-palm) {
 .with-full-bg-3 .home-project-title-mobile{
@@ -488,56 +459,6 @@ body.with-full-bg-3 {
 }
 }
 
-
-
-/*
-
-.with-full-bg-3 .page-content {
-
-padding: 00px 0px 20px 0px;
-
-}
-
-.with-full-bg-3 .page-content a {
-
-  text-shadow: none;
-text-decoration: none;
-//border-bottom: 1px;
-color:white;
-
-&:hover {
-
-  color: white;
-    border-bottom: none;
-  text-decoration: none;
-  text-shadow: 2px 2px #20188a;
-
-}
-}
-
-
-@include media-query($on-palm) {
-.with-full-bg-3 .page-content a {
-
-    text-shadow: none;
-  text-decoration: none;
-  border-bottom: 1px;
-  color:white;
-
-  &:hover {
-
-
-      border-bottom: none;
-    text-decoration: none;
-
-    color:white;
-    text-shadow: 2px 2px #20188a;
-
-  }
-  }
-}
-
-*/
 
 .with-full-bg-3 .bg1 {
 
@@ -1188,8 +1109,6 @@ font-family: 'Lekton', sans-serif;
 }
 
 
-
-
 .with-full-bg-3 .home-project-about-down-arrow {
 
   font-family: 'Work Sans', sans-serif;
@@ -1304,47 +1223,6 @@ text-transform: none;
 }
 }
 
-/*
-
-.with-full-bg-3 .home-links a {
-
-text-shadow: none;
-color: white;
-text-decoration: underline;
-text-transform: none;
-
-&:hover {
-
-border-bottom: none;
-color: black;
-text-decoration: none;
-text-shadow: none;
-text-transform: none;
-
-}
-}
-
-@include media-query($on-palm) {
-
-.with-full-bg-3 .home-links a {
-
-  text-shadow: none;
-color: white;
-text-decoration: none;
-text-transform: none;
-
-&:hover {
-
-    border-bottom: none;
-  text-decoration: underline;
-  text-shadow: none;
-  text-transform: none;
-  color:white;
-}
-}
-}
-
-*/
 
 @include media-query($on-palm) {
   body.with-full-bg-3 {
@@ -1479,7 +1357,7 @@ text-decoration: none;
 
 
 .with-full-bg-3 .img-home img{
-  -webkit-filter: brightness(100%);
+  -webkit-filter: brightness(97%);
   transition-duration: 1.3s;
   margin-top: 0px;
   margin-bottom: 10px;
@@ -1489,18 +1367,6 @@ text-decoration: none;
 
 -webkit-filter: brightness(100%);
 transition-duration: 1.2s;
-//-webkit-filter: blur(3px);
-/*
-    outline-color: #0010FF;
-    outline-width: 20px;
-    outline-style: solid;
-    outline-offset: -20px;
-
-    transition: all 0.2s ease-in-out;
-    -moz-transition: all 0.2s ease-in-out;
-    -o-transition: all 0.2s ease-in-out;
-    -webkit-transition: all 0.2s ease-in-out;
-    */
 
 }
 }
@@ -1550,48 +1416,6 @@ transition-duration: 1.2s;
   margin-bottom: 10px;
 }
 }
-
-
-
-body.with-full-bg-2 {
-
-  //background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');
-  //background-image: url('/images/stellone.gif');
-  //background-image: url('/images/madonna.png');
-  //background-image: url('/images/goya.png');
-  //color: #14141C;
-
-  color: #4539e4;
-  font-size: 70px;
-  margin-top: 80px;
-  //background-size: cover;
-    //text-shadow: 2px 2px 80px black;
-   //text-shadow: 0px 0px 8px #000;
-/*
-  background-size: cover;
-
-  background: -webkit-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(rgb(160, 167, 163)), color-stop(0.5, rgb(190, 172, 181)), to(rgb(182, 195, 207)));
-  background: -moz-linear-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(rgb(160, 167, 163)), color-stop(0.5, rgb(190, 172, 181)), to(rgb(182, 195, 207)));
-  background: -ms-linear-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(rgb(160, 167, 163)), color-stop(0.5, rgb(190, 172, 181)), to(rgb(182, 195, 207)));
-  background: -o-linear-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(rgb(160, 167, 163)), color-stop(0.5, rgb(190, 172, 181)), to(rgb(182, 195, 207)));
-  background: linear-gradient(radial, 50% 50%, 750, 50% 50%, 300, from(rgb(160, 167, 163)), color-stop(0.5, rgb(190, 172, 181)), to(rgb(182, 195, 207)));
-
-  background-position-x: initial;
-background-position-y: initial;
-background-size: initial;
-background-repeat-x: initial;
-background-repeat-y: initial;
-background-attachment: initial;
-background-origin: initial;
-background-clip: initial;
-background-color: initial;
-
-*/
-  background-repeat: no-repeat;
-  line-height:1.4;
-
-}
-
 
 @include media-query($on-palm) {
   body.with-full-bg {
@@ -1729,72 +1553,6 @@ text-transform: none;
   }
   }
 }
-
-
-
-
-
-/*
-  body. {
-
-    background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-*/
-
-/*
-    body.with-full-bg-2 {
-  -webkit-animation: background 50s cubic-bezier(0,0,1,1) infinite;
-animation: background 50s cubic-bezier(0,0,1,1) infinite;
-}
-
-@-webkit-keyframes background {
-0% { background-color: #333745; }
-33% { background-color: #DB9E36; }
-67% { background-color: #EA2E49; }
-100% { background-color: #2E0927; }
-}
-
-@keyframes background {
-0% { background-color: #333745; }
-33% { background-color: #DB9E36; }
-67% { background-color: #EA2E49; }
-100% { background-color: #2E0927; }
-}
-*/
-
-/*
-@include media-query($on-palm) {
-  body.with-full-bg-2 {
-
-
-
-    background-image:none;
-    -webkit-animation: background 50s cubic-bezier(0,0,1,1) infinite;
-  animation: background 50s cubic-bezier(0,0,1,1) infinite;
-  }
-  }
-
-  @-webkit-keyframes background {
-  0% { background-color: #333745; }
-  33% { background-color: #DB9E36; }
-  67% { background-color: #EA2E49; }
-  100% { background-color: #2E0927; }
-  }
-
-  @keyframes background {
-  0% { background-color: #333745; }
-  33% { background-color: #DB9E36; }
-  67% { background-color: #EA2E49; }
-  100% { background-color: #2E0927; }
-
-  background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');
-  background-size: cover;
-  background-repeat: repeat;
-  }
-}
-*/
 
 
   @include media-query($on-palm) {
