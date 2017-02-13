@@ -1003,7 +1003,7 @@ font-family: 'Lekton', sans-serif;
 }
 }
 
-.with-full-bg-3 .next-project {
+.with-full-bg-3 .next {
 
   font-family: 'Work Sans', sans-serif;
   font-size: 25px;
@@ -1016,12 +1016,14 @@ font-family: 'Lekton', sans-serif;
   font-weight: 400;
   padding-top: 50px;
   padding-bottom: 50px;
+  padding-right: 50px;
+  padding-left: 50px;
   text-transform: none;
 
 }
 
 @include media-query($on-palm) {
-.with-full-bg-3 .next-project {
+.with-full-bg-3 .next {
 
   font-family: 'Work Sans', sans-serif;
   font-size: 16px;
@@ -1036,6 +1038,8 @@ font-family: 'Lekton', sans-serif;
   padding-top: 2px;
   padding-top: 30px;
   padding-bottom: 30px;
+  padding-right: 30px;
+  padding-left: 30px;
   text-transform: none;
 
 }
