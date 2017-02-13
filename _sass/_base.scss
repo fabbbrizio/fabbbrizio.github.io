@@ -1414,6 +1414,29 @@ transition-duration: 1.2s;
 }
 }
 
+.with-full-bg-3 .img-svg-home img{
+
+  margin-top: 50px;
+
+
+&:hover {
+
+color: blue;
+transition-duration: 1.2s;
+
+}
+}
+
+@include media-query($on-palm) {
+.with-full-bg-3 .img-svg-home img {
+
+  margin-top: 30px;
+
+}
+}
+
+
+
 .with-full-bg-3 .img-project-bottom img{
   //-webkit-filter: brightness(100%);
   opacity: 1.0;
