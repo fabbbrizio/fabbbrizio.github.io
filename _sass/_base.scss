@@ -1420,19 +1420,12 @@ transition-duration: 1.2s;
   color: black;
   margin-top: 50px;
 
-
-&:hover {
-
-color: blue;
-transition-duration: 1.2s;
-
-}
 }
 
 @include media-query($on-palm) {
 .with-full-bg-3 .img-svg-home img {
 
-  width: 90%;
+  width: 50%;
   margin-top: 30px;
 
 }
