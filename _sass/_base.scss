@@ -1003,6 +1003,45 @@ font-family: 'Lekton', sans-serif;
 }
 }
 
+.with-full-bg-3 .next-project {
+
+  font-family: 'Work Sans', sans-serif;
+  font-size: 25px;
+  //color: #f8f8ff;
+  color: #131313;
+  text-align: left;
+  text-transform: none;
+  text-shadow: none;
+  text-decoration: none;
+  font-weight: 400;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-transform: none;
+
+}
+
+@include media-query($on-palm) {
+.with-full-bg-3 .next-project {
+
+  font-family: 'Work Sans', sans-serif;
+  font-size: 16px;
+  //color: #f8f8ff;
+  color: #131313;
+  text-align: left;
+  text-transform: none;
+  text-shadow: none;
+  text-decoration: none;
+  font-weight: 400;
+  line-height: 1.6;
+  padding-top: 2px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-transform: none;
+
+}
+}
+
+
 .with-full-bg-3 .home-project-404 {
 
   font-family: 'Work Sans', sans-serif;
