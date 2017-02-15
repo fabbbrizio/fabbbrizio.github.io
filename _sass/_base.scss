@@ -310,13 +310,12 @@ p.big {
 }
 
 hr {
-    border: 0;
+    //border: 0;
     //color: black;
     color: #131313;
-    //background-color: black;
     //height: 1px;
     //border-bottom: 2px dashed;
-    border-bottom: 3px inset;
+    border-bottom: 3px;
     margin-bottom: 20px;
     margin-top: 0px;
 
@@ -324,12 +323,13 @@ hr {
 
 @include media-query($on-palm) {
 hr {
-    border: 0;
+    //border: 0;
     //color: black;
     color: #131313;
     //background-color: black;
     //height: 1px;
     border-bottom: 1px inset;
+    //border-bottom: 1px inset;
     margin-bottom: 20px;
     margin-top: 0px;
 }
