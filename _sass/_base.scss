@@ -1023,6 +1023,30 @@ font-family: 'Lekton', sans-serif;
 
 }
 
+@include media-query($on-palm) {
+.with-full-bg-3 .about-type {
+
+  font-family: 'Work Sans', sans-serif;
+  font-size: 26px;
+  //color: #f8f8ff;
+  color: #131313;
+  text-align: left;
+  text-transform: none;
+  text-shadow: none;
+  text-decoration: none;
+  font-weight: 400;
+  line-height: 1.6;
+  padding-top: 2px;
+  padding-top: 50px;
+  padding-bottom: 80px;
+  padding-right: 20px;
+  padding-left: 20px;
+  text-transform: none;
+
+}
+}
+
+
 .with-full-bg-3 .about-mini {
 
   font-family: 'Work Sans', sans-serif;
@@ -1041,6 +1065,30 @@ font-family: 'Lekton', sans-serif;
   text-transform: none;
 
 }
+
+@include media-query($on-palm) {
+.with-full-bg-3 .about-mini {
+
+  font-family: 'Work Sans', sans-serif;
+  font-size: 26px;
+  //color: #f8f8ff;
+  color: #131313;
+  text-align: left;
+  text-transform: none;
+  text-shadow: none;
+  text-decoration: none;
+  font-weight: 400;
+  line-height: 1.6;
+  padding-top: 2px;
+  padding-top: 50px;
+  padding-bottom: 80px;
+  padding-right: 20px;
+  padding-left: 20px;
+  text-transform: none;
+
+}
+}
+
 
 
 .with-full-bg-3 .next {
