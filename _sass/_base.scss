@@ -309,15 +309,30 @@ p.big {
     line-height: 3.7;
 }
 
+
 hr {
     //border: 0;
     //color: black;
-    color: #131313;
+    //color: #131313;
     //height: 1px;
     //border-bottom: 2px dashed;
-    border-bottom: 3px;
+    //border-bottom: 3px;
+    //margin-bottom: 20px;
+    //margin-top: 0px;
+
+    border-top-style: initial;
+    border-right-style: initial;
+    border-left-style: initial;
+    color: #131313;
     margin-bottom: 20px;
     margin-top: 0px;
+    border-width: 0px 0px 3px;
+    border-color: initial;
+    border-image: initial;
+    border-bottom: 3px inset;
+    border-bottom-width: 3px;
+    border-bottom-style: inset;
+    border-bottom-color: initial;
 
 }
 
