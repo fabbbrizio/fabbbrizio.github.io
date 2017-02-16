@@ -367,18 +367,29 @@ margin-left:50px;
     transition-duration: 1.3s;
 
 
-        &:hover {
+    @import "compass/css3";
 
-            //color: #cdd0ff;
-            color: #4539e4;
-
-            //-webkit-filter: blur(2px);
-        }
-    &:active {
-
-      //color: #cdd0ff;
-      color: #4539e4;
-
+    .site-title {
+      &:hover {
+    		.site-title {
+    			transform:rotate(180deg);
+    			transform-origin:50% 50%;
+    			-ms-transform:rotate(180deg);
+    			-ms-transform-origin:50% 50%;
+    			-webkit-transform:rotate(180deg);
+    			-webkit-transform-origin:50% 50%;
+    		}
+    	}
+    	.site-title {
+    		@include transition(all 0.5s ease-in-out);
+    		transform:rotate(0deg);
+    		transform-origin:50% 50%;
+    		-ms-transform:rotate(0deg);
+    		-ms-transform-origin:50% 50%;
+    		-webkit-transform:rotate(0deg);
+    		-webkit-transform-origin:50% 50%;
+    	}
+    }
 
     }
 
@@ -1582,7 +1593,8 @@ transition-duration: 1.2s;
 .with-full-bg-3 img {
   -webkit-filter: brightness(100%);
   transition-duration: 1.3s;
-  margin-top: 0px;
+  margin-top: 0px;site-title
+
   margin-bottom: 0px;
 }
 }
