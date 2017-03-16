@@ -1465,11 +1465,12 @@ text-transform: none;
 }
 }
 
-/*
+
 
 .with-full-bg-3 a {
 
-    color: white;
+  color: #4539e4;
+  border-bottom: 2px solid #4539e4;
     //letter-spacing: 15px;
     //text-decoration: underline;
     //border-bottom: solid white;
@@ -1483,19 +1484,20 @@ text-transform: none;
 transition-duration: 1s;
 
     background-color: transparent;
-    border-bottom-width: 1px;
+    //border-bottom-width: 1px;
     //text-shadow: 2px 0px black;
 
     &:hover {
 
+      color: #4539e4;
+      border-bottom: 5px solid #4539e4;
         //  -webkit-filter: blur(0px);
-        text-shadow: none;
-      color: white;
+        //text-shadow: none;
       //font-size: 55px;
-        border-bottom: none;
+        //border-bottom: none;
     //    letter-spacing: 15px;
     //     text-transform: uppercase;;
-      text-decoration: none;
+      //text-decoration: none;
     }
 }
 
