@@ -1977,19 +1977,21 @@ h2 {
 
  .hyper a{
 
+    transition-duration: 1s;
     text-shadow: none;
     text-decoration: none;
-    border-bottom: 3px solid #4539e4;
-    color: #4539e4;
+    border-bottom: 3px solid #131313;
+    //color: #4539e4;
+    color: #131313;
 
    &:hover {
 
-
-     color: #4539e4, darken (25%);
+     transition-duration: 1s;
      border-bottom: none;
      text-decoration: none;
      text-shadow: none;
-     transition-duration: 1s;
+     color: #131313;
+
    }
    }
 
@@ -1998,15 +2000,15 @@ h2 {
 
        text-shadow: none;
      //text-decoration: underline;
-     border-bottom: 3px solid #4539e4;
-     color:#4539e4;
+     border-bottom: 3px solid #131313;
+     //color:#4539e4;
+     color: #131313;
 
      &:hover {
 
          border-bottom: none;
        text-decoration: none;
        text-shadow: none;
-
 
      }
      }
