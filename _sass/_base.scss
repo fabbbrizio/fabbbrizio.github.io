@@ -1975,7 +1975,7 @@ h2 {
  */
 
 
- .hyper {
+ .hyper a{
 
     text-shadow: none;
     text-decoration: none;
@@ -1994,7 +1994,7 @@ h2 {
    }
 
    @include media-query($on-palm) {
-   .hyper {
+   .hyper a{
 
        text-shadow: none;
      //text-decoration: underline;
