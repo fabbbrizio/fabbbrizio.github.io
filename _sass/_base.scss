@@ -1547,10 +1547,10 @@ text-decoration: none;
 
 .with-full-bg-3 ::selection {
 
-  background-color: transparent;
+  background-color: #efefef;
   //color: #4539e4;
   //color: #2fffa7;
-  color: #4539e4;
+  color: #131313;
 }
 
 .with-full-bg-3 .wrapper {
@@ -2047,7 +2047,8 @@ h2 {
 
    &:hover {
 
-     background-color: #efefef;
+     //background-color: #efefef;
+     background-color: #131313;
      transition-duration: 0.5s;
      //border-bottom: 55px solid #131313;
      //text-decoration: none;
