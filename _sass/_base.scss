@@ -1978,18 +1978,18 @@ h2 {
 
  .hyper a{
 
-    font-family: Press Start 2P, Permanent Marker, sans-serif;
+    //font-family: Permanent Marker, sans-serif;
     text-shadow: none;
     text-decoration: none;
-    //border-bottom: 3px solid #131313;
+    border-bottom: 3px solid #131313;
     //color: #4539e4;
     color: #131313;
 
    &:hover {
 
-     font-family: Press Start 2P, Permanent Marker, sans-serif;
+     //font-family: Permanent Marker, sans-serif;
      transition-duration: 0.5s;
-     //border-bottom: 3px solid #4539e4;
+     border-bottom: 3px solid #4539e4;
      //text-decoration: none;
      text-shadow: none;
      color: #4539e4;
