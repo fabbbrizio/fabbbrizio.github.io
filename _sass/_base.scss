@@ -2081,18 +2081,18 @@ h2 {
 
    .hyper-random2 a{
 
-      background-color: #4539e4;
+      //background-color: #4539e4;
       text-shadow: none;
       text-decoration: none;
       //border-bottom: 3px solid #131313;
       //color: #4539e4;
-      color: #4539e4;
+      color: #131313;
 
      &:hover {
 
        transition-duration: 0.5s;
        background-color: #efefef;
-       border-bottom: 55px solid #4539e4;
+       //border-bottom: 55px solid #4539e4;
        //text-decoration: none;
        text-shadow: none;
        color: #4539e4;
