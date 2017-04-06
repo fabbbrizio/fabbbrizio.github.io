@@ -1969,9 +1969,6 @@ h2 {
   font-weight: 400;
 }
 
-.alternative-font {
-    font-family: Press Start 2P, sans-serif;
-  }
 
 /**
  * Links
@@ -1981,6 +1978,7 @@ h2 {
  .hyper a{
 
     text-shadow: none;
+    font-family: Press Start 2P, sans-serif;
     text-decoration: none;
     border-bottom: 3px solid #131313;
     //color: #4539e4;
