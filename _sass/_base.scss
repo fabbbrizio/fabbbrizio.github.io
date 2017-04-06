@@ -1970,11 +1970,6 @@ h2 {
 }
 
 
-
-.alternative-font {
-  font-family: Lekton, sans-serif;
-}
-
 /**
  * Links
  */
@@ -1982,6 +1977,7 @@ h2 {
 
  .hyper a{
 
+    font-family: Lekton, sans-serif;
     text-shadow: none;
     text-decoration: none;
     border-bottom: 3px solid #131313;
