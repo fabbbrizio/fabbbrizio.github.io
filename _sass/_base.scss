@@ -2106,12 +2106,13 @@ h2 {
    @include media-query($on-palm) {
    .hyper-random {
 
-     background-color: #efefef
+     color:#131313;
+     background-color: #efefef;
        //text-shadow: none;
      //text-decoration: underline;
      //border-bottom: 3px solid #131313;
      //color:#4539e4;
-     color: #131313;
+
 
      &:hover {
 
