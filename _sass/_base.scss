@@ -5,6 +5,7 @@
 $base-font-family: 'Lekton', sans-serif;
 $base-font-family: 'Work Sans', sans-serif;
 $base-font-family: 'Permanent Marker', sans-serif;
+$base-font-family: 'Press Start 2P', sans-serif;
 
 $base-font-size:   21px;
 $small-font-size:  $base-font-size * 0.875;
@@ -1977,7 +1978,7 @@ h2 {
 
  .hyper a{
 
-    font-family: Permanent Marker, sans-serif;
+    font-family: Press Start 2P, Permanent Marker, sans-serif;
     text-shadow: none;
     text-decoration: none;
     //border-bottom: 3px solid #131313;
@@ -1986,7 +1987,7 @@ h2 {
 
    &:hover {
 
-     font-family: Permanent Marker, sans-serif;
+     font-family: Press Start 2P, Permanent Marker, sans-serif;
      transition-duration: 0.5s;
      //border-bottom: 3px solid #4539e4;
      //text-decoration: none;
