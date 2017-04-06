@@ -2057,6 +2057,28 @@ h2 {
    }
    }
 
+
+   @include media-query($on-palm) {
+   .hyper-random {
+
+
+       text-shadow: none;
+     //text-decoration: underline;
+     border-bottom: 3px solid #131313;
+     //color:#4539e4;
+     color: #131313;
+
+     &:hover {
+
+         border-bottom: none;
+       text-decoration: none;
+       text-shadow: none;
+
+     }
+     }
+   }
+
+
    .hyper-random2 a{
 
       background-color: #4539e4;
@@ -2078,26 +2100,25 @@ h2 {
      }
      }
 
+     @include media-query($on-palm) {
+     .hyper-random2 a{
 
-   @include media-query($on-palm) {
-   .hyper-random a{
 
+         text-shadow: none;
+       //text-decoration: underline;
+       border-bottom: 3px solid #131313;
+       //color:#4539e4;
+       color: #131313;
 
-       text-shadow: none;
-     //text-decoration: underline;
-     border-bottom: 3px solid #131313;
-     //color:#4539e4;
-     color: #131313;
+       &:hover {
 
-     &:hover {
+           border-bottom: none;
+         text-decoration: none;
+         text-shadow: none;
 
-         border-bottom: none;
-       text-decoration: none;
-       text-shadow: none;
-
+       }
+       }
      }
-     }
- }
 
 
 a {
