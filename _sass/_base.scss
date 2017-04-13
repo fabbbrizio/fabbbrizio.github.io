@@ -1631,8 +1631,8 @@ text-decoration: none;
 
 
 .with-full-bg-3 .img-home img{
-  -webkit-filter: brightness(90%);
-  transition-duration: 1.3s;
+  -webkit-filter: brightness(100%);
+  transition-duration: 1.2s;
   margin-top: 0px;
   margin-bottom: 0px;
   width: 100%;
@@ -1640,8 +1640,20 @@ text-decoration: none;
 
 &:hover {
 
--webkit-filter: brightness(100%);
+  -webkit-transition: opacity 0.5s;
+  -moz-transition: opacity 0.5s;
+  transition: opacity 0.5s;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #131313;
+  opacity: 0.4;
+  transition-duration: 1.2s;
+
+/* -webkit-filter: brightness(100%);
 transition-duration: 1.2s;
+*/
 
 }
 }
