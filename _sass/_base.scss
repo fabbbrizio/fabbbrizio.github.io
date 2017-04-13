@@ -1640,6 +1640,7 @@ text-decoration: none;
 
 &:hover {
 
+/*
   -webkit-transition: opacity 0.5s;
   -moz-transition: opacity 0.5s;
   transition: opacity 0.5s;
@@ -1650,10 +1651,11 @@ text-decoration: none;
   background-color: #131313;
   opacity: 0.4;
   transition-duration: 1.2s;
-
-/* -webkit-filter: brightness(100%);
-transition-duration: 1.2s;
 */
+
+ -webkit-filter: brightness(50%);
+transition-duration: 1.2s;
+
 
 }
 }
