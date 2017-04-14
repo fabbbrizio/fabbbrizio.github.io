@@ -6,6 +6,7 @@ $base-font-family: 'Lekton', sans-serif;
 $base-font-family: 'Work Sans', sans-serif;
 $base-font-family: 'Permanent Marker', sans-serif;
 $base-font-family: 'Press Start 2P', cursive, sans-serif;
+$base-font-family:'Cotham', sans-serif;
 
 $base-font-size:   21px;
 $small-font-size:  $base-font-size * 0.875;
@@ -1073,6 +1074,25 @@ font-family: 'Lekton', sans-serif;
 .with-full-bg-3 .about-type {
 
   font-family: 'Work Sans', sans-serif;
+  font-size: 35px;
+  //color: #f8f8ff;
+  color: #131313;
+  text-align: left;
+  text-transform: none;
+  text-shadow: none;
+  text-decoration: none;
+  font-weight: 400;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-right: 110px;
+  padding-left: 110px;
+  text-transform: none;
+
+}
+
+.with-full-bg-3 .first-type {
+
+  font-family: 'Cotham', sans-serif;
   font-size: 35px;
   //color: #f8f8ff;
   color: #131313;
