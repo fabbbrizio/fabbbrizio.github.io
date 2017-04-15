@@ -1703,18 +1703,19 @@ text-decoration: none;
 
 .cf {
   position:relative;
-  height:281px;
-  width:450px;
+  //height:281px;
+  //width:450px;
+  width:100%;
   margin:0 auto;
 }
 
 .cf img {
   position:absolute;
   left:0;
-  -webkit-transition: opacity 1s ease-in-out;
-  -moz-transition: opacity 1s ease-in-out;
-  -o-transition: opacity 1s ease-in-out;
-  transition: opacity 1s ease-in-out;
+  -webkit-transition: opacity 0.5s ease-in-out;
+  -moz-transition: opacity 0.5s ease-in-out;
+  -o-transition: opacity 0.5s ease-in-out;
+  transition: opacity 0.5s ease-in-out;
 }
 
 
