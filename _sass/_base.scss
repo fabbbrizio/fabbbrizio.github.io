@@ -1718,15 +1718,14 @@ text-decoration: none;
 }
 
 
-.cf img.bottom {
-  opacity:1;
-}
+//.cf img.bottom {
+//  opacity:1; }
 
 .cf img.top:hover {
   opacity:0;
 
   .cf img.bottom {
-    opacity:0;
+    opacity:1;
   }
 
 }
