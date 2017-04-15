@@ -1717,16 +1717,16 @@ text-decoration: none;
   transition: opacity 1s ease-in-out;
 }
 
-.cf img.bottom:active {
+.cf img.bottom:hover {
+  opacity:1;
+}
+
+.cf img.bottom {
   opacity:0;
 }
 
 .cf img.top:hover {
   opacity:0;
-}
-
-.cf img.bottom:hover {
-  opacity:1;
 }
 
 
