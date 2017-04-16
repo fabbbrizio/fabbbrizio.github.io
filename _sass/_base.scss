@@ -1702,9 +1702,9 @@ text-decoration: none;
 
 
 .cf {
-  position:relative;
-  height:281px;
-  width: 200px;
+  //position:relative;
+  //height:281px;
+  //width: 200px;
   width:100%;
   margin:0 auto;
   padding-top: 70px;
@@ -1712,7 +1712,7 @@ text-decoration: none;
 }
 
 .cf img {
-  position:absolute;
+  //position:absolute;
   left:0;
   -webkit-transition: opacity 0.5s ease-in-out;
   -moz-transition: opacity 0.5s ease-in-out;
