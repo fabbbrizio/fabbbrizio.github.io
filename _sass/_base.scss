@@ -1385,6 +1385,28 @@ font-family: 'Lekton', sans-serif;
 }
 }
 
+
+@media screen and (min-width: 1400px) {
+.with-full-bg-3 .home-project-about-xy {
+
+  font-family: 'Work Sans', sans-serif;
+  font-size: 45px;
+  //color: #f8f8ff;
+  color: #131313;
+  text-align: left;
+  text-transform: none;
+  text-shadow: none;
+  text-decoration: none;
+  font-weight: 400;
+
+  padding-top: 180px;
+  padding-bottom: 170px;
+  padding-right: 250px;
+  padding-left: 100px;
+  text-transform: none;
+}
+}
+
 .with-full-bg-3 .about-text {
 
   font-family: 'Work Sans', sans-serif;
