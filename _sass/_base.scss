@@ -1389,7 +1389,7 @@ font-family: 'Lekton', sans-serif;
 .with-full-bg-3 .home-project-about {
 
   font-family: 'Work Sans', sans-serif;
-  font-size: 53px;
+  font-size: 43px;
   //color: #f8f8ff;
   color: #f5f5f5;
   text-align: left;
@@ -1406,7 +1406,7 @@ font-family: 'Lekton', sans-serif;
 }
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (min-width: 900px) {
 .with-full-bg-3 .home-project-about {
 
   font-family: 'Work Sans', sans-serif;
