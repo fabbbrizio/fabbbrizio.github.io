@@ -189,7 +189,6 @@ TEST
    text-decoration: none;
    padding-bottom: 20px;
    padding-top: 20px;
-   text-transform: none;
  }
  }
 
@@ -1607,7 +1606,6 @@ text-decoration: none;
 
 padding-bottom: 10px;
 padding-top: 10px;
-text-transform: none;
 }
 
 @include media-query($on-palm) {
@@ -1615,11 +1613,11 @@ text-transform: none;
 font-size: 20px;
 color: #171717;
 text-transform: none;
+text-decoration: none;
 text-shadow: none;
 text-decoration: none;
 padding-bottom: 10px;
 padding-top: 10px;
-text-transform: none;
 }
 }
 
