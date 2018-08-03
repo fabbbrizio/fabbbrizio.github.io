@@ -194,6 +194,32 @@ background-position: 50% 50%;
         background-color: transparent;
     }
 
+@include media-query($on-palm) {
+    .site-nav {
+
+        font-family: 'Work Sans', sans-serif;
+        display: inline;
+        font-size: 16px;
+        float: right;
+        position: 0px;
+        line-height: 0px;
+        font-weight: 400;
+        margin-right: 4px;
+        color: #f5f5f5;
+
+
+        &:visited {
+          color: #f5f5f5;
+        }
+
+        &:hover {
+
+            color: #5443ff;
+            background-color: transparent;
+        }
+}
+
+
     .menu-icon {
         display: none;
     }
