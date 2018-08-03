@@ -2422,7 +2422,7 @@ a {
 
   //color: #2fffa7;
   text-decoration: none;
-  border-bottom: 2px solid #5443ff;
+  border-bottom: 0px solid #f5f5f5;
   color: #f5f5f5;
 
   //color: #5443ff;
@@ -2446,7 +2446,7 @@ color: #5443ff, darken (25%);
     &:hover {
 
         text-decoration: none;
-        border-bottom: 2px solid #5443ff;
+        border-bottom: 0px solid #5443ff;
         color: #5443ff;
 
         //color: #f5f5f5, darken (25%);
