@@ -58,53 +58,6 @@ background-position: 50% 50%;
 }
 
 
-
-
-.title-project {
-
-color: black;
-font-size: 50px;
-font-weight: 700;
-
-}
-
-.subtitle {
-
-color: grey;
-font-size: 20px;
-font-weight: 700;
-
-}
-
-
-.img-container {
-
-  cursor: pointer;
-  overflow: hidden;
-  &:hover .img-content-hover {
-    display: block;
-  }
-}
-
-.img-content {
-  display: none;
-}
-
-.img-content-hover {
-  position: absolute;
-  z-index: 1;
-  white-space: nowrap;
-  display: none;
-  padding: 1rem;
-  background: white;
-  font-weight: 400;
-  margin-top: 1.25rem;
-  margin-left: -2rem;
-}
-
-
-
-
 .site-title {
 
     font-family: 'Lekton', sans-serif;
